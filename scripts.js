@@ -58,6 +58,32 @@ const topics = [
     "Cloud Development",
 ];
 let topic = Math.floor((Math.random() * topics.length) + 0);
+
+
+
+// Quiz
+// Course
+
+// Course
+
+// CMS
+
+// Todo List
+
+// Chess Game
+
+// LMS
+
+// CV/Resume Generator
+// Cover Letter Generator
+
+// presentation tool
+
+// portfolio website
+
+
+
+
 let projects = {
     PHP: [
         "",
