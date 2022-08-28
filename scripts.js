@@ -29,8 +29,8 @@ const topics = [
     "Vue",  
     "React",
     "Svelte",
-    "Stencil.js",
-    "Storybook.js",
+    "StencilJS",
+    "StorybookJS",
 
     "Git",
 
@@ -40,7 +40,7 @@ const topics = [
     "NPM",
     "Yarn",
 
-    "Node.js",
+    "NodeJS",
 
     "Docker",
     "Kubernetes",
@@ -59,7 +59,13 @@ const topics = [
 ];
 let topic = Math.floor((Math.random() * topics.length) + 0);
 let projects = {
-    HTML: [
+    PHP: [
+        "",
+    ],
+    Docker: [
+        "",
+    ],
+    NodeJS: [
         "",
     ],
 }
