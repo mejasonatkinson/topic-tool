@@ -59,16 +59,12 @@ const topics = [
 ];
 let topic = Math.floor((Math.random() * topics.length) + 0);
 
-
-
 // Quiz
-// Course
-
 // Course
 
 // CMS
 
-// Todo List
+// To do List
 
 // Chess Game
 
@@ -80,9 +76,6 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 // presentation tool
 
 // portfolio website
-
-
-
 
 let projects = {
     PHP: [
