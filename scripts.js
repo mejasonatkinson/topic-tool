@@ -6,7 +6,10 @@ const topics = [
 
     "CSS",
     "sass",
+
     "JavaScript",
+
+    "jQuery",
 
     "Web Components",
 
@@ -16,6 +19,8 @@ const topics = [
     "Symfony",
     "Laravel",
     "Wordpress",
+
+    "MySQL",
 
     "Python",
     "Django",
@@ -40,6 +45,8 @@ const topics = [
     "NPM",
     "Yarn",
 
+    "YAML",
+
     "NodeJS",
 
     "Docker",
@@ -56,19 +63,29 @@ const topics = [
     "OOP",
 
     "Cloud Development",
+
+    "Processing",
+    "Arduino",
+
+    "AWS",
 ];
+
 let topic = Math.floor((Math.random() * topics.length) + 0);
+
+// PHP Projects
+// https://www.youtube.com/playlist?list=PLS46nnSnLF7ob6bgt2Xtn1iqj8wBKpq-N
+// https://www.youtube.com/playlist?list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c
 
 // Quiz
 // Course
 
-// CMS
+// CMS (Content Management Systems)
 
 // To do List
 
 // Chess Game
 
-// LMS
+// LMS (Learning Management System)
 
 // CV/Resume Generator
 // Cover Letter Generator
@@ -88,4 +105,5 @@ let projects = {
         "",
     ],
 }
+
 document.getElementById('topic').innerHTML = topics[topic];
