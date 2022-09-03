@@ -21,6 +21,7 @@ const topics = [
     "Wordpress",
 
     "MySQL",
+    "MongoDB",
 
     "Python",
     "Django",
@@ -36,6 +37,10 @@ const topics = [
     "Svelte",
     "StencilJS",
     "StorybookJS",
+    
+    "Express",
+    "BunJS",
+    "Deno",
 
     "Git",
 
