@@ -68,17 +68,35 @@ const topics = [
     "OOP",
 
     "Cloud Development",
-
-    "Processing",
-    "Arduino",
-    "p5JS",
-
-    "AWS",
+    
 ];
 
 let topic = Math.floor((Math.random() * topics.length) + 0);
 
+// Topics to add:
+
+//     "Processing",
+//     "Arduino",
+//     "p5JS",
+
+//     "AWS",
+
+//     "Adobe",
+//     "Photoshop",
+
+//     "Unity",
+//     "Unreal Engine",
+
+//     "Autodesk",
+//     "Maya",
+//     "3ds Max",
+
+//     "OBS",
+
+// Project ideas:
+
 // PHP Projects
+
 // https://www.youtube.com/playlist?list=PLS46nnSnLF7ob6bgt2Xtn1iqj8wBKpq-N
 // https://www.youtube.com/playlist?list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c
 
@@ -95,23 +113,19 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 // https://happycoding.io/examples/p5js/
 // https://p5js.org/examples/
 
-// Quiz
-// Course
-
-// CMS (Content Management Systems)
-
-// To do List
-
-// Chess Game
-
-// LMS (Learning Management System)
-
-// CV/Resume Generator
-// Cover Letter Generator
-
-// presentation tool
-
-// portfolio website
+// - Quiz
+// - Course
+// - Instrument Tuner
+// - CMS (Content Management Systems)
+// - To do List
+// - Invoice Generator
+// - Chess Game
+// - LMS (Learning Management System)
+// - Job Search Tool
+// - CV/Resume Generator
+// - Cover Letter Generator
+// - presentation tool
+// - portfolio website
 
 let projects = {
     PHP: [
