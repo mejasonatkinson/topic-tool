@@ -75,6 +75,9 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // Topics to add:
 
+//     "lodash",
+//     "axios",
+
 //     "Processing",
 //     "Arduino",
 //     "p5JS",
