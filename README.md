@@ -12,7 +12,7 @@ At the moment the topics list in the tool are mostly carreer focused. and how I 
 2. Docker 03/09/22 - 10/09/22
 3. NodeJS 10/09/22 -
 4. React 17/09/22 -
-5. Processing 24/09/22 -
+5. Svelte 24/09/22 -
 
 Run `python -m http.server 8000` to start a server. 
 or use `.gitpod.yml` this should work?
