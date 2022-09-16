@@ -122,6 +122,30 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // Project ideas:
 
+// https://www.youtube.com/watch?v=n2B-FClr5rA
+
+// 5 Coding Projects (from beginner to advanced)
+
+// beginner
+
+// 2:44 Beginner Project #1 - Hello, World (seriously)
+// 3:25 Beginner Project #2 - Cooking (data types & functions)
+// 7:03 Beginner Project #3 - Tournament Simulation (OOP, data sctructures, etc.)
+
+// intermediate
+
+// 9:16 Intermediate Project - Web App w/ APILayer
+
+// advanced
+
+// 15:25 Advanced Project - Content Management System
+
+// Hobby based
+// Tatical based
+
+
+
+
 // PHP Projects
 
 // https://www.youtube.com/playlist?list=PLS46nnSnLF7ob6bgt2Xtn1iqj8wBKpq-N
