@@ -12,7 +12,7 @@ At the moment the topics list in the tool are mostly carreer focused. and how I 
 2. Docker 03/09/22 - 10/09/22
 3. NodeJS 10/09/22 - 22/09/22
 
-## BREAK
+-- BREAK --
 
 I need to spend some time reflecting on what I have done, and what I can do better before moving on.
 
