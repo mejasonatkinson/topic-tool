@@ -33,7 +33,7 @@ const topics = [
     "Xapi",
 
     "Vue",  
-    "React",
+    "ReactJS",
     "Svelte",
     "StencilJS",
     "StorybookJS",
@@ -68,7 +68,6 @@ const topics = [
     "OOP",
 
     "Cloud Development",
-    
 ];
 
 let topic = Math.floor((Math.random() * topics.length) + 0);
@@ -81,6 +80,20 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 // Processing
 // Arduino
 // p5JS
+
+// Craft CMS
+
+// Yii Framework
+// Twig
+
+// Apache
+
+// Composer
+
+// Strapi CMS
+
+// apollo/client
+// react-markdown
 
 // AWS
 
@@ -101,11 +114,16 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 // Science
 // Computer, Science
 // Learning, Science
+// Rockest, Science
 
 // History
 // Computer Science, history
 // Art, history
 // Space, history
+
+// Design
+
+// Art
 
 // Geography
 
@@ -116,5 +134,16 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // postman
 // sanity.io
+
+// PostgresQL
+// InnoDB
+// GraphQL
+
+// JSON
+
+// cURL
+
+// Pip
+
 
 document.getElementById('topic').innerHTML = topics[topic];
