@@ -8,15 +8,38 @@ Which ever topic is picked. I will focus on for the week, or set time period.
 
 At the moment the topics list in the tool are mostly carreer focused. and how I am focusing on them is mainly around completing a course on the topic BUT I fully understand the importance of creating projects; so I am in the process of trying to generate rpoject ideas. Which could also include.
 
-1. PHP 27/08/22 - 02/09/22
-2. Docker 03/09/22 - 10/09/22
-3. NodeJS 10/09/22 - 22/09/22
+1. PHP
+2. Docker
+3. Node JS 
 
 -- BREAK --
 
 I need to spend some time reflecting on what I have done, and what I can do better before moving on.
 
-4. React ##/##/22 -
-5. Svelte ##/##/22 -
+4. Craft CMS
+5. Strapi CMS
 
-Run `python -m http.server 8000` to start a server. 
+Notes from reflections, 
+
+I am bad at writing notes, I tend to write down anything I think might be important, this includes things such as: 
+
+- Long sections of code
+- Step by Step Instructions
+- Defining what something means or is
+
+The Long sections of code end up being meanless to me, as I don't understand how each piece fits together.
+
+What actions should I take?
+
+- Spend time reviewing and expanding on each part of the syntax. 
+- Practise writing the syntax, to see it working, in a different context to the example.
+- Update notes, when needed.
+- Make note, and look into topics which are only briefly mentioned.
+
+The Step by Step Instructions, when putting them into practise don't work as expected.
+
+What actions should I take?
+
+- Things change, and when they do. My notes need to be updated to reflect the changes.
+
+Defining what something means, is normally the simplest part for me. BUT it is best still to review this, to make sure that it still makes sense.
