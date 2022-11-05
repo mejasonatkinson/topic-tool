@@ -145,4 +145,14 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // Pip
 
+// PCRE
+// PDO
+// GD or ImageMagick
+// OpenSSL
+// MultibyteString
+// Reflection
+// SPL
+// Zip
+
+
 document.getElementById('topic').innerHTML = topics[topic];
