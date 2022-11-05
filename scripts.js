@@ -145,5 +145,4 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // Pip
 
-
 document.getElementById('topic').innerHTML = topics[topic];
