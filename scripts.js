@@ -74,8 +74,12 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 
 // Topics to add:
 
+// Rest Api
+
 // lodash
 // axios
+
+// npx
 
 // Processing
 // Arduino
@@ -91,6 +95,8 @@ let topic = Math.floor((Math.random() * topics.length) + 0);
 // Composer
 
 // Strapi CMS
+
+// create-react-app
 
 // apollo/client
 // react-markdown
