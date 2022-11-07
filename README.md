@@ -50,29 +50,27 @@ The Net Ninja
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
 
+
+- Next.js
 Next.js & Netlify Identity (auth) Tutorial
 Next.js & Contentful Tutorial
 Next.js Tutorial for Beginners
 
+- Svelte
 SvelteKit Tutorial (Crash Course)
 Svelte Tutorial for Beginners
 
+- JSON
 JSON Server Tutorial
 
+- Deno
 Deno WebSockets Tutorial
 Deno Jump-start Tutorial
 
-REST API Tutorials (Node, Express & Mongo) *************************
+- Mongo
+MongoDB Tutorial for Beginners
 
-
-
-
-
-
-
-
-
-
+React Tutorials
 
 Nuxt 3 Tutorial
 Pinia Crash Course
@@ -166,8 +164,7 @@ WebSockets Tutorial (Node & Socket.io Chat App)
 Vue JS 2 Tutorial
 
 Bootstrap 4 Tutorials
-MongoDB Tutorial for Beginners
-React Tutorials
+
 Webpack Tutorials for Beginners
 Styling a HTML5 Form
 Grunt JS Tutorials
