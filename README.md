@@ -111,7 +111,7 @@ Laravel 6 Tutorial for Beginners
 Mobile-First Responsive Build (with CSS Grid)
 
 Flutter & Firebase App Build
-Object Oriented PHP Tutorial
+
 Flutter Tutorial for Beginners
 HTML & CSS Crash Course Tutorial
 
@@ -119,7 +119,7 @@ PWA Tutorial for Beginners
 Firebase Hosting Tutorial
 Modern JavaScript Tutorial
 Screencasting Tutorial
-PHP Tutorial for Beginners
+
 Firebase Auth Tutorial
 Vuetify Tutorial
 Vue CLI 3 Tutorial
@@ -221,18 +221,18 @@ C Programming Tutorials
 Physics Puzzle Game Development w/ Construct 2 Playlist
 Platform Game Development w/ Construct 2 Playlist
 Game Development w/ Construct 2 Playlist
-PHP Instagram Downloader Tutorials Playlist
+
 R Programming Tutorials Playlist
 Photoshop CS6 Playlist
 After Effects CS6 Playlist
 Git Tutorials Playlist
-How to Install Apache, MySQL, and PHP
+
 How to Make Beer Playlist
 AJAX Tutorials Playlist
 Computer Networking Playlist
 Biology Lecture Playlist
 Adobe Photoshop Tutorials Playlist
-Surviving the Wilderness 2 Playlist
+
 C++ GUI with Qt Playlist
 Java Game Development with Slick Playlist
 How to Build a Go Kart Playlist
@@ -241,7 +241,7 @@ Buckys Vlog
 Project Lisa Official Playlist
 Ruby Programming Tutorials Playlist
 MySQL Database Tutorial
-PHP Stock Market Analyzer Playlist
+
 HTML5 Tutorials Playlist
 Chemistry Tutorials Playlist
 Adobe Premiere Pro Tutorials Playlist
@@ -255,28 +255,25 @@ Geometry Playlist
 C# Beginners Tutorials Playlist
 C++ Programming Tutorials Playlist
 Unreal Development Kit UDK Tutorials Playlist
-PHP Tutorials Playlist
+
 JavaScript Tutorials Playlist
 Basic Math Tutorials Playlist
 Algebra Tutorials Playlist
 Advanced UDK Tutorials
 Android Application Development Tutorials
-Beginner Backgammon Tutorials
+
 Cocos2D iPhone Tutorials
 iPhone Development Tutorials
 Objective C Programming Tutorials
-Battlefield: Bad Company 2 Online Multiplayer Gameplay
-Battlefield Bad Company 2 Gameplay Videos
+
 Dreamweaver CS4 Tutorials
 Java (Intermediate) Tutorials
-Call of Duty: Modern Warfare 2 - Gameplay and Commentary
-Mass Effect 2 Walkthroughs (HD)
-Assassins Creed 2 Walkthroughs
+
 iPod / iPhone App Reviews
 Java Game Development Tutorials
-PHP Programming Tutorials
+
 3Ds Max 2010 Tutorials
-Surviving the Wilderness
+
 Computer Game Development Tutorial
 Java (Beginner) Programming Tutorials
 Python Programming Tutorials
