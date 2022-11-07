@@ -50,6 +50,30 @@ The Net Ninja
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
 
+Next.js & Netlify Identity (auth) Tutorial
+Next.js & Contentful Tutorial
+Next.js Tutorial for Beginners
+
+SvelteKit Tutorial (Crash Course)
+Svelte Tutorial for Beginners
+
+JSON Server Tutorial
+
+Deno WebSockets Tutorial
+Deno Jump-start Tutorial
+
+REST API Tutorials (Node, Express & Mongo) *************************
+
+
+
+
+
+
+
+
+
+
+
 Nuxt 3 Tutorial
 Pinia Crash Course
 Supabase Crash Course
@@ -63,8 +87,6 @@ Complete MongoDB Tutorial
 Figma & Astro Static Site Build
 Coding Challenges
 
-
-SvelteKit Tutorial (Crash Course)
 Vuex 4 & Firebase Auth
 Firebase 9 Tutorial
 
@@ -79,18 +101,19 @@ Tailwind Just in Time Tutorial
 Bootstrap 5 Tutorial
 Go Tutorial (Golang) for Beginners
 Vue 3 with TypeScript Jump Start
-Next.js & Netlify Identity (auth) Tutorial
-Next.js & Contentful Tutorial
+
+
+
 Material UI Tutorial
 Gatsby Tutorial
 GitHub Tips
 Vue 3 Animations & Transitions Tutorial
-Next.js Tutorial for Beginners
+
 
 Vue.js 3 Tutorial
 CSS Loaders Tutorial
 Firebase Firestore Pagination
-JSON Server Tutorial
+
 
 Bulma CSS Tutorial
 Asynchronous JavaScript (2020 version)
@@ -99,13 +122,12 @@ Sapper Tutorial (Crash Course)
 Flutter Animation Tutorial
 
 Tailwind CSS Tutorial
-Deno WebSockets Tutorial
 
-Deno Jump-start Tutorial
+
 
 Webpack & TypeScript Setup
 TypeScript Tutorial
-Svelte Tutorial for Beginners
+
 Firebase Functions
 Laravel 6 Tutorial for Beginners
 Mobile-First Responsive Build (with CSS Grid)
@@ -142,7 +164,7 @@ Python 3 Tutorial for Beginners
 Git & GitHub Tutorial for Beginners
 WebSockets Tutorial (Node & Socket.io Chat App)
 Vue JS 2 Tutorial
-REST API Tutorials (Node, Express & Mongo) *************************
+
 Bootstrap 4 Tutorials
 MongoDB Tutorial for Beginners
 React Tutorials
