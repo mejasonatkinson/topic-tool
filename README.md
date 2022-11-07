@@ -95,12 +95,12 @@ React Skeleton Screens Tutorial
 Bulma CSS Tutorial
 Asynchronous JavaScript (2020 version)
 Sapper Tutorial (Crash Course)
-Node.js Auth Tutorial (JWT)
+
 Flutter Animation Tutorial
 React Query Tutorial
 Tailwind CSS Tutorial
 Deno WebSockets Tutorial
-Node.js Crash Course Tutorial
+
 Deno Jump-start Tutorial
 Framer Motion (for React) Tutorial
 Webpack & TypeScript Setup
@@ -150,7 +150,7 @@ React Tutorials
 Webpack Tutorials for Beginners
 Styling a HTML5 Form
 Grunt JS Tutorials
-Node JS Tutorial for Beginners
+
 SASS Tutorial
 Asynchronous JavaScript Tutorial
 CSS Tips & Tricks
@@ -209,7 +209,7 @@ Grunt JS Tutorials for Beginners Playlist
 Less CSS Tutorials for Beginners Playlist
 Bootstrap Tutorials for Beginners Playlist
 MongoDB for Beginners Tutorials
-Node.js Tutorials for Beginners
+
 JavaFX Java GUI Design Tutorials
 iOS Development with Swift Tutorials
 Adobe Illustrator CS6 for Beginners Tutorials
