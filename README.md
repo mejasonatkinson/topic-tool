@@ -74,7 +74,7 @@ SASS Tutorial (Build Your Own CSS Library)
 Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
 Tailwind Just in Time Tutorial
-Strapi Tutorial (with React & GraphQL)
+
 React Testing Library Tutorial
 Bootstrap 5 Tutorial
 Go Tutorial (Golang) for Beginners
