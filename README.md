@@ -54,20 +54,20 @@ Nuxt 3 Tutorial
 Pinia Crash Course
 Supabase Crash Course
 Weather App Build (with Vue 3 & Tailwind CSS)
-MERN Auth Tutorial
+
 Parallax Landing Page Build
-MERN Stack Crash Course Tutorial
+
 Build Layouts with CSS Grid
-Make a Wordle Clone with React
+
 Complete MongoDB Tutorial
 Figma & Astro Static Site Build
 Coding Challenges
 
-React Router 6 Tutorial
+
 SvelteKit Tutorial (Crash Course)
 Vuex 4 & Firebase Auth
 Firebase 9 Tutorial
-Make a Memory Game with React
+
 Make a Blog Filter / Search
 Light & Dark Mode with CSS Variables
 SASS Tutorial (Build Your Own CSS Library)
@@ -75,7 +75,7 @@ Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
 Tailwind Just in Time Tutorial
 
-React Testing Library Tutorial
+
 Bootstrap 5 Tutorial
 Go Tutorial (Golang) for Beginners
 Vue 3 with TypeScript Jump Start
@@ -86,35 +86,35 @@ Gatsby Tutorial
 GitHub Tips
 Vue 3 Animations & Transitions Tutorial
 Next.js Tutorial for Beginners
-Full Modern React Tutorial
+
 Vue.js 3 Tutorial
 CSS Loaders Tutorial
 Firebase Firestore Pagination
 JSON Server Tutorial
-React Skeleton Screens Tutorial
+
 Bulma CSS Tutorial
 Asynchronous JavaScript (2020 version)
 Sapper Tutorial (Crash Course)
 
 Flutter Animation Tutorial
-React Query Tutorial
+
 Tailwind CSS Tutorial
 Deno WebSockets Tutorial
 
 Deno Jump-start Tutorial
-Framer Motion (for React) Tutorial
+
 Webpack & TypeScript Setup
 TypeScript Tutorial
 Svelte Tutorial for Beginners
 Firebase Functions
 Laravel 6 Tutorial for Beginners
 Mobile-First Responsive Build (with CSS Grid)
-React Native Tutorial for Beginners
+
 Flutter & Firebase App Build
 Object Oriented PHP Tutorial
 Flutter Tutorial for Beginners
 HTML & CSS Crash Course Tutorial
-React Context & Hooks Tutorial
+
 PWA Tutorial for Beginners
 Firebase Hosting Tutorial
 Modern JavaScript Tutorial
@@ -125,8 +125,7 @@ Vuetify Tutorial
 Vue CLI 3 Tutorial
 D3 Tutorial - The Basics
 Ninja News Flashes
-React, Redux & Firebase App Tutorial
-Complete React Tutorial (with Redux)
+
 Materialize Tutorial
 Firebase Firestore Tutorial
 Object Oriented JavaScript
@@ -143,7 +142,7 @@ Python 3 Tutorial for Beginners
 Git & GitHub Tutorial for Beginners
 WebSockets Tutorial (Node & Socket.io Chat App)
 Vue JS 2 Tutorial
-REST API Tutorials (Node, Express & Mongo)
+REST API Tutorials (Node, Express & Mongo) *************************
 Bootstrap 4 Tutorials
 MongoDB Tutorial for Beginners
 React Tutorials
@@ -185,8 +184,7 @@ Discord Bot with Python Tutorials
 
 Spring Boot with Kotlin & JUnit 5 Tutorials
 ECMAScript 6 / ES6 New Features Tutorials
-React JS / Redux Tutorials
-React JS Tutorials for Beginners
+
 Angular 2 for Beginners Tutorials
 Django Tutorials for Beginners
 Gulp (Gulp.js) Tutorials for Beginners
