@@ -62,7 +62,7 @@ Make a Wordle Clone with React
 Complete MongoDB Tutorial
 Figma & Astro Static Site Build
 Coding Challenges
-Docker Crash Course Tutorial
+
 React Router 6 Tutorial
 SvelteKit Tutorial (Crash Course)
 Vuex 4 & Firebase Auth
@@ -182,7 +182,7 @@ Loopring Tutorials
 Ethereum Tutorials
 thenewboston Blockchain Tutorials
 Discord Bot with Python Tutorials
-Docker Tutorials
+
 Spring Boot with Kotlin & JUnit 5 Tutorials
 ECMAScript 6 / ES6 New Features Tutorials
 React JS / Redux Tutorials
