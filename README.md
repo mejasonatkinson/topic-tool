@@ -55,7 +55,7 @@ and
 -TypeScript.
 -APIs, 
 -databases 
-and 
+and
 -headless CMS platforms.
 -Writing automation tests.
 -Creating and maintaining application documentation.
@@ -69,7 +69,9 @@ and
 -Craft CMS
 -Laravel
 
+-->
 
+<!--
 
 Software Engineer
 £38K - £62K
@@ -80,9 +82,9 @@ Software Engineer
 -Vue.js, 
 -Node
 
+-->
 
-
-
+<!--
 
 - Next.js
 Next.js & Netlify Identity (auth) Tutorial
@@ -104,7 +106,6 @@ Deno Jump-start Tutorial
 MongoDB Tutorial for Beginners
 Complete MongoDB Tutorial
 
-
 - React
 React Tutorials
 
@@ -118,6 +119,9 @@ JavaScript ES6 Tutorials
 Asynchronous JavaScript (2020 version)
 Object Oriented JavaScript
 Asynchronous JavaScript Tutorial
+Modern JavaScript Tutorial
+JavaScript DOM Tutorial
+JavaScript Tips & Tricks
 
 - CSS
 CSS Tutorials For Beginners
@@ -126,6 +130,9 @@ Light & Dark Mode with CSS Variables
 CSS Animation Tutorial
 CSS Flexbox Tutorial
 CSS Loaders Tutorial
+CSS Variables Tutorial
+CSS Grid Tutorial
+CSS Tips & Tricks
 
 - SASS
 SASS Tutorial (Build Your Own CSS Library)
@@ -150,6 +157,23 @@ Vue 3 with TypeScript Jump Start
 Vue 3 Animations & Transitions Tutorial
 Vue.js 3 Tutorial
 Weather App Build (with Vue 3 & Tailwind CSS)
+Vue CLI 3 Tutorial
+
+- Vuetify
+Vuetify Tutorial
+
+- Vue 2
+Vue JS 2 Tutorial
+
+- Vuex
+Vuex Tutorial
+
+- Firebase Auth
+Vuex 4 & Firebase Auth
+Firebase Auth Tutorial
+
+- D3
+D3 Tutorial - The Basics
 
 - Flutter
 - Firebase
@@ -163,28 +187,56 @@ Django Tutorial (Create a Blog)
 -Python 3
 Python 3 Tutorial for Beginners
 
+- Python
+- Pygame
+- Flask
+Python Programming Tutorials
+Python GUI with Tkinter Playlist
+Python 3.4 Programming Tutorials
+Python Network Packet Sniffer Tutorials
+Python Reverse Shell Tutorials
+Python GUI Development with GTK+ 3
+Python Website Scanner Tutorials
+Python Web Crawler Tutorials
+Pygame (Python Game Development) Playlist
+Flask Web Development with Python Tutorials
+
 - Grunt JS
 Grunt JS Tutorials
+Grunt JS Tutorials for Beginners Playlist
 
+- Gatsby
+Gatsby Tutorial
+
+- Git
+- GitHub
+Git & GitHub Tutorial for Beginners
+GitHub Tips
+
+- Bootstrap
+Bootstrap 5 Tutorial
+Bootstrap 3 Tutorials
+
+- Nuxt 3
+Nuxt 3 Tutorial
+
+-->
+
+<!--
 
 The Net Ninja 	
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
 
-Nuxt 3 Tutorial
 Pinia Crash Course
 Supabase Crash Course
 Parallax Landing Page Build
 Coding Challenges
-Vuex 4 & Firebase Auth
 Firebase 9 Tutorial
 Make a Blog Filter / Search
 Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
-Bootstrap 5 Tutorial
 Material UI Tutorial
-Gatsby Tutorial
-GitHub Tips
 Firebase Firestore Pagination
 Bulma CSS Tutorial
 Sapper Tutorial (Crash Course)
@@ -195,36 +247,22 @@ Mobile-First Responsive Build (with CSS Grid)
 HTML & CSS Crash Course Tutorial
 PWA Tutorial for Beginners
 Firebase Hosting Tutorial
-Modern JavaScript Tutorial
 Screencasting Tutorial
-Firebase Auth Tutorial
-Vuetify Tutorial
-Vue CLI 3 Tutorial
-D3 Tutorial - The Basics
 Ninja News Flashes
 Materialize Tutorial
 Firebase Firestore Tutorial
 Real-time Chat with Vue & Firebase (Preview)
 GraphQL Tutorial
 Regular Expressions (RegEx) Tutorial
-CSS Variables Tutorial
 OAuth Login (Passport.js) Tutorial
-CSS Grid Tutorial
-JavaScript DOM Tutorial
-Vuex Tutorial
-Git & GitHub Tutorial for Beginners
 WebSockets Tutorial (Node & Socket.io Chat App)
-Vue JS 2 Tutorial
 Bootstrap 4 Tutorials
 Webpack Tutorials for Beginners
 Styling a HTML5 Form
-CSS Tips & Tricks
 Angular 2 Tutorials
 AngularJS Tutorials
-Bootstrap 3 Tutorials
 PSD to Responsive Website Tutorial
 Responsive Web Design Tutorials
-JavaScript Tips & Tricks
 PSD to WordPress Tutorial
 CSS Positioning Tutorials
 jQuery Tutorials for Beginners
@@ -241,21 +279,13 @@ Loopring Tutorials
 Ethereum Tutorials
 thenewboston Blockchain Tutorials
 Discord Bot with Python Tutorials
-
 Spring Boot with Kotlin & JUnit 5 Tutorials
 ECMAScript 6 / ES6 New Features Tutorials
-
 Angular 2 for Beginners Tutorials
 Django Tutorials for Beginners
 Gulp (Gulp.js) Tutorials for Beginners
-Python Web Crawler Tutorials
 SEO for Beginners Tutorials
 Windows Command Line Tutorials
-Python Network Packet Sniffer Tutorials
-Flask Web Development with Python Tutorials
-Python Reverse Shell Tutorials
-Python GUI Development with GTK+ 3
-Python Website Scanner Tutorials
 Metasploit for Network Security Tutorials
 Nmap Tutorials for Beginners
 WiFi Wireless Security Tutorials Playlist
@@ -263,36 +293,28 @@ Wireshark Tutorials for Beginners Playlist
 Linux Tutorial for Beginners Playlist
 Foundation for Responsive Web Design for Beginners
 Sass & SCSS Tutorial for Beginners Playlist
-Grunt JS Tutorials for Beginners Playlist
 Less CSS Tutorials for Beginners Playlist
 Bootstrap Tutorials for Beginners Playlist
 MongoDB for Beginners Tutorials
-
 JavaFX Java GUI Design Tutorials
 iOS Development with Swift Tutorials
 Adobe Illustrator CS6 for Beginners Tutorials
 Android App Development for Beginners Playlist
-Pygame (Python Game Development) Playlist
 Microsoft Excel 2013 Tutorials Playlist
 Responsive Web Design Playlist
-Python GUI with Tkinter Playlist
-Python 3.4 Programming Tutorials
 C Programming Tutorials
 Physics Puzzle Game Development w/ Construct 2 Playlist
 Platform Game Development w/ Construct 2 Playlist
 Game Development w/ Construct 2 Playlist
-
 R Programming Tutorials Playlist
 Photoshop CS6 Playlist
 After Effects CS6 Playlist
 Git Tutorials Playlist
-
 How to Make Beer Playlist
 AJAX Tutorials Playlist
 Computer Networking Playlist
 Biology Lecture Playlist
 Adobe Photoshop Tutorials Playlist
-
 C++ GUI with Qt Playlist
 Java Game Development with Slick Playlist
 How to Build a Go Kart Playlist
@@ -301,7 +323,6 @@ Buckys Vlog
 Project Lisa Official Playlist
 Ruby Programming Tutorials Playlist
 MySQL Database Tutorial
-
 HTML5 Tutorials Playlist
 Chemistry Tutorials Playlist
 Adobe Premiere Pro Tutorials Playlist
@@ -315,35 +336,27 @@ Geometry Playlist
 C# Beginners Tutorials Playlist
 C++ Programming Tutorials Playlist
 Unreal Development Kit UDK Tutorials Playlist
-
 JavaScript Tutorials Playlist
 Basic Math Tutorials Playlist
 Algebra Tutorials Playlist
 Advanced UDK Tutorials
 Android Application Development Tutorials
-
 Cocos2D iPhone Tutorials
 iPhone Development Tutorials
 Objective C Programming Tutorials
-
 Dreamweaver CS4 Tutorials
 Java (Intermediate) Tutorials
-
 iPod / iPhone App Reviews
 Java Game Development Tutorials
-
 3Ds Max 2010 Tutorials
-
 Computer Game Development Tutorial
 Java (Beginner) Programming Tutorials
-Python Programming Tutorials
 C Programming Tutorials
 How To Build a Computer Tutorials from thenewboston
 Adobe After Effects Tutorials from thenewboston
 C++ Programming Tutorials from thenewboston
 
 -->
-
 
 <!--
 
@@ -382,24 +395,3 @@ Crash Course
 https://www.youtube.com/c/crashcourse/playlists
 
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
