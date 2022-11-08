@@ -46,9 +46,42 @@ Defining what something means, is normally the simplest part for me. BUT it is b
 
 <!--
 
-The Net Ninja 	
-Best overall YouTubechannel for programmers 
-https://www.youtube.com/c/TheNetNinja/playlists
+Front-End Developer
+£26K - £36K
+ 
+-HTML,
+-SCSS
+and
+-TypeScript.
+-APIs, 
+-databases 
+and 
+-headless CMS platforms.
+-Writing automation tests.
+-Creating and maintaining application documentation.
+-Scrum
+-Test automation and CI pipelines.
+-JavaScript
+-Vue.js
+-Agile software development
+-Storybook
+-PHP7
+-Craft CMS
+-Laravel
+
+
+
+Software Engineer
+£38K - £62K
+
+-Python 3, 
+-Django, 
+-Typescript, 
+-Vue.js, 
+-Node
+
+
+
 
 
 - Next.js
@@ -69,113 +102,124 @@ Deno Jump-start Tutorial
 
 - Mongo
 MongoDB Tutorial for Beginners
+Complete MongoDB Tutorial
 
+
+- React
 React Tutorials
+
+- Figma
+- Astro
+Figma & Astro Static Site Build
+
+- JavaScript
+JavaScript Tutorials for Beginners
+JavaScript ES6 Tutorials
+Asynchronous JavaScript (2020 version)
+Object Oriented JavaScript
+Asynchronous JavaScript Tutorial
+
+- CSS
+CSS Tutorials For Beginners
+Build Layouts with CSS Grid
+Light & Dark Mode with CSS Variables
+CSS Animation Tutorial
+CSS Flexbox Tutorial
+CSS Loaders Tutorial
+
+- SASS
+SASS Tutorial (Build Your Own CSS Library)
+SASS Tutorial
+
+- HTML
+HTML Tutorials For Beginners
+
+- Laravel 6
+Laravel 6 Tutorial for Beginners
+
+- Tailwind
+Tailwind Just in Time Tutorial
+Tailwind CSS Tutorial
+
+- Go
+Go Tutorial (Golang) for Beginners
+
+- Vue 3
+- TypeScript
+Vue 3 with TypeScript Jump Start
+Vue 3 Animations & Transitions Tutorial
+Vue.js 3 Tutorial
+Weather App Build (with Vue 3 & Tailwind CSS)
+
+- Flutter
+- Firebase
+Flutter Animation Tutorial
+Flutter & Firebase App Build
+Flutter Tutorial for Beginners
+
+- Django
+Django Tutorial (Create a Blog)
+
+-Python 3
+Python 3 Tutorial for Beginners
+
+- Grunt JS
+Grunt JS Tutorials
+
+
+The Net Ninja 	
+Best overall YouTubechannel for programmers 
+https://www.youtube.com/c/TheNetNinja/playlists
 
 Nuxt 3 Tutorial
 Pinia Crash Course
 Supabase Crash Course
-Weather App Build (with Vue 3 & Tailwind CSS)
-
 Parallax Landing Page Build
-
-Build Layouts with CSS Grid
-
-Complete MongoDB Tutorial
-Figma & Astro Static Site Build
 Coding Challenges
-
 Vuex 4 & Firebase Auth
 Firebase 9 Tutorial
-
 Make a Blog Filter / Search
-Light & Dark Mode with CSS Variables
-SASS Tutorial (Build Your Own CSS Library)
 Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
-Tailwind Just in Time Tutorial
-
-
 Bootstrap 5 Tutorial
-Go Tutorial (Golang) for Beginners
-Vue 3 with TypeScript Jump Start
-
-
-
 Material UI Tutorial
 Gatsby Tutorial
 GitHub Tips
-Vue 3 Animations & Transitions Tutorial
-
-
-Vue.js 3 Tutorial
-CSS Loaders Tutorial
 Firebase Firestore Pagination
-
-
 Bulma CSS Tutorial
-Asynchronous JavaScript (2020 version)
 Sapper Tutorial (Crash Course)
-
-Flutter Animation Tutorial
-
-Tailwind CSS Tutorial
-
-
-
 Webpack & TypeScript Setup
 TypeScript Tutorial
-
 Firebase Functions
-Laravel 6 Tutorial for Beginners
 Mobile-First Responsive Build (with CSS Grid)
-
-Flutter & Firebase App Build
-
-Flutter Tutorial for Beginners
 HTML & CSS Crash Course Tutorial
-
 PWA Tutorial for Beginners
 Firebase Hosting Tutorial
 Modern JavaScript Tutorial
 Screencasting Tutorial
-
 Firebase Auth Tutorial
 Vuetify Tutorial
 Vue CLI 3 Tutorial
 D3 Tutorial - The Basics
 Ninja News Flashes
-
 Materialize Tutorial
 Firebase Firestore Tutorial
-Object Oriented JavaScript
 Real-time Chat with Vue & Firebase (Preview)
 GraphQL Tutorial
 Regular Expressions (RegEx) Tutorial
 CSS Variables Tutorial
-Django Tutorial (Create a Blog)
 OAuth Login (Passport.js) Tutorial
 CSS Grid Tutorial
 JavaScript DOM Tutorial
 Vuex Tutorial
-Python 3 Tutorial for Beginners
 Git & GitHub Tutorial for Beginners
 WebSockets Tutorial (Node & Socket.io Chat App)
 Vue JS 2 Tutorial
-
 Bootstrap 4 Tutorials
-
 Webpack Tutorials for Beginners
 Styling a HTML5 Form
-Grunt JS Tutorials
-
-SASS Tutorial
-Asynchronous JavaScript Tutorial
 CSS Tips & Tricks
 Angular 2 Tutorials
-JavaScript ES6 Tutorials
-CSS Animation Tutorial
-CSS Flexbox Tutorial
 AngularJS Tutorials
 Bootstrap 3 Tutorials
 PSD to Responsive Website Tutorial
@@ -185,9 +229,6 @@ PSD to WordPress Tutorial
 CSS Positioning Tutorials
 jQuery Tutorials for Beginners
 PSD to HTML & CSS Series 1 (unresponsive)
-JavaScript Tutorials for Beginners
-CSS Tutorials For Beginners
-HTML Tutorials For Beginners
 
 -->
 
