@@ -133,6 +133,9 @@ CSS Loaders Tutorial
 CSS Variables Tutorial
 CSS Grid Tutorial
 CSS Tips & Tricks
+Mobile-First Responsive Build (with CSS Grid)
+PSD to HTML & CSS Series 1 (unresponsive)
+CSS Positioning Tutorials
 
 - SASS
 SASS Tutorial (Build Your Own CSS Library)
@@ -140,6 +143,7 @@ SASS Tutorial
 
 - HTML
 HTML Tutorials For Beginners
+HTML & CSS Crash Course Tutorial
 
 - Laravel 6
 Laravel 6 Tutorial for Beginners
@@ -158,6 +162,10 @@ Vue 3 Animations & Transitions Tutorial
 Vue.js 3 Tutorial
 Weather App Build (with Vue 3 & Tailwind CSS)
 Vue CLI 3 Tutorial
+
+- Webpack
+Webpack & TypeScript Setup
+TypeScript Tutorial
 
 - Vuetify
 Vuetify Tutorial
@@ -184,6 +192,9 @@ Flutter Tutorial for Beginners
 Firebase 9 Tutorial
 Firebase Firestore Pagination
 Firebase Functions
+Firebase Hosting Tutorial
+Firebase Firestore Tutorial
+Real-time Chat with Vue & Firebase (Preview)
 
 - Django
 Django Tutorial (Create a Blog)
@@ -225,11 +236,12 @@ Bootstrap 3 Tutorials
 - Nuxt 3
 Nuxt 3 Tutorial
 
+- GraphQL
+GraphQL Tutorial
+
 -->
 
 <!--
-
-
 
 Pinia Crash Course
 
@@ -248,25 +260,17 @@ Bulma CSS Tutorial
 
 Sapper Tutorial (Crash Course)
 
-Webpack & TypeScript Setup
-TypeScript Tutorial
-
-
-Mobile-First Responsive Build (with CSS Grid)
-HTML & CSS Crash Course Tutorial
 PWA Tutorial for Beginners
-Firebase Hosting Tutorial
+
 Screencasting Tutorial
-Ninja News Flashes
+
 Materialize Tutorial
-Firebase Firestore Tutorial
-Real-time Chat with Vue & Firebase (Preview)
-GraphQL Tutorial
+
 Regular Expressions (RegEx) Tutorial
+
 OAuth Login (Passport.js) Tutorial
+
 WebSockets Tutorial (Node & Socket.io Chat App)
-
-
 
 Webpack Tutorials for Beginners
 
@@ -282,11 +286,7 @@ Responsive Web Design Tutorials
 
 PSD to WordPress Tutorial
 
-CSS Positioning Tutorials
-
 jQuery Tutorials for Beginners
-
-PSD to HTML & CSS Series 1 (unresponsive)
 
 -->
 
