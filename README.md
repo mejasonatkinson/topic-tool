@@ -181,6 +181,10 @@ Flutter Animation Tutorial
 Flutter & Firebase App Build
 Flutter Tutorial for Beginners
 
+Firebase 9 Tutorial
+Firebase Firestore Pagination
+Firebase Functions
+
 - Django
 Django Tutorial (Create a Blog)
 
@@ -215,6 +219,7 @@ GitHub Tips
 
 - Bootstrap
 Bootstrap 5 Tutorial
+Bootstrap 4 Tutorials
 Bootstrap 3 Tutorials
 
 - Nuxt 3
@@ -224,25 +229,29 @@ Nuxt 3 Tutorial
 
 <!--
 
-The Net Ninja 	
-Best overall YouTubechannel for programmers 
-https://www.youtube.com/c/TheNetNinja/playlists
+
 
 Pinia Crash Course
+
 Supabase Crash Course
+
 Parallax Landing Page Build
 Coding Challenges
-Firebase 9 Tutorial
 Make a Blog Filter / Search
+
 Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
+
 Material UI Tutorial
-Firebase Firestore Pagination
+
 Bulma CSS Tutorial
+
 Sapper Tutorial (Crash Course)
+
 Webpack & TypeScript Setup
 TypeScript Tutorial
-Firebase Functions
+
+
 Mobile-First Responsive Build (with CSS Grid)
 HTML & CSS Crash Course Tutorial
 PWA Tutorial for Beginners
@@ -256,24 +265,43 @@ GraphQL Tutorial
 Regular Expressions (RegEx) Tutorial
 OAuth Login (Passport.js) Tutorial
 WebSockets Tutorial (Node & Socket.io Chat App)
-Bootstrap 4 Tutorials
+
+
+
 Webpack Tutorials for Beginners
+
 Styling a HTML5 Form
+
 Angular 2 Tutorials
+
 AngularJS Tutorials
+
 PSD to Responsive Website Tutorial
+
 Responsive Web Design Tutorials
+
 PSD to WordPress Tutorial
+
 CSS Positioning Tutorials
+
 jQuery Tutorials for Beginners
+
 PSD to HTML & CSS Series 1 (unresponsive)
 
 -->
 
+
+
+
+
+
+
+
+
+
 <!--
 
-The New Boston
-https://www.youtube.com/user/thenewboston/playlists
+
 
 Loopring Tutorials
 Ethereum Tutorials
@@ -360,6 +388,10 @@ C++ Programming Tutorials from thenewboston
 
 <!--
 
+The Net Ninja 	
+Best overall YouTubechannel for programmers 
+https://www.youtube.com/c/TheNetNinja/playlists
+
 CS Dojo	
 Best for beginners 
 https://www.youtube.com/c/CSDojo/playlists
@@ -393,5 +425,8 @@ https://www.youtube.com/c/Fireship/playlists
 
 Crash Course
 https://www.youtube.com/c/crashcourse/playlists
+
+The New Boston
+https://www.youtube.com/user/thenewboston/playlists
 
 -->
