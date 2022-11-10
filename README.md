@@ -243,55 +243,66 @@ GraphQL Tutorial
 
 <!--
 
+- Pinia
 Pinia Crash Course
 
+- Supabase
 Supabase Crash Course
 
-Parallax Landing Page Build
-Coding Challenges
-Make a Blog Filter / Search
-
+- Adobe XD
 Xd Web Design Tutorials
 Adobe Xd Tutorial for Beginners
 
+- Material UI
 Material UI Tutorial
 
+- Bulma CSS
 Bulma CSS Tutorial
 
+- Sapper
 Sapper Tutorial (Crash Course)
 
+- PWA
 PWA Tutorial for Beginners
 
+- Screencasting
 Screencasting Tutorial
 
+- Materialize
 Materialize Tutorial
 
+- RegEx
 Regular Expressions (RegEx) Tutorial
 
+- Passport.js
 OAuth Login (Passport.js) Tutorial
 
+- WebSockets
+- Node
+- Socket
 WebSockets Tutorial (Node & Socket.io Chat App)
 
+- Webpack
 Webpack Tutorials for Beginners
 
+- HTML
 Styling a HTML5 Form
 
+- Angular
 Angular 2 Tutorials
-
 AngularJS Tutorials
 
 PSD to Responsive Website Tutorial
 
 Responsive Web Design Tutorials
 
+- WordPress
 PSD to WordPress Tutorial
 
+- jQuery
 jQuery Tutorials for Beginners
 
 -->
-
-
-
 
 
 
@@ -304,85 +315,155 @@ jQuery Tutorials for Beginners
 
 
 Loopring Tutorials
+
 Ethereum Tutorials
+
 thenewboston Blockchain Tutorials
+
 Discord Bot with Python Tutorials
+
 Spring Boot with Kotlin & JUnit 5 Tutorials
+
 ECMAScript 6 / ES6 New Features Tutorials
+
 Angular 2 for Beginners Tutorials
+
 Django Tutorials for Beginners
+
 Gulp (Gulp.js) Tutorials for Beginners
+
 SEO for Beginners Tutorials
+
 Windows Command Line Tutorials
+
 Metasploit for Network Security Tutorials
+
 Nmap Tutorials for Beginners
+
 WiFi Wireless Security Tutorials Playlist
+
 Wireshark Tutorials for Beginners Playlist
+
 Linux Tutorial for Beginners Playlist
+
 Foundation for Responsive Web Design for Beginners
+
 Sass & SCSS Tutorial for Beginners Playlist
+
 Less CSS Tutorials for Beginners Playlist
+
 Bootstrap Tutorials for Beginners Playlist
+
 MongoDB for Beginners Tutorials
-JavaFX Java GUI Design Tutorials
+
 iOS Development with Swift Tutorials
+
 Adobe Illustrator CS6 for Beginners Tutorials
+
 Android App Development for Beginners Playlist
+
 Microsoft Excel 2013 Tutorials Playlist
+
 Responsive Web Design Playlist
-C Programming Tutorials
+
 Physics Puzzle Game Development w/ Construct 2 Playlist
+
 Platform Game Development w/ Construct 2 Playlist
+
 Game Development w/ Construct 2 Playlist
+
 R Programming Tutorials Playlist
+
 Photoshop CS6 Playlist
+
 After Effects CS6 Playlist
+
 Git Tutorials Playlist
+
 How to Make Beer Playlist
+
 AJAX Tutorials Playlist
+
 Computer Networking Playlist
+
 Biology Lecture Playlist
+
 Adobe Photoshop Tutorials Playlist
-C++ GUI with Qt Playlist
-Java Game Development with Slick Playlist
+
 How to Build a Go Kart Playlist
+
 Physics Lessons Playlist
+
 Buckys Vlog
+
 Project Lisa Official Playlist
+
 Ruby Programming Tutorials Playlist
+
 MySQL Database Tutorial
+
 HTML5 Tutorials Playlist
+
 Chemistry Tutorials Playlist
+
 Adobe Premiere Pro Tutorials Playlist
+
 XHTML and CSS Tutorials Playlist
+
 Visual Basic Tutorials Playlist
+
 Introduction to Physics Playlist
+
 jQuery Tutorials Playlist
+
 Introduction to Geometry Playlist
+
 Introduction to Biology Playlist
+
 Geometry Playlist
+
 C# Beginners Tutorials Playlist
+
 C++ Programming Tutorials Playlist
+C++ Programming Tutorials from thenewboston
+C++ GUI with Qt Playlist
+
 Unreal Development Kit UDK Tutorials Playlist
+
 JavaScript Tutorials Playlist
+
 Basic Math Tutorials Playlist
 Algebra Tutorials Playlist
+
 Advanced UDK Tutorials
+
 Android Application Development Tutorials
+
 Cocos2D iPhone Tutorials
+
 iPhone Development Tutorials
+
 Objective C Programming Tutorials
+
 Dreamweaver CS4 Tutorials
+
 Java (Intermediate) Tutorials
-iPod / iPhone App Reviews
 Java Game Development Tutorials
-3Ds Max 2010 Tutorials
-Computer Game Development Tutorial
+Java Game Development with Slick Playlist
 Java (Beginner) Programming Tutorials
+JavaFX Java GUI Design Tutorials
+
+3Ds Max 2010 Tutorials
+
+Computer Game Development Tutorial
+
 C Programming Tutorials
+C Programming Tutorials
+
 How To Build a Computer Tutorials from thenewboston
+
 Adobe After Effects Tutorials from thenewboston
-C++ Programming Tutorials from thenewboston
+
 
 -->
 
