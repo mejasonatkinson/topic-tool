@@ -49,38 +49,32 @@ Defining what something means, is normally the simplest part for me. BUT it is b
 Front-End Developer
 £26K - £36K
  
--HTML,
--SCSS
-and
--TypeScript.
--APIs, 
--databases 
-and
--headless CMS platforms.
--Writing automation tests.
--Creating and maintaining application documentation.
--Scrum
--Test automation and CI pipelines.
--JavaScript
--Vue.js
--Agile software development
--Storybook
--PHP7
--Craft CMS
--Laravel
-
--->
-
-<!--
+- HTML
+- SCSS
+- TypeScript
+- APIs
+- Databases
+- Headless CMS platforms
+- Writing automation tests
+- Creating and maintaining application documentation
+- Scrum
+- Test automation and CI pipelines
+- JavaScript
+- Vue.js
+- Agile software development
+- Storybook
+- PHP7
+- Craft CMS
+- Laravel
 
 Software Engineer
 £38K - £62K
 
--Python 3, 
--Django, 
--Typescript, 
--Vue.js, 
--Node
+- Python 3
+- Django
+- Typescript
+- Vue.js
+- Node
 
 -->
 
@@ -198,6 +192,7 @@ Real-time Chat with Vue & Firebase (Preview)
 
 - Django
 Django Tutorial (Create a Blog)
+Django Tutorials for Beginners
 
 -Python 3
 Python 3 Tutorial for Beginners
@@ -215,6 +210,8 @@ Python Website Scanner Tutorials
 Python Web Crawler Tutorials
 Pygame (Python Game Development) Playlist
 Flask Web Development with Python Tutorials
+Discord Bot with Python Tutorials
+
 
 - Grunt JS
 Grunt JS Tutorials
@@ -238,10 +235,6 @@ Nuxt 3 Tutorial
 
 - GraphQL
 GraphQL Tutorial
-
--->
-
-<!--
 
 - Pinia
 Pinia Crash Course
@@ -302,38 +295,16 @@ PSD to WordPress Tutorial
 - jQuery
 jQuery Tutorials for Beginners
 
--->
-
-
-
-
-
-
-
-<!--
-
-
-
-Loopring Tutorials
-
-Ethereum Tutorials
-
+- Blockchain
 thenewboston Blockchain Tutorials
 
-Discord Bot with Python Tutorials
-
-Spring Boot with Kotlin & JUnit 5 Tutorials
-
-ECMAScript 6 / ES6 New Features Tutorials
-
-Angular 2 for Beginners Tutorials
-
-Django Tutorials for Beginners
-
+- Gulp.js
 Gulp (Gulp.js) Tutorials for Beginners
 
+- SEO
 SEO for Beginners Tutorials
 
+- Windows Command Line
 Windows Command Line Tutorials
 
 Metasploit for Network Security Tutorials
@@ -344,24 +315,34 @@ WiFi Wireless Security Tutorials Playlist
 
 Wireshark Tutorials for Beginners Playlist
 
+- Linux
 Linux Tutorial for Beginners Playlist
 
+- Foundation
 Foundation for Responsive Web Design for Beginners
 
+- Sass
+- SCSS
 Sass & SCSS Tutorial for Beginners Playlist
 
+- Less
 Less CSS Tutorials for Beginners Playlist
 
+- Bootstrap
 Bootstrap Tutorials for Beginners Playlist
 
+- MongoDB
 MongoDB for Beginners Tutorials
 
+- Swift
 iOS Development with Swift Tutorials
 
+- Adobe Illustrator
 Adobe Illustrator CS6 for Beginners Tutorials
 
 Android App Development for Beginners Playlist
 
+- Microsoft Excel
 Microsoft Excel 2013 Tutorials Playlist
 
 Responsive Web Design Playlist
@@ -372,18 +353,24 @@ Platform Game Development w/ Construct 2 Playlist
 
 Game Development w/ Construct 2 Playlist
 
+- R
 R Programming Tutorials Playlist
 
+- Photoshop
 Photoshop CS6 Playlist
 
+- After Effects
 After Effects CS6 Playlist
 
+- Git
 Git Tutorials Playlist
 
 How to Make Beer Playlist
 
+- AJAX
 AJAX Tutorials Playlist
 
+- Computer Networking
 Computer Networking Playlist
 
 Biology Lecture Playlist
@@ -398,22 +385,30 @@ Buckys Vlog
 
 Project Lisa Official Playlist
 
+- Ruby
 Ruby Programming Tutorials Playlist
 
+- MySWL
 MySQL Database Tutorial
 
+- HTML5
 HTML5 Tutorials Playlist
 
 Chemistry Tutorials Playlist
 
+- Adobe Premiere Pro
 Adobe Premiere Pro Tutorials Playlist
+
 
 XHTML and CSS Tutorials Playlist
 
+- Visual Basic
 Visual Basic Tutorials Playlist
 
+- Physics
 Introduction to Physics Playlist
 
+- jQuery
 jQuery Tutorials Playlist
 
 Introduction to Geometry Playlist
@@ -422,16 +417,20 @@ Introduction to Biology Playlist
 
 Geometry Playlist
 
+- c#
 C# Beginners Tutorials Playlist
 
+- C++
 C++ Programming Tutorials Playlist
 C++ Programming Tutorials from thenewboston
 C++ GUI with Qt Playlist
 
 Unreal Development Kit UDK Tutorials Playlist
 
+
 JavaScript Tutorials Playlist
 
+- Math
 Basic Math Tutorials Playlist
 Algebra Tutorials Playlist
 
@@ -441,27 +440,36 @@ Android Application Development Tutorials
 
 Cocos2D iPhone Tutorials
 
+- ??
 iPhone Development Tutorials
 
+- Objective C
 Objective C Programming Tutorials
 
+- Adobe Dreamweaver
 Dreamweaver CS4 Tutorials
 
+- Java
 Java (Intermediate) Tutorials
 Java Game Development Tutorials
 Java Game Development with Slick Playlist
 Java (Beginner) Programming Tutorials
 JavaFX Java GUI Design Tutorials
 
+-- 3Ds Max
 3Ds Max 2010 Tutorials
 
-Computer Game Development Tutorial
+- ??
+Computer Game Development Tutorial 
 
+- C
 C Programming Tutorials
 C Programming Tutorials
 
+- Build a Computer
 How To Build a Computer Tutorials from thenewboston
 
+- Adobe After Effects 
 Adobe After Effects Tutorials from thenewboston
 
 
@@ -469,7 +477,7 @@ Adobe After Effects Tutorials from thenewboston
 
 <!--
 
-The Net Ninja 	
+## The Net Ninja 	
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
 
@@ -507,7 +515,7 @@ https://www.youtube.com/c/Fireship/playlists
 Crash Course
 https://www.youtube.com/c/crashcourse/playlists
 
-The New Boston
+## The New Boston
 https://www.youtube.com/user/thenewboston/playlists
 
 -->
