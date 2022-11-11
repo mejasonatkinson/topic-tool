@@ -46,44 +46,12 @@ Defining what something means, is normally the simplest part for me. BUT it is b
 
 <!--
 
-Front-End Developer
-£26K - £36K
- 
-HTML
-SCSS
-TypeScript
-APIs
-Databases
-Headless CMS platforms
-Writing automation tests
-Creating and maintaining application documentation
-Scrum
-Test automation and CI pipelines
-JavaScript
-Vue.js
-Agile software development
-Storybook
-PHP7
-Craft CMS
-Laravel
-
-Software Engineer
-£38K - £62K
-
-Python 3
-Django
-Typescript
-Vue.js
-Node
-
--->
-
-
-<!--
-
 ## The Net Ninja 	
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
+
+## The New Boston
+https://www.youtube.com/user/thenewboston/playlists
 
 CS Dojo	
 Best for beginners 
@@ -119,18 +87,9 @@ https://www.youtube.com/c/Fireship/playlists
 Crash Course
 https://www.youtube.com/c/crashcourse/playlists
 
-## The New Boston
-https://www.youtube.com/user/thenewboston/playlists
-
 -->
 
-
-
-
-
 <!--
-
-Sorted:
 
 "HTML",
 "BEM",
@@ -177,5 +136,35 @@ Sorted:
 "TDD",
 "OOP",
 "Cloud Development",
+
+Front-End Developer
+£26K - £36K
+ 
+"HTML",
+"SCSS",
+"TypeScript",
+"APIs",
+"Databases",
+"Headless CMS platforms",
+"Writing automation tests",
+"Creating and maintaining application documentation",
+"Scrum",
+"Test automation and CI pipelines",
+"JavaScript",
+"Vue.js",
+"Agile software development",
+"Storybook",
+"PHP7",
+"Craft CMS",
+"Laravel",
+
+Software Engineer
+£38K - £62K
+
+"Python 3",
+"Django",
+"Typescript",
+"Vue.js",
+"Node",
 
 -->
