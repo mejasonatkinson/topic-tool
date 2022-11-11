@@ -49,32 +49,32 @@ Defining what something means, is normally the simplest part for me. BUT it is b
 Front-End Developer
 £26K - £36K
  
-- HTML
-- SCSS
-- TypeScript
-- APIs
-- Databases
-- Headless CMS platforms
-- Writing automation tests
-- Creating and maintaining application documentation
-- Scrum
-- Test automation and CI pipelines
-- JavaScript
-- Vue.js
-- Agile software development
-- Storybook
-- PHP7
-- Craft CMS
-- Laravel
+HTML
+SCSS
+TypeScript
+APIs
+Databases
+Headless CMS platforms
+Writing automation tests
+Creating and maintaining application documentation
+Scrum
+Test automation and CI pipelines
+JavaScript
+Vue.js
+Agile software development
+Storybook
+PHP7
+Craft CMS
+Laravel
 
 Software Engineer
 £38K - £62K
 
-- Python 3
-- Django
-- Typescript
-- Vue.js
-- Node
+Python 3
+Django
+Typescript
+Vue.js
+Node
 
 -->
 
@@ -184,160 +184,159 @@ Sorted:
 
 To Sort:
 
-// Rest Api
-// lodash
-// axios
-// npx
-// Processing
-// Arduino
-// p5JS
-// Craft CMS
-// Yii Framework
-// Twig
-// Apache
-// Composer
-// Strapi CMS
-// create-react-app
-// apollo/client
-// react-markdown
-// AWS
-// Adobe
-// Photoshop
-// Unity
-// Unreal Engine
-// Autodesk
-// Maya
-// 3ds Max
-// OBS
-// Marketing
-// Science
-// Computer, Science
-// Learning, Science
-// Rockest, Science
-// History
-// Computer Science, history
-// Art, history
-// Space, history
-// Design
-// Art
-// Geography
-// Math
-// GitLab
-// BitBucket
-// postman
-// sanity.io
-// PostgresQL
-// InnoDB
-// GraphQL
-// JSON
-// cURL
-// Pip
-// PCRE
-// PDO
-// GD or ImageMagick
-// OpenSSL
-// MultibyteString
-// Reflection
-// SPL
-// Zip
-
-- Next.js
-- Svelte
-- JSON
-- Deno
-- Mongo
-- React
-- Figma
-- Astro
-- JavaScript
-- CSS
-- SASS
-- HTML
-- Laravel 6
-- Tailwind
-- Go
-- Vue 3
-- TypeScript
-- Webpack
-- Vuetify
-- Vue 2
-- Vuex
-- Firebase Auth
-- D3
-- Flutter
-- Firebase
-- Django
-- Python 3
-- Python
-- Pygame
-- Flask
-- Grunt JS
-- Gatsby
-- Git
-- GitHub
-- Bootstrap
-- Nuxt 3
-- GraphQL
-- Pinia
-- Supabase
-- Adobe XD
-- Material UI
-- Bulma CSS
-- Sapper
-- PWA
-- Screencasting
-- Materialize
-- RegEx
-- Passport.js
-- WebSockets
-- Node
-- WebSocket
-- Webpack
-- HTML
-- Angular
-- WordPress
-- jQuery
-- Blockchain
-- Gulp.js
-- SEO
-- Windows Command Line
-- Linux
-- Foundation
-- Sass
-- SCSS
-- Less
-- Bootstrap
-- MongoDB
-- Swift
-- Adobe Illustrator
-- Microsoft Excel
-- R
-- Photoshop
-- After Effects
-- Git
-- AJAX
-- Computer Networking
-- Ruby
-- MySQL
-- HTML5
-- Adobe Premiere Pro
-- Visual Basic
-- Physics
-- jQuery
-- c#
-- C++
-- Unreal Engine Development
-- JavaScript
-- Math
-- Android Application Development
-- iPhone Development
-- Objective C
-- Adobe Dreamweaver
-- Java
-- 3Ds Max
-- Computer Game Development
-- C
-- Build a Computer
-- Adobe After Effects 
+Rest Api
+lodash
+axios
+npx
+Processing
+Arduino
+p5JS
+Craft CMS
+Yii Framework
+Twig
+Apache
+Composer
+Strapi CMS
+create-react-app
+apollo/client
+react-markdown
+AWS
+Adobe
+Photoshop
+Unity
+Unreal Engine
+Autodesk
+Maya
+3ds Max
+OBS
+Marketing
+Science
+Computer, Science
+Learning, Science
+Rockest, Science
+History
+Computer Science, history
+Art, history
+Space, history
+Design
+Art
+Geography
+Math
+GitLab
+BitBucket
+postman
+sanity.io
+PostgresQL
+InnoDB
+GraphQL
+JSON
+cURL
+Pip
+PCRE
+PDO
+GD or ImageMagick
+OpenSSL
+MultibyteString
+Reflection
+SPL
+Zip
+Next.js
+Svelte
+JSON
+Deno
+Mongo
+React
+Figma
+Astro
+JavaScript
+CSS
+SASS
+HTML
+Laravel 6
+Tailwind
+Go
+Vue 3
+TypeScript
+Webpack
+Vuetify
+Vue 2
+Vuex
+Firebase Auth
+D3
+Flutter
+Firebase
+Django
+Python 3
+Python
+Pygame
+Flask
+Grunt JS
+Gatsby
+Git
+GitHub
+Bootstrap
+Nuxt 3
+GraphQL
+Pinia
+Supabase
+Adobe XD
+Material UI
+Bulma CSS
+Sapper
+PWA
+Screencasting
+Materialize
+RegEx
+Passport.js
+WebSockets
+Node
+WebSocket
+Webpack
+HTML
+Angular
+WordPress
+jQuery
+Blockchain
+Gulp.js
+SEO
+Windows Command Line
+Linux
+Foundation
+Sass
+SCSS
+Less
+Bootstrap
+MongoDB
+Swift
+Adobe Illustrator
+Microsoft Excel
+R
+Photoshop
+After Effects
+Git
+AJAX
+Computer Networking
+Ruby
+MySQL
+HTML5
+Adobe Premiere Pro
+Visual Basic
+Physics
+jQuery
+c#
+C++
+Unreal Engine Development
+JavaScript
+Math
+Android Application Development
+iPhone Development
+Objective C
+Adobe Dreamweaver
+Java
+3Ds Max
+Computer Game Development
+C
+Build a Computer
+Adobe After Effects 
 
 -->
