@@ -44,13 +44,11 @@ What actions should I take?
 
 Defining what something means, is normally the simplest part for me. BUT it is best still to review this, to make sure that it still makes sense.
 
-<!--
-
-## The Net Ninja 	
+The Net Ninja 	
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
 
-## The New Boston
+The New Boston
 https://www.youtube.com/user/thenewboston/playlists
 
 CS Dojo	
@@ -86,6 +84,120 @@ https://www.youtube.com/c/Fireship/playlists
 
 Crash Course
 https://www.youtube.com/c/crashcourse/playlists
+
+<!--
+
+- Art & Design
+
+-- Artists & Designers
+
+- Music
+
+-- Bands/Singers
+
+-- Guitar
+--- Cords
+--- Theory
+--- Notation
+---- Tablature
+
+- Adobe
+
+-- Premiere Pro
+-- After Effects
+-- Dreamweaver
+-- Photoshop
+-- Spark
+-- XD
+
+- Microsoft
+
+-- Excel
+-- Word
+-- Powerpoint
+
+- Autodesk
+-- 3ds Max (formerly 3D Studio and 3D Studio Max)
+-- Maya
+
+- Math
+
+- History
+
+-- Computer Science, History
+-- Rockest Science, History
+-- Art, History
+
+- Science
+
+-- Science of Learning
+-- Science of Notetaking
+-- Science of Presenting
+
+-- Computer Science
+
+--- Programming
+
+---- HTML
+
+---- SVG
+
+---- CSS
+
+---- JavaScript
+
+----- Storybook
+
+----- Svelte
+
+----- React
+
+----- Vue
+
+----- v8Engine
+
+------ Node
+
+------- npm
+
+------- npx
+
+------- nvm
+
+------- Headless, Content Management Systems
+
+-------- Strapi
+
+---- PHP
+
+----- Content Management Systems
+------ Wordpress
+------ Craft CMS
+
+---- Python
+
+----- Version
+------ Python 3
+
+---- C
+
+---- C#
+
+---- C++
+
+--- Databases
+
+- Diversity & Inclusion
+
+-- LGBTQ+
+-- 
+
+- Health & Fitness 
+
+- Gaming & Fun
+
+-- Chess
+-- Lego
 
 -->
 
@@ -140,6 +252,7 @@ https://www.youtube.com/c/crashcourse/playlists
 Front-End Developer
 £26K - £36K
  
+[
 "HTML",
 "SCSS",
 "TypeScript",
@@ -157,14 +270,17 @@ Front-End Developer
 "PHP7",
 "Craft CMS",
 "Laravel",
+]
 
 Software Engineer
 £38K - £62K
 
+[
 "Python 3",
 "Django",
 "Typescript",
 "Vue.js",
 "Node",
+]
 
 -->
