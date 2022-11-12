@@ -44,6 +44,8 @@ What actions should I take?
 
 Defining what something means, is normally the simplest part for me. BUT it is best still to review this, to make sure that it still makes sense.
 
+<!--
+
 The Net Ninja 	
 Best overall YouTubechannel for programmers 
 https://www.youtube.com/c/TheNetNinja/playlists
@@ -84,6 +86,8 @@ https://www.youtube.com/c/Fireship/playlists
 
 Crash Course
 https://www.youtube.com/c/crashcourse/playlists
+
+-->
 
 <!--
 
@@ -249,6 +253,10 @@ https://www.youtube.com/c/crashcourse/playlists
 "OOP",
 "Cloud Development",
 
+-->
+
+<!--
+
 Front-End Developer
 £26K - £36K
  
@@ -271,6 +279,10 @@ Front-End Developer
 "Craft CMS",
 "Laravel",
 ]
+
+-->
+
+<!--
 
 Software Engineer
 £38K - £62K
