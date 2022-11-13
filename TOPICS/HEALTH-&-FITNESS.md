@@ -2,3 +2,4 @@
 
 -- Gym
 -- Swimming
+-- Golf
