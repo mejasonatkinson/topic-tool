@@ -3,6 +3,7 @@
 -- Science of Learning
 -- Science of Notetaking
 -- Science of Presenting
+-- Science of Habit Creation
 
 -- Science of Management
 ---- Project Management
@@ -26,13 +27,29 @@
 --- Terminal
 --- Windows Command Line
 
+--- cURL
+
 --- Cloud Computing
 ---- AWS
 ---- Google Cloud
 
+--- cPanel
+
+--- Online Code Editor
+---- CodePen
+---- JSfiddle
+
+--- Code Editor
+---- Jetbrain
+
 --- Development Methodologies
+---- Extreme Programming
 ---- BEM (Block, Element, Modifier)
 ---- Atomic Design
+
+--- Development Principle 
+---- DRY
+---- KISS
 
 --- Programmers
 
@@ -47,9 +64,12 @@
 ---- HTTP
 
 ---- API
+---- Postman
 ---- Rest API
 ---- SCORM
 ---- XAPI
+
+---- YAML
 
 ---- HTML
 ----- Versions
@@ -68,7 +88,14 @@
 ------ CSS3
 
 ---- JavaScript
+----- Package Manager
+------ Yarn
 ----- Version
+------ ES5
+------ ES6
+------ ES7
+------ ES2019
+------ ES2020
 ----- Superset
 ------ TypeScript
 ----- StorybookJS
@@ -82,22 +109,23 @@
 ------ PhaserJS
 ------ Svelte
 ------ React
------- Vue
-------- Nuxt
 ------ StencilJS
 ------ SolidJS
 ------- SolidJS Start
------- Versions
-------- Vue 2
-------- Vue 3
+------ Vue
+------- Nuxt
+------- Versions
+-------- Vue 2
+-------- Vue 3
 ------ Angular
 ----- Grunt
 ----- GulpJS
 ----- v8Engine
 ------ Node
-------- npm
-------- npx
-------- nvm
+------- Package Manager
+-------- npm
+-------- npx
+-------- nvm
 ------- Headless, Content Management Systems
 -------- Strapi CMS
 
@@ -119,14 +147,24 @@
 
 ---- Apache HTTP Server
 
-
-
 ---- PHP
 ----- Composer
+----- PHP PEAR
 ----- Versions
+
+----- Template Engine
+------ Twig
+
+----- Library
+------ PHPMailer
+
 ----- Frameworks
 ------ Symfony
 ------ Laravel
+------ Cake PHP
+------ Yii
+------- Testing
+-------- PHPUnit
 
 ----- Content Management Systems
 
@@ -141,6 +179,7 @@
 ------ Joomla
 ------ Magento
 
+---- R
 
 ---- Python
 ---- Pip
@@ -172,7 +211,15 @@
 
 ---- Processing
 
+---- P5js
+
 --- Databases
 
 ---- MongoDB
 ---- MySQL
+---- PostgreSQL
+---- InnoDB
+---- MariaDB
+
+---- SQL
+---- GraphQL
