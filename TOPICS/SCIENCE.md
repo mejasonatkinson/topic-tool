@@ -41,6 +41,10 @@
 
 --- Code Editor
 ---- Jetbrain
+---- Visual Studio Code
+---- Vim
+
+--- VirtualBox
 
 --- Development Methodologies
 ---- Extreme Programming
@@ -50,6 +54,10 @@
 --- Development Principle 
 ---- DRY
 ---- KISS
+
+--- Game engine
+---- Unity
+---- Unreal Engine
 
 --- Programmers
 
@@ -68,6 +76,7 @@
 ---- Rest API
 ---- SCORM
 ---- XAPI
+---- Web APIs
 
 ---- YAML
 
@@ -206,6 +215,8 @@
 ---- C#
 
 ---- C++
+
+---- Visual Basic
 
 ---- Arduino 
 
