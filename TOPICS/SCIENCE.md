@@ -77,8 +77,12 @@
 ---- SCORM
 ---- XAPI
 ---- Web APIs
+---- WebGL
+---- Watson API
 
 ---- YAML
+
+---- Web Components
 
 ---- HTML
 ----- Versions
@@ -122,10 +126,15 @@
 ------ SolidJS
 ------- SolidJS Start
 ------ Vue
-------- Nuxt
 ------- Versions
 -------- Vue 2
 -------- Vue 3
+------- Framework
+-------- Nuxt
+-------- Vuetify
+------- State Management
+-------- Vuex
+-------- Pinia
 ------ Angular
 ----- Grunt
 ----- GulpJS
