@@ -16,6 +16,8 @@
 ------ Techniques
 ------- Pair programming
 
+-- Rocket Science
+
 -- Computer Science
 
 --- Operating Systems
@@ -43,6 +45,7 @@
 ---- Jetbrain
 ---- Visual Studio Code
 ---- Vim
+---- Sublime Text
 
 --- VirtualBox
 
@@ -54,6 +57,8 @@
 --- Development Principle 
 ---- DRY
 ---- KISS
+---- OOP
+---- TDD
 
 --- Game engine
 ---- Unity
@@ -79,6 +84,7 @@
 ---- Web APIs
 ---- WebGL
 ---- Watson API
+---- Stripe API
 
 ---- YAML
 
@@ -99,6 +105,9 @@
 ---- CSS
 ----- Versions
 ------ CSS3
+----- Preprocessors
+------ Sass
+------ Less
 
 ---- JavaScript
 ----- Package Manager

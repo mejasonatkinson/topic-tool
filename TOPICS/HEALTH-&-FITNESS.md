@@ -3,3 +3,4 @@
 -- Gym
 -- Swimming
 -- Golf
+-- Squash
