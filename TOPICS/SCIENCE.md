@@ -20,6 +20,8 @@
 
 -- Computer Science
 
+-- Build a Computer
+
 --- Operating Systems
 ---- Linux
 ----- Ubuntu
@@ -68,6 +70,8 @@
 
 --- Programming
 
+---- Linters
+
 ---- UI
 ----- Frameworks
 ------ Zurb Foundation
@@ -93,8 +97,12 @@
 ---- HTML
 ----- Versions
 ------ HTML5
+------- Video/Audio
+-------- Track
+--------- WebVTT
 ------ XHTML
 ------ DHTML
+----- Emails
 ----- Haml
 ----- XML
 
@@ -108,6 +116,9 @@
 ----- Preprocessors
 ------ Sass
 ------ Less
+----- Framework
+------ Bulma
+------ Tailwind
 
 ---- JavaScript
 ----- Package Manager

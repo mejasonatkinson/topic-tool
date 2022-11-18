@@ -6,6 +6,8 @@
 -- Facebook
 -- Flickr
 -- Instagram
+-- reddit
+
 
 -- Social Media Management
 --- Buffer
