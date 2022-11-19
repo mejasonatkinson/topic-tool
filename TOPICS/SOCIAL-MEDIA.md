@@ -8,6 +8,7 @@
 -- Instagram
 -- reddit
 
+-- LinkedIn
 
 -- Social Media Management
 --- Buffer

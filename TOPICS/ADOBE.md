@@ -6,3 +6,4 @@
 -- Photoshop
 -- Spark
 -- XD
+-- Lightroom

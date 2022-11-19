@@ -121,6 +121,8 @@
 ------ Tailwind
 
 ---- JavaScript
+----- Standard
+------ ECMAScript
 ----- Package Manager
 ------ Yarn
 ----- Version
@@ -142,6 +144,9 @@
 ------ PhaserJS
 ------ Svelte
 ------ React
+------- Framework
+-------- Gatsby
+-------- NextJS
 ------ StencilJS
 ------ SolidJS
 ------- SolidJS Start
@@ -199,6 +204,8 @@
 ----- Frameworks
 ------ Symfony
 ------ Laravel
+------- Versions
+-------- Laravel 6
 ------ Cake PHP
 ------ Yii
 ------- Testing
@@ -237,6 +244,8 @@
 
 ---- Java
 
+---- Swift - Apple Developer
+
 ---- Flutter
 
 ---- C
@@ -260,6 +269,9 @@
 ---- PostgreSQL
 ---- InnoDB
 ---- MariaDB
+
+---- Firebase
+---- Supabase
 
 ---- SQL
 ---- GraphQL
