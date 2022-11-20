@@ -7,3 +7,4 @@
 -- Spark
 -- XD
 -- Lightroom
+-- Indesign

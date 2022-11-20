@@ -8,8 +8,10 @@
 -- Science of Management
 ---- Project Management
 --- Tools
----- Trello
----- Jira
+---- Atlassian
+----- Trello
+----- Jira
+----- Confluence
 ----- Agile
 ------ frameworks
 ------- Scrum
@@ -21,6 +23,12 @@
 -- Computer Science
 
 -- Build a Computer
+
+-- AI
+
+-- Chatbot
+
+
 
 --- Operating Systems
 ---- Linux
@@ -47,6 +55,7 @@
 ---- Jetbrain
 ---- Visual Studio Code
 ---- Vim
+---- Atom
 ---- Sublime Text
 
 --- VirtualBox
@@ -61,6 +70,11 @@
 ---- KISS
 ---- OOP
 ---- TDD
+
+--- Software Architecture	
+---- MVC (Model-view-controller)
+---- MVMM (Model-view-viewmodel)
+---- MVP (Model-view-presenter)
 
 --- Game engine
 ---- Unity
@@ -88,11 +102,14 @@
 ---- Web APIs
 ---- WebGL
 ---- Watson API
----- Stripe API
+---- Stripe
+----- Stripe API
 
 ---- YAML
 
 ---- Web Components
+----- Framework
+----- AMP.dev
 
 ---- HTML
 ----- Versions
@@ -140,6 +157,7 @@
 ------ CoffeScript
 ----- Library
 ------ Jquery
+------ D3JS
 ----- (Frontend) Frameworks
 ------ PhaserJS
 ------ Svelte
@@ -246,6 +264,8 @@
 
 ---- Swift - Apple Developer
 
+---- ASP.NET
+
 ---- Flutter
 
 ---- C
@@ -253,6 +273,8 @@
 ---- C#
 
 ---- C++
+
+---- Objective C
 
 ---- Visual Basic
 
