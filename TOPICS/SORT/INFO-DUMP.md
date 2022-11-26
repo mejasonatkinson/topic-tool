@@ -290,3 +290,93 @@ Writing automation tests
 Zapier
 Zip
 apollo/client
+
+
+DHTML
+XHTML
+
+XML
+
+HAML
+
+
+----- PHP PEAR
+----- Versions
+
+----- Template Engine
+------ Twig
+
+----- Library
+------ PHPMailer
+
+----- Frameworks
+
+------- Versions
+-------- Laravel 6
+------ Cake PHP
+------ Yii
+------- Testing
+-------- PHPUnit
+
+----- Content Management Systems
+
+
+------- Wordpress Theme Development
+------- Wordpress Plugin Development
+------- Wordpress Divi Development
+------- Wordpress WooCommerce Development
+
+
+------ Drupal
+------ Joomla
+------ Magento
+
+
+
+<!--
+----- Standard
+----- Package Manager
+------ Yarn
+----- Version
+------ ES5
+----- Superset
+----- StorybookJS
+----- AJAX
+----- JSON
+----- Compiler
+------ CoffeScript
+----- Library
+------ Jquery
+------ D3JS
+----- (Frontend) Frameworks
+------ PhaserJS
+------ Svelte
+------ React
+------- Framework
+-------- Gatsby
+-------- NextJS
+------ StencilJS
+------ SolidJS
+------- SolidJS Start
+------ Vue
+------- Versions
+-------- Vue 2
+-------- Vue 3
+------- Framework
+-------- Nuxt
+-------- Vuetify
+------- State Management
+-------- Vuex
+-------- Pinia
+------ Angular
+----- Grunt
+----- GulpJS
+----- v8Engine
+------ Node
+------- Package Manager
+-------- npm
+-------- npx
+-------- nvm
+------- Headless, Content Management Systems
+-------- Strapi CMS
+-->
