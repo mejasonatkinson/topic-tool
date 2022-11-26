@@ -6,47 +6,28 @@
 - [PHP](../LEVEL-5/PHP.md)
 - [PYTHON](../LEVEL-5/PYTHON.md)
 
-
-
-
-
-
-
-
+- [SVG](../LEVEL-5/SVG.md)
 
 <!--
----- SVG
+
+---- SQL
+---- GraphQL
 
 ---- R
-
 ---- Ruby
 ----- Frameworks
 ------ Ruby on rails
-
 ---- Go
-
 ---- Java
-
 ---- Swift - Apple Developer
-
 ---- ASP.NET
-
 ---- Flutter
-
 ---- C
-
 ---- C#
-
 ---- C++
-
 ---- Objective C
-
 ---- Visual Basic
-
 ---- Arduino 
-
 ---- Processing
-
 ---- P5js
-
 -->

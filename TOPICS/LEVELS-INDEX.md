@@ -1,30 +1,32 @@
-- EDUCATION
+<!-- - EDUCATION -->
 
+<!-- 
 -- BA
 -- BSc
 -- MA
 -- MSc
--- Phd
+-- Phd 
+-->
 
-- ENGLISH
+<!-- - ENGLISH -->
 
-- MATHS
+<!-- - MATHS -->
 
 - [SCIENCE](LEVEL-1/SCIENCE.md)
 
-- GEOGRAPHY
+<!-- - GEOGRAPHY -->
 
-- HISTORY
+<!-- - HISTORY -->
 
-- ART & DESIGN
+<!-- - ART & DESIGN -->
 
-- INFORMATION TECHNOLOGY
+<!-- - INFORMATION TECHNOLOGY -->
 
-- BUSSINESS STUDIES
+<!-- - BUSSINESS STUDIES -->
 
-- MEDIA STUDIES
+<!-- - MEDIA STUDIES -->
 
-- PHYSICAL EDUCATION 
+<!-- - PHYSICAL EDUCATION  -->
 
 
 

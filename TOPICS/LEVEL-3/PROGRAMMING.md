@@ -7,8 +7,6 @@
 
 ---- UI
 ----- Frameworks
------- Zurb Foundation
------- Bootstrap
 ------ Astro
 
 ---- HTTP
@@ -62,6 +60,5 @@
 ---- Firebase
 ---- Supabase
 
----- SQL
----- GraphQL
+
 -->
