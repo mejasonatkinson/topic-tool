@@ -28,8 +28,6 @@
 
 -- Chatbot
 
-
-
 --- Operating Systems
 ---- Linux
 ----- Ubuntu
