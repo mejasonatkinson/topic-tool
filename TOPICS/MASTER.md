@@ -1,0 +1,36 @@
+- EDUCATION
+
+-- BA
+-- BSc
+-- MA
+-- MSc
+-- Phd
+
+- ENGLISH
+
+- MATHS
+
+- SCIENCE 
+
+- GEOGRAPHY
+
+- HISTORY
+
+- ART & DESIGN
+
+- INFORMATION TECHNOLOGY
+
+- BUSSINESS STUDIES
+
+- MEDIA STUDIES
+
+- PHYSICAL EDUCATION 
+
+
+
+
+
+
+
+
+
