@@ -16,7 +16,7 @@
 
 <!-- - GEOGRAPHY -->
 
-<!-- - HISTORY -->
+- [HISTORY](LEVEL-1/HISTORY.md)
 
 <!-- - ART & DESIGN -->
 
