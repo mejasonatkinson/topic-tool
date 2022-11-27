@@ -380,3 +380,82 @@ HAML
 ------- Headless, Content Management Systems
 -------- Strapi CMS
 -->
+
+
+
+<!--
+---- HTTP
+-->
+
+
+<!--
+
+---- Linters
+
+---- UI
+----- Frameworks
+------ Astro
+
+---- API
+---- Postman
+---- Rest API
+---- SCORM
+---- XAPI
+---- Web APIs
+---- WebGL
+---- Watson API
+---- Stripe
+----- Stripe API
+
+---- YAML
+
+---- Web Components
+----- Framework
+----- AMP.dev
+
+---- RSS
+
+---- Bun
+
+---- Deno
+
+---- Docker
+
+---- Internet Hosted Service for Remote Development
+------ Gitpod
+
+---- Apache HTTP Server
+
+--- Databases
+
+---- MongoDB
+---- MySQL
+---- PostgreSQL
+---- InnoDB
+---- MariaDB
+
+---- Firebase
+---- Supabase
+
+
+-->
+
+<!--
+---- R
+---- Ruby
+----- Frameworks
+------ Ruby on rails
+---- Go
+---- Java
+---- Swift - Apple Developer
+---- ASP.NET
+---- Flutter
+---- C
+---- C#
+---- C++
+---- Objective C
+---- Visual Basic
+---- Arduino 
+---- Processing
+---- P5js
+-->

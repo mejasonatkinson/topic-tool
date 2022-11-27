@@ -1,17 +1,17 @@
 # CSS
 
 ## Versions
-- [CSS1](../LEVEL-6/CSS/VERSIONS/CSS1.md)
-- [CSS2](../LEVEL-6/CSS/VERSIONS/CSS2.md)
-- [CSS3](../LEVEL-6/CSS/VERSIONS/CSS3.md)
+- [CSS1]()
+- [CSS2]()
+- [CSS3]()
 
 ## Preprocessors
-- [SASS](../LEVEL-6/CSS/PREPROCESSORS/SASS.md) 
-- [LESS](../LEVEL-1/CSS/PREPROCESSORS/LESS.md)
+- [SASS]() 
+- [LESS]()
 
 ## Frameworks
-- [TAILWIND](../LEVEL-6/CSS/FRAMEWORKS/TAILWIND.md) 
-- [BULMA](../LEVEL-1/CSS/FRAMEWORKS/BULMA.md)
+- [TAILWIND]() 
+- [BULMA]()
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/CSS -->

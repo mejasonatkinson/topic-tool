@@ -1,21 +1,21 @@
 # PYTHON
 
 ## Package Manager
-- [PIP](../LEVEL-6/PYTHON/PACKAGE-MANAGER/PIP.md)
+- [PIP]()
 
 ## Versions
-- [PYTHON 3](../LEVEL-6/PYTHON/VERSIONS/PYTHON3.md)
+- [PYTHON 3]()
 
 <!-- ### Resources -->
 <!-- https://en.wikipedia.org/wiki/History_of_Python -->
 <!-- https://www.python.org/doc/versions/ -->
 
 ## Frameworks
-- [DJANGO](../LEVEL-6/PYTHON/FRAMEWORKS/DJANGO.md)
-- [FLASK](../LEVEL-6/PYTHON/FRAMEWORKS/FLASK.md)
+- [DJANGO]()
+- [FLASK]()
 
 ## Content Management Systems
-- [WAGTAIL](../LEVEL-6/PYTHON/CMS/WAGTAIL.md)
+- [WAGTAIL]()
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->
