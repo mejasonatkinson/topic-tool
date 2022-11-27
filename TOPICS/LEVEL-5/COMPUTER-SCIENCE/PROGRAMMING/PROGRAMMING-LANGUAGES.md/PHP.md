@@ -18,6 +18,10 @@
 - [WORDPRESS]()
 - [CRAFT CMS]()
 
+## Syntax
+
+- [FUNCTIONS]()
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/PHP -->
 <!-- https://www.w3schools.com/php/ -->

@@ -17,6 +17,12 @@
 ## Content Management Systems
 - [WAGTAIL]()
 
+## Syntax
+
+- [FUNCTIONS]()
+- [METHODS]()
+- [KEYWORDS]()
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->
 <!-- https://www.w3schools.com/python/ -->

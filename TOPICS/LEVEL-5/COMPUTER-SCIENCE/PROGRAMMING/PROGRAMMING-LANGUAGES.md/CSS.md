@@ -13,6 +13,12 @@
 - [TAILWIND]() 
 - [BULMA]()
 
+## Syntax
+
+- [SELECTORS]()
+- [PROPERTIES]()
+
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/CSS -->
 <!-- https://www.w3schools.com/css/ -->

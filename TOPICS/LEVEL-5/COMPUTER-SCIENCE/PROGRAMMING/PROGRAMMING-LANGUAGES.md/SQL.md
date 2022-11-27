@@ -1,5 +1,10 @@
 # SQL
 
+## Syntax
+
+- [STATEMENTS]()
+- [KEYWORDS]()
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/SQL -->
 <!-- https://www.w3schools.com/sql/ -->

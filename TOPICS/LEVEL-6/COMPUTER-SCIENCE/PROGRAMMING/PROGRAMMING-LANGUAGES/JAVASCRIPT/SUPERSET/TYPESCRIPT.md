@@ -1,5 +1,10 @@
 # TYPESCRIPT
 
+## Syntax
+
+- [PROPERTIES]()
+- [METHODS]()
+
 <!-- ## Resources -->
 <!-- https://www.typescriptlang.org/ -->
 <!-- https://en.wikipedia.org/wiki/TypeScript -->

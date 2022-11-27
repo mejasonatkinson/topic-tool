@@ -21,6 +21,12 @@
 
 ## Frameworks
 
+## Syntax
+
+- [PROPERTIES]()
+- [METHODS]()
+
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/JavaScript -->
 <!-- https://www.w3schools.com/js/ -->

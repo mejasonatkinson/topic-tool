@@ -20,6 +20,11 @@
 - [BOOTSTRAP; Twitter]()
 - [FOUNDATION; Zurb]()
 
+## Syntax
+
+- [ELEMENTS]()
+- [ATTRIBUTES]()
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/HTML -->
 <!-- https://www.w3schools.com/html/ -->

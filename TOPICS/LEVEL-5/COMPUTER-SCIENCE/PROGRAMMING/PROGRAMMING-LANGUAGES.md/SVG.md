@@ -1,5 +1,10 @@
 # SVG
 
+## Syntax
+
+- [ELEMENTS]()
+- [ATTRIBUTES]()
+
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/SVG -->
 <!-- https://www.w3schools.com/graphics/svg_intro.asp -->

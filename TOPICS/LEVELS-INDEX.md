@@ -1,8 +1,4 @@
-
-
 - [SCIENCE](LEVEL-1/SCIENCE.md)
-
-
 
 - [HISTORY](LEVEL-1/HISTORY.md)
 
