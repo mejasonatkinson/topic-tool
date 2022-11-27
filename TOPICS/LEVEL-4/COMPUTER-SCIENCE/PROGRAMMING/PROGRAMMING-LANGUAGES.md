@@ -8,4 +8,3 @@
 - [SVG]()
 - [SQL]()
 - [GraphQL]()
-

@@ -1,20 +1,8 @@
-<!-- - EDUCATION -->
 
-<!-- 
--- BA
--- BSc
--- MA
--- MSc
--- Phd 
--->
-
-<!-- - ENGLISH -->
-
-<!-- - MATHS -->
 
 - [SCIENCE](LEVEL-1/SCIENCE.md)
 
-<!-- - GEOGRAPHY -->
+
 
 - [HISTORY](LEVEL-1/HISTORY.md)
 
@@ -28,11 +16,21 @@
 
 <!-- - PHYSICAL EDUCATION  -->
 
+<!-- - GEOGRAPHY -->
 
+<!-- - EDUCATION -->
 
+<!-- 
+-- BA
+-- BSc
+-- MA
+-- MSc
+-- Phd 
+-->
 
+<!-- - ENGLISH -->
 
-
+<!-- - MATHS -->
 
 
 
