@@ -1,8 +1,11 @@
+
 - [SCIENCE](LEVEL-1/SCIENCE.md)
 
 - [HISTORY](LEVEL-1/HISTORY.md)
 
-<!-- - ART & DESIGN -->
+- [EDUCATION](LEVEL-1/EDUCATION.md)
+
+- [ART & DESIGN](LEVEL-1/ART-&-DESIGN.md)
 
 <!-- - INFORMATION TECHNOLOGY -->
 
@@ -16,17 +19,6 @@
 
 <!-- - EDUCATION -->
 
-<!-- 
--- BA
--- BSc
--- MA
--- MSc
--- Phd 
--->
-
 <!-- - ENGLISH -->
 
 <!-- - MATHS -->
-
-
-
