@@ -1,7 +1,14 @@
 - [ART]()
 
     - [PHOTOGRAPHY]()
-    - [DRAWING]()
+
+        - [ADOBE PHOTOSHOP]()
+        - [ADOBE LIGHTROOM]()
+
+    - [ILLUSTRATION]()
+
+        - [ADOBE ILLUSTRATOR]()
+
     - [PAINTING]()
     - [PRINTING]()
 
@@ -13,6 +20,12 @@
     - [GRAPHIC DESIGN]()
 
         - [PUBLISHING]()
+
+            - [ADOBE INDESIGN]()
+
         - [INTERFACE]()
             - [WEB DESIGN]()
 
+                - [ADOBE XD]()
+                - [FIGMA]()
+                - [SKETCH]()
