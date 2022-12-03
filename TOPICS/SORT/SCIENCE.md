@@ -1,26 +1,6 @@
 // - Science
 
--- Science of Learning
--- Science of Notetaking
--- Science of Presenting
--- Science of Habit Creation
 
--- Science of Management
----- Project Management
---- Tools
----- Atlassian
------ Trello
------ Jira
------ Confluence
------ Agile
------- frameworks
-------- Scrum
------- Techniques
-------- Pair programming
-
-// -- Rocket Science
-
-// -- Computer Science
 
 -- Build a Computer
 
