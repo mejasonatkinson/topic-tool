@@ -9,18 +9,18 @@
 - [SCIENCE OF HABIT CREATION]()
 - [SCIENCE OF MANAGEMENT]()
 
-- [PROJECT MANAGEMENT]()
+    - [PROJECT MANAGEMENT]()
 
-    - [TOOLS]()
-        - [ATLASSIAN]()
-            - [TRELLO]()
-            - [JIRA]()
-            - [CONFLUENCE]()
+        - [TOOLS]()
+            - [ATLASSIAN]()
+                - [TRELLO]()
+                - [JIRA]()
+                - [CONFLUENCE]()
 
-        - [AGILE]()
-            - [FRAMEWORKS]()
-            - [SCRUM]()
+            - [AGILE]()
+                - [FRAMEWORKS]()
+                - [SCRUM]()
 
-        - [TECHNIQUES]()
-            - [PAIR PROGRAMMING]()
+            - [TECHNIQUES]()
+                - [PAIR PROGRAMMING]()
 

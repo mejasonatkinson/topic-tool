@@ -37,6 +37,11 @@
 
     - [SCULPTURE]()
 
+    - [3D]
+
+        - [AUTODESK, 3DS MAX]() <!-- formerly 3D Studio and 3D Studio Max -->
+        - [AUTODESK, MAYA]()
+
 - [DESIGN]()
 
     - [DESIGNERS]()

@@ -1,5 +1,7 @@
 # SCIENCE OF LEARNING
 
+- [JIT, LEARNING]() <!-- JUST IN TIME, LEARNING -->
+
 <!-- Marty Lobdell - Study Less Study Smart
 https://www.youtube.com/watch?v=IlU-zDU6aQ0
 

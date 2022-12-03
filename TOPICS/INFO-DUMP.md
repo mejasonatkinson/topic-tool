@@ -459,3 +459,67 @@ HAML
 ---- Processing
 ---- P5js
 -->
+
+
+- Microsoft
+
+-- Excel
+--- Data Analysis
+--- Data Visualization
+
+-- Word
+-- Powerpoint
+
+
+
+// - Science
+
+-- AI
+
+-- Chatbot
+
+--- Operating Systems
+---- Linux
+----- Ubuntu
+---- MacOS
+---- Windows
+
+--- Terminal
+--- Windows Command Line
+
+--- cURL
+
+--- Cloud Computing
+---- AWS
+---- Google Cloud
+
+--- cPanel
+
+--- Online Code Editor
+---- CodePen
+---- JSfiddle
+
+--- VirtualBox
+
+--- Development Methodologies
+---- Extreme Programming
+---- BEM (Block, Element, Modifier)
+---- Atomic Design
+
+--- Development Principle 
+---- DRY
+---- KISS
+---- OOP
+---- TDD
+
+--- Software Architecture	
+---- MVC (Model-view-controller)
+---- MVMM (Model-view-viewmodel)
+---- MVP (Model-view-presenter)
+
+--- Game engine
+---- Unity
+---- Unreal Engine
+
+--- Programmers
+
