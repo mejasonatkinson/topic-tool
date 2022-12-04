@@ -333,59 +333,8 @@ HAML
 
 
 
-<!--
------ Standard
------ Package Manager
------- Yarn
------ Version
------- ES5
------ Superset
------ StorybookJS
------ AJAX
------ JSON
------ Compiler
------- CoffeScript
------ Library
------- Jquery
------- D3JS
------ (Frontend) Frameworks
------- PhaserJS
------- Svelte
------- React
-------- Framework
--------- Gatsby
--------- NextJS
------- StencilJS
------- SolidJS
-------- SolidJS Start
------- Vue
-------- Versions
--------- Vue 2
--------- Vue 3
-------- Framework
--------- Nuxt
--------- Vuetify
-------- State Management
--------- Vuex
--------- Pinia
------- Angular
------ Grunt
------ GulpJS
------ v8Engine
------- Node
-------- Package Manager
--------- npm
--------- npx
--------- nvm
-------- Headless, Content Management Systems
--------- Strapi CMS
--->
 
 
-
-<!--
----- HTTP
--->
 
 
 <!--
@@ -521,5 +470,4 @@ HAML
 ---- Unity
 ---- Unreal Engine
 
---- Programmers
 
