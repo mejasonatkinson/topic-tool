@@ -2,18 +2,17 @@
 
     - [DIVERSITY & INCLUSION]()
 
-<!--
--- Neurodiversity
---- ADHD
---- Dyslexia
---- Dyspraxia (DCD)
+    - [NEURODIVERSITY]()
 
--- LGBTQ+
+        - [ADHD]()
+        - [DYSLEXIA]()
+        - [DYSPRAXIA]() <!-- DCD -->
 
--- Diversity in Tech
--- Women in Tech / Women in STEM(STEAM)
--->
+    - [LGBTQ+]()
 
+    - [DIVERSITY IN TECH]()
+
+    - [WOMAN IN TECH]() <!-- Women in Tech / Women in STEM (STEAM) -->
 
     - [SELF-EMPLOYMENT]()
 
