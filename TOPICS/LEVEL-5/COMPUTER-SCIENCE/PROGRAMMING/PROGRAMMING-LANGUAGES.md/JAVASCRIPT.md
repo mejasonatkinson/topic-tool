@@ -2,49 +2,23 @@
 
 
 <!--
------ Standard
------ Package Manager
------- Yarn
------ Version
------- ES5
------ Superset
+
+
 ----- StorybookJS
 ----- AJAX
 ----- JSON
 ----- Compiler
------- CoffeScript
+
 ----- Library
------- Jquery
------- D3JS
+
 ----- (Frontend) Frameworks
------- PhaserJS
------- Svelte
------- React
-------- Framework
--------- Gatsby
--------- NextJS
------- StencilJS
------- SolidJS
-------- SolidJS Start
------- Vue
-------- Versions
--------- Vue 2
--------- Vue 3
-------- Framework
--------- Nuxt
--------- Vuetify
-------- State Management
--------- Vuex
--------- Pinia
------- Angular
+
+
+
 ----- Grunt
 ----- GulpJS
 ----- v8Engine
------- Node
-------- Package Manager
--------- npm
--------- npx
--------- nvm
+
 ------- Headless, Content Management Systems
 -------- Strapi CMS
 -->
@@ -53,6 +27,7 @@
 - [ECMASCRIPT]()
 
 ## Package Manager
+- [YARN]()
 
 ## Versions
 - [ES5]()
@@ -66,9 +41,65 @@
 
 ## Compiler
 
+
+
 ## Libraries
 
+- [JQUERY]()
+- [D3JS]()
+
 ## Frameworks
+
+### Frontend
+
+- [VUE]()
+
+    #### Versions
+    - [VUE 2]()
+    - [VUE 3]()
+    #### Framework
+    - [NUXT]()
+    - [VUETIFY]()
+    #### State Management
+    - [VUEX]()
+    - [PINIA]()
+
+- [PHASER JS]()
+
+- [SVELTE]()
+
+- [REACT]()
+
+    #### Framework
+    - [GATSBY]()
+    - [NEXT JS]()
+
+- [STENCIL JS]()
+
+- [SOLID JS]()
+
+    #### Framework
+    - [SOLID JS START]()
+
+- [ANGULAR]()
+
+## JavaScript Engine
+
+- [V8ENGINE]()
+
+    ### environment
+    - []()
+
+------ Node
+
+    #### Package Manager
+    - []()
+
+-------- npm
+-------- npx
+-------- nvm
+
+
 
 ## Syntax
 
