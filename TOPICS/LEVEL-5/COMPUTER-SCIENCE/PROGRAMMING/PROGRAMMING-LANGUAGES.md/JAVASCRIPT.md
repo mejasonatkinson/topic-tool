@@ -1,30 +1,16 @@
 # JAVASCRIPT
 
-
-<!--
-
-
------ StorybookJS
------ AJAX
------ JSON
------ Compiler
-
------ Library
-
------ (Frontend) Frameworks
-
-
-
------ Grunt
------ GulpJS
------ v8Engine
-
-------- Headless, Content Management Systems
--------- Strapi CMS
--->
-
 ## Standards
+
 - [ECMASCRIPT]()
+
+### File Format
+
+- [JSON]()
+
+## web development techniques
+
+- [AJAX]()
 
 ## Package Manager
 - [YARN]()
@@ -83,23 +69,35 @@
 
 - [ANGULAR]()
 
+    #### UI Development
+
+    - [STORYBOOK JS]()
+
+
 ## JavaScript Engine
 
 - [V8ENGINE]()
 
     ### environment
-    - []()
+    
+    - [NODE JS]()
 
------- Node
+    #### headless, Content Management Systems (CMS)
+
+    - [STRAPI CMS]()
 
     #### Package Manager
-    - []()
+    
+    - [NPM]()
 
--------- npm
--------- npx
--------- nvm
+        ##### JavaScript Task Runner
 
+        - [GRUNT JS]()
 
+        - [GULP JS]()
+
+    - [NPX]()
+    - [NVM]()
 
 ## Syntax
 
