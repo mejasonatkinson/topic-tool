@@ -4,6 +4,30 @@
 
 - [PROGRAMMING]()
 
+    - [DEVELOPMENT METHODOLOGIES]()
+
+        - [PROJECT MANAGEMENT]()
+
+            - [TOOLS]()
+                - [ATLASSIAN]()
+                    - [TRELLO]()
+                    - [JIRA]()
+                    - [CONFLUENCE]()
+
+                - [AGILE]()
+                    - [FRAMEWORKS]()
+                        - [SCRUM]()
+                        - [EXTREME PROGRAMMING]()
+
+        - [ATOMIC DESIGN]()
+        - [BEM]() <!-- (Block, Element, Modifier) -->
+
+    - [DEVELOPMENT PRINCIPLES]()
+        - [DRY]()
+        - [KISS]()
+        - [OOP]()
+        - [TDD]()
+
 - [ELECTRONICS]()
     - [COMPUTER TECHNICIAN]()
 
@@ -64,16 +88,7 @@
 
 <!--  
 
---- Development Methodologies
----- Extreme Programming
----- BEM (Block, Element, Modifier)
----- Atomic Design
 
---- Development Principle 
----- DRY
----- KISS
----- OOP
----- TDD
 
 --- Software Architecture	
 ---- MVC (Model-view-controller)

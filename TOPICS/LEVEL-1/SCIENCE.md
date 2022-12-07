@@ -21,7 +21,8 @@
 
             - [AGILE]()
                 - [FRAMEWORKS]()
-                - [SCRUM]()
+                    - [SCRUM]()
+                    - [EXTREME PROGRAMMING]()
 
             - [TECHNIQUES]()
                 - [PAIR PROGRAMMING]()
