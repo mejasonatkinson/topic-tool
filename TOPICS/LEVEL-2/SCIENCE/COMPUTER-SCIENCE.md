@@ -14,10 +14,15 @@
                     - [JIRA]()
                     - [CONFLUENCE]()
 
-                - [AGILE]()
-                    - [FRAMEWORKS]()
-                        - [SCRUM]()
-                        - [EXTREME PROGRAMMING]()
+            - [AGILE]()
+                - [FRAMEWORKS]()
+                    - [SCRUM]()
+                    - [EXTREME PROGRAMMING]()
+
+            - [SOFTWARE ARCHITECTURE]()
+                - [MVC]() <!-- (Model-view-controller) -->
+                - [MVMM]() <!-- (Model-view-viewmodel) -->
+                - [MVP]() <!-- (Model-view-presenter) -->
 
         - [ATOMIC DESIGN]()
         - [BEM]() <!-- (Block, Element, Modifier) -->
@@ -63,10 +68,7 @@
 
 - [CURL]() <!-- cURL -->
 
-
-<!-- web hosting control panel software -->
-
-- [CPANEL]()
+- [CPANEL]() <!-- web hosting control panel software -->
 
 - [VIRTUAL MACHINES]() <!-- Virtual Machines (VM)  -->
 
@@ -90,9 +92,6 @@
 
 
 
---- Software Architecture	
----- MVC (Model-view-controller)
----- MVMM (Model-view-viewmodel)
----- MVP (Model-view-presenter)
+
 
  -->
