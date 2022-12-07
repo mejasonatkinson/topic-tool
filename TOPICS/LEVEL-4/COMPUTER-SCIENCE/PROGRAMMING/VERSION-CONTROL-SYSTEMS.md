@@ -1,4 +1,0 @@
-# VERSION CONTROL SYSTEM
-
-- [GIT]()
-
