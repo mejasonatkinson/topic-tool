@@ -23,6 +23,10 @@
 
     - [GENRES]()
 
+    - [FRANCHISES]()
+
+        - [GAME OF THRONES]()
+
 - [SOCIAL MEDIA]()
 
     - [TIKTOK]()

@@ -23,7 +23,18 @@
             - [MVP]() <!-- (Minimum viable product) -->
         - [BUSSINESS PLANNING]()
 
+        - [PRESENTING]()
+
+            - [MICROSOFT]
+
+                - [MICROSOFT POWERPOINT]()
+
         - [EXPENSE TRACKING]()
+
+            - [MICROSOFT]
+
+                - [MICROSOFT EXCEL]()
+
         - [INVOICING]()
         - [TAXES]()
             - [HMRC]()

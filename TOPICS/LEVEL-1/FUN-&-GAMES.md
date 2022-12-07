@@ -19,6 +19,8 @@
             - [WII]()
             - [SWITCH]()
 
+    - [PC GAMES]()
+
 - [FUN]()
 
     - [HOBBIES]()

@@ -53,7 +53,16 @@
 
         ## Preprocessors
         - [SASS]() 
+
+            # SASS
+
+            - [Sass CSS](https://sass-lang.com/)
+
         - [LESS]()
+
+            # LESS
+
+            - [Less CSS](https://lesscss.org/)
 
         ## Frameworks
         - [TAILWIND]() 
@@ -108,6 +117,19 @@
 
         ## Superset
         - [TYPESCRIPT]()
+
+            # TYPESCRIPT
+
+            ## Syntax
+
+            - [PROPERTIES]()
+            - [METHODS]()
+
+            <!-- ## Resources -->
+            <!-- https://www.typescriptlang.org/ -->
+            <!-- https://en.wikipedia.org/wiki/TypeScript -->
+            <!-- https://www.w3schools.com/typescript/ -->
+            <!-- https://www.codecademy.com/learn/learn-typescript -->
 
         ## Compiler
 
@@ -293,7 +315,7 @@
         <!-- https://www.codecademy.com/learn/learn-sql -->
         <!-- https://developer.mozilla.org/en-US/docs/Glossary/SQL -->
 
-    - [GraphQL]()
+    - [GRAPHQL]()
 
         # GRAPHQL
 
@@ -302,6 +324,30 @@
         <!-- https://en.wikipedia.org/wiki/GraphQL -->
         <!-- https://www.codecademy.com/resources/docs/open-source/graphql -->
 
+
+
+    - [RUBY]()
+
+        ## Frameworks
+
+        - [RUBY ON RAILS]()
+
+    - [P5JS]()
+    - [PROCESSING]()
+    - [ARDUINO]()
+
+    - [R]()
+    - [RUST]()
+    - [GO]()
+    - [JAVA]()
+    - [SWIFT]()
+    - [ASP.NET]()
+    - [FLUTTER]()
+    - [C]()
+    - [C#]()
+    - [C++]()
+    - [OBJECTIVE C]()
+    - [VISUAL BASIC]()
 
 - [VERSION CONTROL SYSTEMS]()
 
@@ -360,6 +406,13 @@
     - [JETBRAIN]()
 
     - [VISUAL STUDIO CODE]()
+
+        ## Cloud-hosted development environment which use (a version of visual studio code)
+
+        - [CODESPACES]() <!-- * -->
+        - [GITPOD]()
+
+
     - [ATOM]()
     - [SUBLIME TEXT]()
 
@@ -368,3 +421,4 @@
     - [ONLINE CODE EDITORS]()
         - [CODEPEN]()
         - [JSFIDDLE]()
+

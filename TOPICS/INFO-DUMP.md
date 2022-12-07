@@ -331,14 +331,6 @@ HAML
 ------ Joomla
 ------ Magento
 
-
-
-
-
-
-
-<!--
-
 ---- Linters
 
 ---- UI
@@ -370,9 +362,6 @@ HAML
 
 ---- Docker
 
----- Internet Hosted Service for Remote Development
------- Gitpod
-
 ---- Apache HTTP Server
 
 --- Databases
@@ -386,42 +375,5 @@ HAML
 ---- Firebase
 ---- Supabase
 
-
--->
-
-<!--
----- R
----- Ruby
------ Frameworks
------- Ruby on rails
----- Go
----- Java
----- Swift - Apple Developer
----- ASP.NET
----- Flutter
----- C
----- C#
----- C++
----- Objective C
----- Visual Basic
----- Arduino 
----- Processing
----- P5js
--->
-
-
 - Microsoft
-
--- Excel
---- Data Analysis
---- Data Visualization
-
 -- Word
--- Powerpoint
-
-
-
-// - Science
-
-
-

@@ -2,7 +2,15 @@
 
 - [PRESENTATION EXPERTS]()
 
-<!-- How to avoid death By PowerPoint | David JP Phillips | TEDxStockholmSalon
+    ## Tools, used for presenting
+
+    - [MICROSOFT]()
+
+        - [MICROSOFT POWERPOINT]()
+
+<!-- 
+
+How to avoid death By PowerPoint | David JP Phillips | TEDxStockholmSalon
 https://www.youtube.com/watch?v=Iwpi1Lm6dFo
 
 The magical science of storytelling | David JP Phillips | TEDxStockholm
@@ -43,4 +51,6 @@ What I learned from 100 days of rejection | Jia Jiang
 https://www.youtube.com/watch?v=-vZXgApsPCQ
 
 Chip Kidd: The art of first impressions — in design and life
-https://www.youtube.com/watch?v=0nI65jgHG9o -->
+https://www.youtube.com/watch?v=0nI65jgHG9o 
+
+-->
