@@ -57,13 +57,21 @@
 
         ## Frameworks
         - [TAILWIND]() 
+
+            # TAILWIND
+
+            - [Tailwind CSS](https://tailwindcss.com/)
+
         - [BULMA]()
+
+            # BULMA
+
+            - [Bulma CSS Framework](https://bulma.io/)
 
         ## Syntax
 
         - [SELECTORS]()
         - [PROPERTIES]()
-
 
         <!-- ## Resources -->
         <!-- https://en.wikipedia.org/wiki/CSS -->
