@@ -41,6 +41,14 @@
 
     - [DESIGNERS]()
 
+        - [STEFAN SAGMEISTER]()
+        - [SAUL BASS]()
+        - [PAULA SCHER]()
+        - [NEVILLE BRODY]()
+        - [DAVID CARSON]()
+        - [CHIP KIDD]()
+        - [JESSICA WALSH]()
+
     - [FASHION DESIGN]()
 
     - [GRAPHIC DESIGN]()
