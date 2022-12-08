@@ -228,6 +228,10 @@
         ## Package Manager
         - [COMPOSER]()
 
+        ## Extension and Application Repository
+
+        - [PHP PEAR]()
+
         ## Versions
         - [PHP4]()
         - [PHP5]()
@@ -235,7 +239,17 @@
         - [PHP7]()
         - [PHP8]()
 
+        ## Template Engine
+        - [TWIG]()
+
+        ## Libaries
+        - [PHPMAILER]
+
         ## Frameworks
+            ## Testing
+            - [PHPUNIT]
+        - [YII]()
+        - [CAKEPHP]()
         - [SYMFONY]()
         - [LARAVEL]()
 
@@ -363,6 +377,47 @@
     - [C++]()
     - [OBJECTIVE C]()
     - [VISUAL BASIC]()
+
+
+# APIs
+
+    - [REST API]()
+
+    - [POSTMAN]()
+
+    ## Web APIs
+
+    <!-- https://developer.mozilla.org/en-US/docs/Web/API -->
+    <!-- https://www.w3schools.com/js/js_api_intro.asp -->
+
+    ## eLearning 
+
+        - [SCORM]()
+        - [XAPI]()
+
+    - [WATSON]()
+        - [WATSON API]()
+    
+    - [STRIPE]()
+        - [STRIPE API]()
+
+    - [JAVASCRIPT]()
+
+        - [WEBGL]()
+
+# Databases
+
+<!--
+---- MongoDB
+---- MySQL
+---- PostgreSQL
+---- InnoDB
+---- MariaDB
+
+---- Firebase
+---- Supabase
+-->
+
 
 - [VERSION CONTROL SYSTEMS]()
 

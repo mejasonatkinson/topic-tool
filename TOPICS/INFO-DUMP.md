@@ -295,24 +295,6 @@ apollo/client
 
 
 
------ PHP PEAR
------ Versions
-
------ Template Engine
------- Twig
-
------ Library
------- PHPMailer
-
------ Frameworks
-
-------- Versions
--------- 
------- Cake PHP
------- Yii
-------- Testing
--------- PHPUnit
-
 
 
 
@@ -323,16 +305,7 @@ apollo/client
 ----- Frameworks
 ------ Astro
 
----- API
----- Postman
----- Rest API
----- SCORM
----- XAPI
----- Web APIs
----- WebGL
----- Watson API
----- Stripe
------ Stripe API
+
 
 ---- YAML
 
@@ -350,16 +323,7 @@ apollo/client
 
 ---- Apache HTTP Server
 
---- Databases
 
----- MongoDB
----- MySQL
----- PostgreSQL
----- InnoDB
----- MariaDB
-
----- Firebase
----- Supabase
 
 - Microsoft
 -- Word

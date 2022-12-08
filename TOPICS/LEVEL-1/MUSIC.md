@@ -5,6 +5,15 @@
 
     - [GUITAR]()
 
+        - [GUITARISTS]()
+
+            - [JIMI HENDRIX]()
+            - [GEORGE HARRISION]()
+            - [BRIAN MAY]()
+            - [B.B. KING]()
+            - [SLASH]()
+            - [KURT COBAIN]()
+
         - [ELECTRIC GUITAR]()
 
             - [ELECTRIC GUITAR, TYPES]()
