@@ -292,12 +292,7 @@ Zip
 apollo/client
 
 
-DHTML
-XHTML
 
-XML
-
-HAML
 
 
 ----- PHP PEAR
@@ -312,24 +307,15 @@ HAML
 ----- Frameworks
 
 ------- Versions
--------- Laravel 6
+-------- 
 ------ Cake PHP
 ------ Yii
 ------- Testing
 -------- PHPUnit
 
------ Content Management Systems
 
 
-------- Wordpress Theme Development
-------- Wordpress Plugin Development
-------- Wordpress Divi Development
-------- Wordpress WooCommerce Development
 
-
------- Drupal
------- Joomla
------- Magento
 
 ---- Linters
 

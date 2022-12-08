@@ -30,6 +30,10 @@
         - [BOOTSTRAP; Twitter]()
         - [FOUNDATION; Zurb]()
 
+        ### File Format
+
+        - [XML]()
+
         ## Syntax
 
         - [ELEMENTS]()
@@ -56,7 +60,7 @@
 
             # SASS
 
-            - [Sass CSS](https://sass-lang.com/)
+            - [Sass Lang](https://sass-lang.com/)
 
         - [LESS]()
 
@@ -235,9 +239,22 @@
         - [SYMFONY]()
         - [LARAVEL]()
 
+            ## Versions
+            - [LARAVEL 6]()
+
         ## Content Management Systems
         - [WORDPRESS]()
+
+            - [WORDPRESS THEME DEVELOPMENT]()
+            - [WORDPRESS PLUGIN DEVELOPMENT]()
+            - [WORDPRESS DIVI DEVELOPMENT]()
+            - [WORDPRESS WOOCOMMERCE DEVELOPMENT]()
+
         - [CRAFT CMS]()
+
+        - [DRUPAL]()
+        - [JOOMLA]()
+        - [MAGENTO]()
 
         ## Syntax
 
@@ -323,8 +340,6 @@
         <!-- https://graphql.org/ -->
         <!-- https://en.wikipedia.org/wiki/GraphQL -->
         <!-- https://www.codecademy.com/resources/docs/open-source/graphql -->
-
-
 
     - [RUBY]()
 

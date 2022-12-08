@@ -28,10 +28,10 @@
         - [BEM]() <!-- (Block, Element, Modifier) -->
 
     - [DEVELOPMENT PRINCIPLES]()
-        - [DRY]()
-        - [KISS]()
-        - [OOP]()
-        - [TDD]()
+        - [DRY]() <!-- Dont Repeat Yourself -->
+        - [KISS]() <!-- Keep it Simple Stupid -->
+        - [OOP]() <!-- Object Oriented Programming -->
+        - [TDD]() <!-- Test Driven Programming -->
 
 - [ELECTRONICS]()
     - [COMPUTER TECHNICIAN]()
@@ -88,10 +88,3 @@
         - [AUTODESK, MAYA]()
 
 
-<!--  
-
-
-
-
-
- -->
