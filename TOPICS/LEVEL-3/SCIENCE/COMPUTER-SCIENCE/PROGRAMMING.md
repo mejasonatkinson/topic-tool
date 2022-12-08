@@ -407,16 +407,17 @@
 
 # Databases
 
-<!--
----- MongoDB
----- MySQL
----- PostgreSQL
----- InnoDB
----- MariaDB
+- [MONGODB]()
+- [MYSQL]()
+- [POSTGRESQL]()
+- [INNODB]()
+- [MARIADB]()
+- [NOSQL]()
 
----- Firebase
----- Supabase
--->
+# Hosting Services
+
+- [FIREBASE]() Firebase
+- [SUPABASE]() Supabase
 
 
 - [VERSION CONTROL SYSTEMS]()
@@ -468,6 +469,10 @@
     - [FTP]()
     - [FTPS]()
 
+# Lint / Linter
+
+    - [ESLINT]()
+
 - [CODE EDITORS]()
 
     - [ADOBE]
@@ -492,3 +497,27 @@
         - [CODEPEN]()
         - [JSFIDDLE]()
 
+
+<!-- 
+
+---- UI
+----- Frameworks
+------ Astro
+
+---- YAML
+
+---- Web Components
+----- Framework
+----- AMP.dev
+
+---- RSS
+
+---- Bun
+
+---- Deno
+
+---- Docker
+
+---- Apache HTTP Server 
+
+-->

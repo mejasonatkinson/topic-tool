@@ -290,40 +290,5 @@ Writing automation tests
 Zapier
 Zip
 apollo/client
-
-
-
-
-
-
-
-
-
----- Linters
-
----- UI
------ Frameworks
------- Astro
-
-
-
----- YAML
-
----- Web Components
------ Framework
------ AMP.dev
-
----- RSS
-
----- Bun
-
----- Deno
-
----- Docker
-
----- Apache HTTP Server
-
-
-
-- Microsoft
--- Word
+Microsoft
+Word
