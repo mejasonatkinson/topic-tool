@@ -55,6 +55,7 @@
 
         - [BRANDING DESIGN]()
             - [DESIGN SYSTEMS]()
+            - [LOGO DESIGN]()
 
         - [PUBLISHING]()
 

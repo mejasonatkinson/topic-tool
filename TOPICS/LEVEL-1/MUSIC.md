@@ -25,6 +25,8 @@
         - [NOTATION]()
             - [TABLATURE]()
 
+        ## Learning
+
 <!-- ## Resources -->
 <!-- https://www.fender.com/play -->
 <!-- https://yousician.com/ -->

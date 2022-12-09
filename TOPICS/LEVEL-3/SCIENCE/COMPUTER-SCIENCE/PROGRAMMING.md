@@ -4,9 +4,16 @@
 
 # Development
 
-    ## packages
+- [DOCKER]()
+- [KUBERNETES]()
 
-        - [DOCKER]()
+# Programming Stacks
+
+- [LAMP]()
+- [MEAN]()
+- [MERN]()
+- [MEVN]()	
+
 
 - [PROGRAMMING LANGUAGES]()
 
@@ -326,6 +333,11 @@
         - [DJANGO]()
         - [FLASK]()
 
+        ## Modules	
+        - [PYGAME]()
+
+        <!-- https://www.pygame.org/ -->
+
         ## Content Management Systems
         - [WAGTAIL]()
 
@@ -387,6 +399,10 @@
         ## Frameworks
 
         - [RUBY ON RAILS]()
+
+        ## Static Site Generator
+
+        - [JEKYLL]()
 
     - [P5JS]()
     - [PROCESSING]()
@@ -511,11 +527,15 @@
 
     - [VISUAL STUDIO CODE]()
 
-        ## Cloud-hosted development environment which use (a version of visual studio code)
+        ## Cloud-hosted development environment (which use a version of visual studio code)
 
         - [CODESPACES]() <!-- * -->
         - [GITPOD]()
 
+        ## Local Development
+
+            - [XAMP]()
+            - [MAMP]()
 
     - [ATOM]()
     - [SUBLIME TEXT]()
@@ -525,3 +545,56 @@
     - [ONLINE CODE EDITORS]()
         - [CODEPEN]()
         - [JSFIDDLE]()
+
+
+<!-- 
+DLT	Distributed Ledger Technology
+Types	
+Blockchain	
+	
+Package Manager	
+Bower	
+		
+Mockups	
+Wireframe	
+	
+Command Line	
+Computer Game Development	
+		
+SVN 	Apache Subversion
+	
+TCP/IP	Transmission Control Protocol/Internet Protocol
+	
+URL	Uniform Resource Locator
+	
+
+	
+
+	
+DNS	
+		
+Freelancing	
+	
+Gaming	
+	
+Geography	
+	
+
+		
+Health	
+	
+History	
+	
+Hobbies	
+		
+Marketing	
+		
+Physics	
+	
+Sketch	
+Figma	
+	
+Travel	
+	
+VR	Virtual reality
+ -->
