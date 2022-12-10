@@ -16,6 +16,8 @@
 
     - [EMPLOYMENT]() 
 
+
+        - [CAREER ADVICE]()
         - [JOB SEARCHING]()
 
             - [CV]() <!-- Resume -->
@@ -27,7 +29,10 @@
 
         - [BUSSINESS DEVELOPMENT]()
             - [MVP]() <!-- (Minimum viable product) -->
+
         - [BUSSINESS PLANNING]()
+
+        - [CRM]() <!-- Customer relationship management -->
 
         - [PRESENTING]()
 

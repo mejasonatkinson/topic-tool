@@ -1,12 +1,8 @@
-
-Career Advice
 cinema
-cms graphic design crm
+graphic design 
 Coding
 CommonJS
 compass 
-Computer Networking
-
 
 Content creation
 Content management
