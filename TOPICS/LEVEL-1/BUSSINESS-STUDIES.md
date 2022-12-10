@@ -75,6 +75,8 @@
             - [SEMRUSH]()
             - [GOOGLE TRENDS]()
             - [GOOGLE SEARCH CONSOLE]()
+
+            - [BACKLINKS]()
         
         - [GROWTH HACKING]()
 

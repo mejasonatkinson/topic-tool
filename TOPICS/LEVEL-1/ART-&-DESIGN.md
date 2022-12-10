@@ -39,6 +39,10 @@
 
     - [SCULPTURE]()
 
+    - [CRAFTS]
+
+        - [BOOK MAKING]()
+
 - [DESIGN]()
 
     - [DESIGNERS]()
@@ -57,7 +61,10 @@
 
         - [BRANDING DESIGN]()
             - [DESIGN SYSTEMS]()
+            - [BRAND GUIDELINES]()
+            - [BRAND BOOK]()
             - [LOGO DESIGN]()
+            - [BUSSINESS CARDS]()
 
         - [PUBLISHING]()
 

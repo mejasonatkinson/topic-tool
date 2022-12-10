@@ -2,7 +2,13 @@
 
 - [COMPUTER SCIENTISTS]()
 
+- [BIG DATA]()
+
 - [PROGRAMMING]()
+
+    - [DEVELOPER CONFERENCES]()
+
+        - [AWS SUMMIT]()
 
     - [DEVELOPMENT METHODOLOGIES]()
 

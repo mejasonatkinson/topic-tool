@@ -27,6 +27,18 @@
 
         - [GAME OF THRONES]()
 
+
+- [LITERATURE]()
+
+    - [MEMOIR]() 
+
+        - [THE ARE OF ASKING]()
+
+            - [AMANDA PALMER]()
+
+- [BLOGGING]()
+
+
 - [SOCIAL MEDIA]()
 
     - [TIKTOK]()

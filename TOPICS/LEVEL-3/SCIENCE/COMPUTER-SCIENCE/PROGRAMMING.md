@@ -184,6 +184,8 @@
 
         - [ASTRO]()
 
+        - [BACKBONE JS]()
+
         - [VUE]()
 
             #### Versions
@@ -241,6 +243,9 @@
                 #### Package Manager
                 
                 - [NPM]()
+
+                    ##### promise-based HTTP Client
+                    - [AXIOS]()
 
                     ##### JavaScript Task Runner
 
