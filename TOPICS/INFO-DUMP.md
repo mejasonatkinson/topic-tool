@@ -1,17 +1,9 @@
-
-
-
 .htaccess
 .Net
-A/B Testing
 Accessibility
 Accounting
-ads seo
 advertising
-ahref
 Alexa Skills
-Alexa.com
-analytics
 Android Application Development
 Animation
 app
@@ -50,7 +42,6 @@ create-react-app
 Creating and maintaining application documentation
 cubecart
 customer search
-CV
 dev.to
 documentation
 doing
@@ -70,15 +61,11 @@ Following
 friend groups
 front end wireframes
 Frontend Performance
-ftp
 funding
 GD or ImageMagick
 general assembaly education 
 git integration
 GNU NANO
-google adwords
-google console
-google trends
 Green Screen
 GWT
 Hard thing about hard things
@@ -91,7 +78,8 @@ Inspiration
 interlect
 Internet
 intranet
-intranet seo photography woo ecommerce
+photography
+woo ecommerce
 investing
 iPhone Development
 ISP
@@ -155,9 +143,6 @@ sanity.io
 Sapper
 Screencasting
 Self Help
-semrush
-SEO
-SEO analytics
 Servers
 share
 singing: learning to sing

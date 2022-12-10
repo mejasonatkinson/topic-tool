@@ -31,12 +31,21 @@
 
     - [TIKTOK]()
     - [YOUTUBE]()
+
+        # Topics
+        # Youtubers
+
     - [TWITCH]()
+
+        # Streamers
+
     - [TWITTER]()
     - [FACEBOOK]()
     - [FLICKER]()
     - [INSTAGRAM]()
     - [REDDIT]()
+
+        # Subreddits
 
     - [LINKEDIN]
 
