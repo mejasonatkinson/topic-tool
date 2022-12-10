@@ -55,7 +55,7 @@
 
         - [GOOGLE TAG MANAGER]()
 
-        - [ADS]()
+        - [ADS]() <!-- Advertising -->
 
             - [GOOGLE ADS]() <!-- Prev. Google Adwords -->
             - [GOOGLE ADSENSE]()

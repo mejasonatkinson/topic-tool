@@ -7,6 +7,16 @@
 - [DOCKER]()
 - [KUBERNETES]()
 
+## Web Development
+
+    ## Accessibility
+
+## App Development
+
+    ## Accessibility
+
+## Alexa Skills
+
 # Computer Game Development	
 
 # Programming Stacks
@@ -259,6 +269,7 @@
         
         - [APACHE]()
             - [APACHE HTTP SERVER]()
+                - [HTACCESS]() <!-- .htaccess -->
             - [APACHE DISTRIBUTION]()
                 - [XAMP]()
                 - [MAMP]()
@@ -421,13 +432,14 @@
     - [GO]()
     - [JAVA]()
     - [SWIFT]()
-    - [ASP.NET]()
+
     - [FLUTTER]()
     - [C]()
     - [C#]()
     - [C++]()
+    - [VISUAL BASIC]()    
     - [OBJECTIVE C]()
-    - [VISUAL BASIC]()
+
 
 
 # APIs

@@ -32,6 +32,8 @@
         - [ADOBE ILLUSTRATOR]()
         - [PROCREATE]()
 
+    - [ANIMATION]()
+
     - [PAINTING]()
     - [PRINTING]()
 
@@ -75,6 +77,8 @@
 
                 - [UI DESIGN]()
                 - [UX DESIGN]()
+
+                    - [ACCESSIBILITY]()
 
                 - [ADOBE XD]()
                 - [FIGMA]()
