@@ -1,3 +1,10 @@
+- [HEALTH]()
+
+    - [MENTAL HEALTH]()
+    - [PHYSICAL HEALTH]()
+
+- [FITNESS]()
+
 - [GYM]()
 
     - [CYCLING MACHINE]()

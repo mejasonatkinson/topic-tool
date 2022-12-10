@@ -70,6 +70,9 @@
 
             - [WEB DESIGN]()
 
+                - [MOCKUPS]()
+                - [WIREFRAMES]()
+
                 - [UI DESIGN]()
                 - [UX DESIGN]()
 

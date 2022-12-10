@@ -21,6 +21,8 @@
 
     - [PC GAMES]()
 
+    - [VR]() <!-- Virtual reality -->
+
 - [FUN]()
 
     - [HOBBIES]()

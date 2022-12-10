@@ -14,9 +14,9 @@
 
     - [WOMAN IN TECH]() <!-- Women in Tech / Women in STEM (STEAM) -->
 
-    - [SELF-EMPLOYMENT]()
+    - [SELF-EMPLOYMENT]() 
 
-        - [SOLE TRADER]()
+        - [SOLE TRADER]() <!-- FREELANCING-->
         - [LIMITED COMPANY]()
 
         - [BUSSINESS DEVELOPMENT]()

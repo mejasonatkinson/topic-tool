@@ -7,6 +7,8 @@
 - [DOCKER]()
 - [KUBERNETES]()
 
+# Computer Game Development	
+
 # Programming Stacks
 
 - [LAMP]()
@@ -132,6 +134,7 @@
 
         ## Package Manager
         - [YARN]()
+        - [BOWERJS]()	
 
         ## Versions
         - [ES5]()
@@ -469,6 +472,8 @@
 
     # VERSION CONTROL SYSTEM
 
+    - [SVN]()
+
     - [GIT]()
 
         # GIT
@@ -509,7 +514,12 @@
 
     # PROTOCOLS
 
+    - [TCP]()
+    - [IP]()
+    - [DNS]()
     - [HTTP]()
+        - [URL]()
+        - [URI]()
     - [HTTPS]()
     - [FTP]()
     - [FTPS]()
@@ -545,56 +555,3 @@
     - [ONLINE CODE EDITORS]()
         - [CODEPEN]()
         - [JSFIDDLE]()
-
-
-<!-- 
-DLT	Distributed Ledger Technology
-Types	
-Blockchain	
-	
-Package Manager	
-Bower	
-		
-Mockups	
-Wireframe	
-	
-Command Line	
-Computer Game Development	
-		
-SVN 	Apache Subversion
-	
-TCP/IP	Transmission Control Protocol/Internet Protocol
-	
-URL	Uniform Resource Locator
-	
-
-	
-
-	
-DNS	
-		
-Freelancing	
-	
-Gaming	
-	
-Geography	
-	
-
-		
-Health	
-	
-History	
-	
-Hobbies	
-		
-Marketing	
-		
-Physics	
-	
-Sketch	
-Figma	
-	
-Travel	
-	
-VR	Virtual reality
- -->
