@@ -1,27 +1,3 @@
-cinema
-graphic design 
-Coding
-CommonJS
-compass 
-
-Content creation
-Content management
-content optimization
-Content strategy
-content writing
-copyrighting
-
-
-create-react-app
-Creating and maintaining application documentation
-cubecart
-customer search
-dev.to
-documentation
-doing
-drawing
-E4X
-
 
 eat the frog
 eccommerce
@@ -32,7 +8,6 @@ Emmets
 Express
 express.js
 Expression engine
-filming
 
 
 Following
@@ -49,18 +24,15 @@ GNU NANO
 Green Screen
 GWT
 Hard thing about hard things
-Hashnode
 house
 icons
 idea/hustle
 
 
-illustration
 Inspiration
 interlect
 Internet
 intranet
-photography
 woo ecommerce
 investing
 
@@ -70,9 +42,7 @@ ISP
 job search
 keynote
 Knockout.js
-learning
 lodash
-logo
 lynda.com
 MacOS
 
@@ -144,7 +114,6 @@ share
 
 
 singing: learning to sing
-skateboarding
 skating
 slim
 software development
@@ -158,8 +127,6 @@ stocktext
 templates
 Test automation and CI pipelines
 traceroute
-
-
 
 tv programs
 UIKit

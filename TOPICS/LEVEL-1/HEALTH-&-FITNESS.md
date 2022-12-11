@@ -19,3 +19,5 @@
     - [SWIMMING]()
     - [GOLF]()
     - [SQUASH]()
+
+    - [SKATEBOARDING]()

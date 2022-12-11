@@ -29,6 +29,8 @@
 
     - [ILLUSTRATION]()
 
+        - [DRAWING]()
+
         - [ADOBE ILLUSTRATOR]()
         - [PROCREATE]()
 

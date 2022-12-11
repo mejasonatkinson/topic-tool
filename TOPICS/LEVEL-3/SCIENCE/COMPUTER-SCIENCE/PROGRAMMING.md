@@ -130,9 +130,14 @@
 
         # JAVASCRIPT
 
+        - [ESMODULES]()
+        - [COMMONJS]()
+
         ## Standards
 
         - [ECMASCRIPT]()
+
+            - [E4X]()
 
         ### File Format
 
@@ -243,6 +248,8 @@
                 #### Package Manager
                 
                 - [NPM]()
+
+                    - [CREATE REACT APP]() <!-- create-react-app -->
 
                     ##### promise-based HTTP Client
                     - [AXIOS]()

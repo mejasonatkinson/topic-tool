@@ -82,6 +82,13 @@
             - [GOOGLE SEARCH CONSOLE]()
 
             - [BACKLINKS]()
+
+            - [CONTENT CREATION]()
+            - [CONTENT MANAGEMENT]()
+            - [CONTENT OPTIMIZATION]()
+            - [CONTENT STRATEGY]()
+            - [CONTENT WRITING]()
+            - [COPYWRITING]()
         
         - [GROWTH HACKING]()
 
