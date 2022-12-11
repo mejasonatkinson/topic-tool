@@ -3,6 +3,13 @@
 
 - [INSTRUMENTS]()
 
+    - [VOICE]() <!-- singing -->
+
+        ## Learning
+
+        <!-- ## Resources -->
+        <!-- https://yousician.com/ -->
+
     - [GUITAR]()
 
         - [GUITARISTS]()
@@ -27,6 +34,6 @@
 
         ## Learning
 
-<!-- ## Resources -->
-<!-- https://www.fender.com/play -->
-<!-- https://yousician.com/ -->
+        <!-- ## Resources -->
+        <!-- https://www.fender.com/play -->
+        <!-- https://yousician.com/ -->

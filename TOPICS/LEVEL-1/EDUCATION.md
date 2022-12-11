@@ -23,3 +23,9 @@
         - [MA]()
         - [MSC]()
         - [PHD]()
+
+- [GENERAL ASSEMBLY]()
+
+- [E-LEARNING]()
+
+    - [LINKEDIN LEARNING]() <!-- https://www.linkedin.com/learning/ -->

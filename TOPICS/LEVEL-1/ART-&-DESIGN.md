@@ -14,10 +14,16 @@
 
     - [FILM PRODUCTION]()
 
-        - [EDITING]()
 
-            - [ADOBE PREMIERE PRO]()
-            - [ADOBE AFTER EFFECTS]()
+        - [POST-PRODUCTION]
+
+            - [VISUAL-EFFECTS]()
+                - [CHROMA KEYING]() <!-- Green Screen -->
+
+            - [EDITING]()
+
+                - [ADOBE PREMIERE PRO]()
+                - [ADOBE AFTER EFFECTS]()
 
         - [STREAMING]()
 
