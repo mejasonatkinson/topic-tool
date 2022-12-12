@@ -1,52 +1,12 @@
 # ART
 
-- [ART, HISTORY]()
-
-- [ARTISTS]()
-
-- [PHOTOGRAPHY]()
-
-    - [ADOBE PHOTOSHOP]()
-    - [ADOBE LIGHTROOM]()
-
-    - [CAMERAS]()
-        - [DSLR]()
-
-- [FILM PRODUCTION]()
-
-
-    - [POST-PRODUCTION]
-
-        - [VISUAL-EFFECTS]()
-            - [CHROMA KEYING]() <!-- Green Screen -->
-
-        - [EDITING]()
-
-            - [ADOBE PREMIERE PRO]()
-            - [ADOBE AFTER EFFECTS]()
-
-    - [STREAMING]()
-
-        - [OBS]()
-
-    - [CAMERAS]()
-        - [DSLR]()
-        - [DRONES]()
-
-- [ILLUSTRATION]()
-
-    - [DRAWING]()
-
-    - [ADOBE ILLUSTRATOR]()
-    - [PROCREATE]()
-
-- [ANIMATION]()
-
-- [PAINTING]()
-- [PRINTING]()
-
-- [SCULPTURE]()
-
-- [CRAFTS]
-
-    - [BOOK MAKING]()
+- [ART, HISTORY](../../LEVEL-3/ART-%26-DESIGN/ART/ART-HISTORY.md)
+- [ARTISTS](../../LEVEL-3/ART-%26-DESIGN/ART/ARTISTS.md)
+- [PHOTOGRAPHY](../../LEVEL-3/ART-%26-DESIGN/ART/PHOTOGRAPHY.md)
+- [FILM PRODUCTION](../../LEVEL-3/ART-%26-DESIGN/ART/FILM-PRODUCTION.md)
+- [ILLUSTRATION](../../LEVEL-3/ART-%26-DESIGN/ART/ILLUSTRATION.md)
+- [ANIMATION](../../LEVEL-3/ART-%26-DESIGN/ART/ANIMATION.md)
+- [PAINTING](../../LEVEL-3/ART-%26-DESIGN/ART/PAINTING.md)
+- [PRINTING](../../LEVEL-3/ART-%26-DESIGN/ART/PRINTING.md)
+- [SCULPTURE](../../LEVEL-3/ART-%26-DESIGN/ART/SCULPTURE.md)
+- [CRAFTS](../../LEVEL-3/ART-%26-DESIGN/ART/CRAFTS.md)
