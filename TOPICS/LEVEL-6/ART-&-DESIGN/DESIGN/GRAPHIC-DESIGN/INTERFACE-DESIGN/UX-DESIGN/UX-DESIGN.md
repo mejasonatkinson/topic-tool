@@ -1,3 +1,0 @@
-# UX DESIGN
-
-- [ACCESSIBILITY]()
