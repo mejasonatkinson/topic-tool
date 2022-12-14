@@ -1,6 +1,6 @@
 # SCIENCE OF LEARNING
 
-- [LEARNING EXPERTS]()
+<!-- - [LEARNING EXPERTS]() -->
 
 <!-- 
 
@@ -15,4 +15,5 @@ How to Learn Faster with the Feynman Technique (Example Included)
 
 -->
 
-- [JIT, LEARNING]() <!-- JUST IN TIME, LEARNING -->
+<!-- - [JIT, LEARNING]()  -->
+<!-- JUST IN TIME, LEARNING -->

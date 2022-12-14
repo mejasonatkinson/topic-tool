@@ -1,95 +1,44 @@
 # COMPUTER SCIENCE
 
-- [COMPUTER SCIENTISTS]()
+<!-- - [COMPUTER SCIENTISTS]() -->
 
-- [BIG DATA]()
+<!-- - [BIG DATA]() -->
 
-- [PROGRAMMING]() <!-- Coding -->
-
-
-
-# PROGRAMMING
+- [PROGRAMMING](../../LEVEL-3/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING.md) <!-- Coding -->
 
 - [PROGRAMMERS]()
 
-    # Development
+    <!-- # Development -->
 
-    - [DOCKER]()
-    - [KUBERNETES]()
+    <!-- - [DOCKER]() -->
+    <!-- - [KUBERNETES]() -->
 
-    ## Web Development
+    <!-- ## Web Development -->
 
-        ## Accessibility
+        <!-- ## Accessibility -->
 
-        ## Performance
+        <!-- ## Performance -->
 
-    ## App Development
+    <!-- ## App Development -->
 
-        ## Accessibility
+        <!-- ## Accessibility -->
 
-    ## Alexa Skills
+    <!-- ## Alexa Skills -->
 
-    # Computer Game Development	
+    <!-- # Computer Game Development	 -->
 
-    # Programming Stacks
+    <!-- # Programming Stacks -->
 
-    - [LAMP]()
-    - [MEAN]()
-    - [MERN]()
-    - [MEVN]()	
+    <!-- - [LAMP]() -->
+    <!-- - [MEAN]() -->
+    <!-- - [MERN]() -->
+    <!-- - [MEVN]()	 -->
 
 
     - [PROGRAMMING LANGUAGES]()
 
         # PROGRAMMING
 
-        - [HTML]()
-
-            # HTML
-
-            ## Versions
-            - [HTML1]()
-            - [HTML2]()
-            - [HTML3]()
-            - [HTML4]()
-            - [HTML5]()
-            - [XHTML]()
-            - [DHTML]()
-
-            ## Preprocessors
-            - [HAML]()
-            - [NUNJUCKS]()
-
-            <!-- ### Resources -->
-            <!-- https://css-tricks.com/comparing-html-preprocessor-features/ -->
-
-            ## Frameworks
-            - [BOOTSTRAP; Twitter]()
-            - [FOUNDATION; Zurb]()
-
-            ### File Format
-
-            - [XML]()
-
-            ### Web Feed Format
-
-            - [RSS]()
-
-            ## Component-based engineering
-                ### Web Components
-                    - [AMP]
-
-            ## Syntax
-
-            - [ELEMENTS]()
-            - [ATTRIBUTES]()
-
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/HTML -->
-            <!-- https://www.w3schools.com/html/ -->
-            <!-- https://www.codecademy.com/learn/learn-html -->
-            <!-- https://developer.mozilla.org/en-US/docs/Web/HTML -->
-            <!-- https://code.visualstudio.com/docs/languages/html -->
 
         - [CSS]()
 

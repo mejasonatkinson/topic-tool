@@ -1,6 +1,6 @@
 # SCIENCE OF MANAGEMENT
 
-- [PROJECT MANAGEMENT]()
+<!-- - [PROJECT MANAGEMENT]()
 
     - [TOOLS]()
         - [ATLASSIAN]()
@@ -14,4 +14,4 @@
                 - [EXTREME PROGRAMMING]()
 
         - [TECHNIQUES]()
-            - [PAIR PROGRAMMING]()
+            - [PAIR PROGRAMMING]() -->

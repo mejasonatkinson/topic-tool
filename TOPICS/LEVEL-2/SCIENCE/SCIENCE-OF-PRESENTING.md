@@ -1,12 +1,12 @@
 # SCIENCE OF PRESENTING
 
-- [PRESENTATION EXPERTS]()
+<!-- - [PRESENTATION EXPERTS]() -->
 
-    ## Tools, used for presenting
+<!-- ## Tools, used for presenting -->
 
-    - [MICROSOFT]()
+<!-- - [MICROSOFT]() -->
 
-        - [MICROSOFT POWERPOINT]()
+<!-- - [MICROSOFT POWERPOINT]() -->
 
 <!-- 
 
