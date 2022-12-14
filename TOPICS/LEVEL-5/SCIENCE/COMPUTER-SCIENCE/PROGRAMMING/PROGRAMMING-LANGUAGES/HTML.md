@@ -11,14 +11,18 @@
 
 ## Preprocessors
 - [HAML]()
+<!-- https://haml.info/ -->
 - [NUNJUCKS]()
+<!-- https://mozilla.github.io/nunjucks/ -->
 
 <!-- ### Resources -->
 <!-- https://css-tricks.com/comparing-html-preprocessor-features/ -->
 
 ## Frameworks
 - [BOOTSTRAP; Twitter]()
+<!-- https://getbootstrap.com/ -->
 - [FOUNDATION; Zurb]()
+<!-- https://get.foundation/ -->
 
 ### File Format
 
