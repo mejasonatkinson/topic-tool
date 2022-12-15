@@ -21,20 +21,9 @@
 ## Frameworks
 - [BOOTSTRAP; Twitter]()
 <!-- https://getbootstrap.com/ -->
+
 - [FOUNDATION; Zurb]()
 <!-- https://get.foundation/ -->
-
-### File Format
-
-- [XML]()
-
-### Web Feed Format
-
-- [RSS]()
-
-## Component-based engineering
-    ### Web Components
-        - [AMP]
 
 ## Syntax
 

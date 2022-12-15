@@ -1,613 +1,330 @@
 # COMPUTER SCIENCE
 
+- [PROGRAMMING](../../LEVEL-3/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING.md) <!-- Coding -->
+
+
+
 <!-- - [COMPUTER SCIENTISTS]() -->
 
 <!-- - [BIG DATA]() -->
 
-- [PROGRAMMING](../../LEVEL-3/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING.md) <!-- Coding -->
+<!-- - [PROGRAMMERS]() -->
 
-- [PROGRAMMERS]()
+<!-- ### File Format -->
 
-    <!-- # Development -->
+<!-- - [XML]() -->
 
-    <!-- - [DOCKER]() -->
-    <!-- - [KUBERNETES]() -->
+<!-- ### Web Feed Format -->
 
-    <!-- ## Web Development -->
+<!-- - [RSS]() -->
 
-        <!-- ## Accessibility -->
+<!-- ## Component-based engineering -->
+<!-- ### Web Components -->
+<!-- - [AMP] -->
 
-        <!-- ## Performance -->
+<!-- # Development -->
 
-    <!-- ## App Development -->
+<!-- - [DOCKER]() -->
+<!-- - [KUBERNETES]() -->
 
-        <!-- ## Accessibility -->
+<!-- ## Web Development -->
 
-    <!-- ## Alexa Skills -->
+<!-- ## Accessibility -->
 
-    <!-- # Computer Game Development	 -->
+<!-- ## Performance -->
 
-    <!-- # Programming Stacks -->
+<!-- ## App Development -->
 
-    <!-- - [LAMP]() -->
-    <!-- - [MEAN]() -->
-    <!-- - [MERN]() -->
-    <!-- - [MEVN]()	 -->
+<!-- ## Accessibility -->
 
+<!-- ## Alexa Skills -->
 
-    - [PROGRAMMING LANGUAGES]()
+<!-- # Computer Game Development	 -->
 
-        # PROGRAMMING
+<!-- # Programming Stacks -->
 
+<!-- - [LAMP]() -->
+<!-- - [MEAN]() -->
+<!-- - [MERN]() -->
+<!-- - [MEVN]()	 -->
 
-        - [CSS]()
+<!-- # PROGRAMMING -->
 
-            # CSS
 
-            ## Versions
-            - [CSS1]()
-            - [CSS2]()
-            - [CSS3]()
+<!-- - [SVG]() -->
 
-            ## Preprocessors
-            - [SASS]() 
+<!-- # SVG -->
 
-                # SASS
+<!-- ## Syntax -->
 
-                - [Sass Lang](https://sass-lang.com/)
+<!-- - [ELEMENTS]() -->
+<!-- - [ATTRIBUTES]() -->
 
-            - [LESS]()
+<!-- ## Resources -->
+<!-- https://en.wikipedia.org/wiki/SVG -->
+<!-- https://www.w3schools.com/graphics/svg_intro.asp -->
+<!-- https://www.codecademy.com/resources/docs/general/svg -->
+<!-- https://developer.mozilla.org/en-US/docs/Web/SVG -->
+<!-- https://marketplace.visualstudio.com/items?itemName=jock.svg -->
 
-                # LESS
+<!-- - [SQL]() -->
 
-                - [Less CSS](https://lesscss.org/)
+<!-- # SQL -->
 
-            ## Frameworks
-            - [TAILWIND]() 
+<!-- ## Syntax -->
 
-                # TAILWIND
+<!-- - [STATEMENTS]() -->
+<!-- - [KEYWORDS]() -->
 
-                - [Tailwind CSS](https://tailwindcss.com/)
+<!-- ## Resources -->
+<!-- https://en.wikipedia.org/wiki/SQL -->
+<!-- https://www.w3schools.com/sql/ -->
+<!-- https://www.codecademy.com/learn/learn-sql -->
+<!-- https://developer.mozilla.org/en-US/docs/Glossary/SQL -->
 
-            - [BULMA]()
+<!-- - [GRAPHQL]() -->
 
-                # BULMA
+<!-- # GRAPHQL -->
 
-                - [Bulma CSS Framework](https://bulma.io/)
+<!-- ## Resources -->
+<!-- https://graphql.org/ -->
+<!-- https://en.wikipedia.org/wiki/GraphQL -->
+<!-- https://www.codecademy.com/resources/docs/open-source/graphql -->
 
-            ## Syntax
+<!-- - [RUBY]() -->
 
-            - [SELECTORS]()
-            - [PROPERTIES]()
+<!-- ## Frameworks -->
 
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/CSS -->
-            <!-- https://www.w3schools.com/css/ -->
-            <!-- https://www.codecademy.com/learn/learn-css -->
-            <!-- https://developer.mozilla.org/en-US/docs/Web/CSS -->
-            <!-- https://code.visualstudio.com/docs/languages/css -->
+<!-- - [RUBY ON RAILS]() -->
 
-        - [JAVASCRIPT]()
+<!-- ## Static Site Generator -->
 
-            # JAVASCRIPT
+<!-- - [JEKYLL]() -->
 
-            - [ESMODULES]()
-            - [COMMONJS]()
+<!-- - [P5JS]() -->
+<!-- - [PROCESSING]() -->
+<!-- - [ARDUINO]() -->
 
-            ## Standards
+<!-- - [YAML]() -->
 
-            - [ECMASCRIPT]()
+<!-- - [R]() -->
+<!-- - [RUST]() -->
+<!-- - [GO]() -->
+<!-- - [JAVA]() -->
+<!-- - [SWIFT]() -->
 
-                - [E4X]()
+<!-- - [FLUTTER]() -->
+<!-- - [C]() -->
+<!-- - [C#]() -->
+<!-- - [C++]() -->
+<!-- - [VISUAL BASIC]()     -->
+<!-- - [OBJECTIVE C]() -->
 
-            ### File Format
 
-            - [JSON]()
 
-            ## web development techniques
+<!-- # APIs -->
 
-            - [AJAX]()
+<!-- - [REST API]() -->
 
-            ## Package Manager
-            - [YARN]()
-            - [BOWERJS]()	
+<!-- - [POSTMAN]() -->
 
-            ## Versions
-            - [ES5]()
-            - [ES6]()
-            - [ES7]()
-            - [ES2019]()
-            - [ES2020]()
+<!-- ## Web APIs -->
 
-            ## Superset
-            - [TYPESCRIPT]()
+<!-- https://developer.mozilla.org/en-US/docs/Web/API -->
+<!-- https://www.w3schools.com/js/js_api_intro.asp -->
 
-                # TYPESCRIPT
+<!-- ## eLearning  -->
 
-                ## Syntax
+<!-- - [SCORM]() -->
+<!-- - [XAPI]() -->
 
-                - [PROPERTIES]()
-                - [METHODS]()
+<!-- - [WATSON]() -->
+<!-- - [WATSON API]() -->
 
-                <!-- ## Resources -->
-                <!-- https://www.typescriptlang.org/ -->
-                <!-- https://en.wikipedia.org/wiki/TypeScript -->
-                <!-- https://www.w3schools.com/typescript/ -->
-                <!-- https://www.codecademy.com/learn/learn-typescript -->
+<!-- - [STRIPE]() -->
+<!-- - [STRIPE API]() -->
 
-            ## Compiler
+<!-- - [JAVASCRIPT]() -->
 
+<!-- - [WEBGL]() -->
 
+<!-- # Databases -->
 
-            ## Libraries
+<!-- - [MONGODB]() -->
+<!-- - [MYSQL]() -->
+<!-- - [POSTGRESQL]() -->
+<!-- - [INNODB]() -->
+<!-- - [MARIADB]() -->
+<!-- - [NOSQL]() -->
 
-            - [JQUERY]()
-            - [D3JS]()
+<!-- # Hosting Services -->
 
-            ## Frameworks
+<!-- - [FIREBASE]() Firebase -->
+<!-- - [SUPABASE]() Supabase -->
 
-            ### Frontend
 
-            - [ASTRO]()
+<!-- - [VERSION CONTROL SYSTEMS]() -->
 
-            - [BACKBONE JS]()
+<!-- # VERSION CONTROL SYSTEM -->
 
-            - [VUE]()
+<!-- - [SVN]() -->
 
-                #### Versions
-                - [VUE 2]()
-                - [VUE 3]()
-                #### Framework
-                - [NUXT]()
-                - [VUETIFY]()
-                #### State Management
-                - [VUEX]()
-                - [PINIA]()
+<!-- - [GIT]() -->
 
-            - [PHASER JS]()
+<!-- # GIT -->
 
-            - [SVELTE]()
+<!-- ## Commands -->
 
-            - [REACT]()
+<!-- https://www.atlassian.com/git/glossary -->
 
-                #### Framework
-                - [GATSBY]()
-                - [NEXT JS]()
+<!-- ## Extensions -->
 
-            - [STENCIL JS]()
+<!-- - Git Large File Storage (LFS) -->
 
-            - [SOLID JS]()
+<!-- https://git-lfs.github.com/ -->
 
-                #### Framework
-                - [SOLID JS START]()
+<!-- ## Internet Hosted Service -->
 
-            - [ANGULAR]()
+<!-- - [GITHUB]() -->
 
-                #### UI Development
+<!-- https://github.com/ -->
+<!-- https://github.com/features/actions -->
 
-                - [STORYBOOK JS]()
+<!-- ## Cloud-hosted development environment -->
 
+<!-- - [CODESPACES]()  -->
+<!-- * -->
+<!-- - [GITPOD]() -->
 
-            ## JavaScript Engine
+<!-- - [GITLAB]() -->
 
-            - [V8ENGINE]()
+<!-- https://about.gitlab.com/ -->
 
-                ### environment
-                
-                - [BUN]()
-                <!-- https://bun.sh/ -->
+<!-- - [BITBUCKET]() -->
 
-                - [DENO]()
-                <!-- https://deno.land/ -->
+<!-- # BITBUCKET -->
 
-                - [NODE JS]()
+<!-- https://bitbucket.org/product/ -->
 
-                    #### headless, Content Management Systems (CMS)
+<!-- - [PROTOCOLS]() -->
 
-                    - [STRAPI CMS]()
+<!-- # PROTOCOLS -->
 
-                    #### Package Manager
-                    
-                    - [NPM]()
+<!-- - [TCP]() -->
+<!-- - [IP]() -->
+<!-- - [DNS]() -->
+<!-- - [HTTP]() -->
+<!-- - [URL]() -->
+<!-- - [URI]() -->
+<!-- - [HTTPS]() -->
+<!-- - [FTP]() -->
+<!-- - [FTPS]() -->
 
-                        - [CREATE REACT APP]() <!-- create-react-app -->
+<!-- # Lint / Linter -->
 
-                        ##### promise-based HTTP Client
-                        - [AXIOS]()
+<!-- - [ESLINT]() -->
 
-                        ##### JavaScript Task Runner
+<!-- - [CODE EDITORS]() -->
 
-                        - [GRUNT JS]()
+<!-- - [ADOBE] -->
+<!-- - [DREAMWEAVER] -->
 
-                        - [GULP JS]()
+<!-- - [JETBRAIN]() -->
 
-                    - [NPX]()
-                    - [NVM]()
+<!-- - [VISUAL STUDIO CODE]() -->
 
-            ## Syntax
+<!-- ## Cloud-hosted development environment (which use a version of visual studio code) -->
 
-            - [PROPERTIES]()
-            - [METHODS]()
+<!-- - [CODESPACES]()  -->
+<!-- * -->
+<!-- - [GITPOD]() -->
 
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/JavaScript -->
-            <!-- https://www.w3schools.com/js/ -->
-            <!-- https://www.codecademy.com/catalog/language/javascript -->
-            <!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript -->
-            <!-- https://code.visualstudio.com/docs/languages/javascript -->
+<!-- ## Local Development -->
 
-        - [PHP]()
+<!-- - [XAMP]() -->
+<!-- - [MAMP]() -->
 
-            # PHP
-            
-            - [APACHE]()
-                - [APACHE HTTP SERVER]()
-                    - [HTACCESS]() <!-- .htaccess -->
-                - [APACHE DISTRIBUTION]()
-                    - [XAMP]()
-                    - [MAMP]()
+<!-- - [ATOM]() -->
+<!-- - [SUBLIME TEXT]() -->
 
-            ## Package Manager
-            - [COMPOSER]()
+<!-- - [VIM]() -->
 
-            ## Extension and Application Repository
+<!-- - [ONLINE CODE EDITORS]() -->
+<!-- - [CODEPEN]() -->
+<!-- - [JSFIDDLE]() -->
 
-            - [PHP PEAR]()
 
-            ## Versions
-            - [PHP4]()
-            - [PHP5]()
-            - [PHP6]()
-            - [PHP7]()
-            - [PHP8]()
 
-            ## Template Engine
-            - [TWIG]()
+<!-- - [DOCUMENTATION]() -->
 
-            ## Libaries
-            - [PHPMAILER]
+<!-- - [BLOGS]() -->
+<!-- - [DEV.TO]() -->
+<!-- - [HASHNODE]() -->
 
-            ## Frameworks
+<!-- - [DEVELOPER CONFERENCES]() -->
 
-                ### Testing
-                - [PHPUNIT]
+<!-- - [AWS SUMMIT]() -->
 
-            - [YII]()
-            - [CAKEPHP]()
-            - [SYMFONY]()
-            - [LARAVEL]()
+<!-- - [DEVELOPMENT METHODOLOGIES]() -->
 
-                ## Versions
-                - [LARAVEL 6]()
+<!-- - [PROJECT MANAGEMENT]() -->
 
-            ## Content Management Systems
-            - [WORDPRESS]()
+<!-- - [TOOLS]() -->
+<!-- - [ATLASSIAN]() -->
+<!-- - [TRELLO]() -->
+<!-- - [JIRA]() -->
+<!-- - [CONFLUENCE]() -->
 
-                - [WORDPRESS THEME DEVELOPMENT]()
-                - [WORDPRESS PLUGIN DEVELOPMENT]()
-                - [WORDPRESS DIVI DEVELOPMENT]()
-                - [WORDPRESS WOOCOMMERCE DEVELOPMENT]()
+<!-- - [AGILE]() -->
+<!-- - [FRAMEWORKS]() -->
+<!-- - [SCRUM]() -->
+<!-- - [EXTREME PROGRAMMING]() -->
 
-            - [CRAFT CMS]()
+<!-- - [SOFTWARE ARCHITECTURE]() -->
+<!-- - [MVC]()  -->
+<!-- (Model-view-controller) -->
+<!-- - [MVMM]()  -->
+<!-- (Model-view-viewmodel) -->
+<!-- - [MVP]()  -->
+<!-- (Model-view-presenter) -->
 
-            - [DRUPAL]()
-            - [JOOMLA]()
-            - [MAGENTO]()
+<!-- - [ATOMIC DESIGN]() -->
+<!-- - [BEM]()  -->
+<!-- (Block, Element, Modifier) -->
 
-            ## Syntax
+<!-- - [DEVELOPMENT PRINCIPLES]() -->
+<!-- - [DRY]()  -->
+<!-- Dont Repeat Yourself -->
+<!-- - [KISS]()  -->
+<!-- Keep it Simple Stupid -->
+<!-- - [OOP]()  -->
+<!-- Object Oriented Programming -->
+<!-- - [TDD]()  -->
+<!-- Test Driven Programming -->
 
-            - [FUNCTIONS]()
+<!-- - [ELECTRONICS]() -->
+<!-- - [COMPUTER TECHNICIAN]() -->
 
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/PHP -->
-            <!-- https://www.w3schools.com/php/ -->
-            <!-- https://www.codecademy.com/catalog/language/php -->
-            <!-- https://developer.mozilla.org/en-US/docs/Glossary/PHP // https://www.php.net/ -->
-            <!-- https://code.visualstudio.com/docs/languages/php -->
+<!-- - [OPERATING SYSTEMS]() -->
+<!-- - [LINUX]() -->
+<!-- - [UBUNTU]() -->
+<!-- - [MAC OS]() -->
+<!-- - [WINDOWS]() -->
 
-        - [PYTHON]()
+<!-- - [ARTIFICIAL INTELLIGENCE]() -->
 
-            # PYTHON
-
-            ## Package Manager
-            - [PIP]()
-
-            ## Versions
-            - [PYTHON 3]()
-
-            <!-- ### Resources -->
-            <!-- https://en.wikipedia.org/wiki/History_of_Python -->
-            <!-- https://www.python.org/doc/versions/ -->
-
-            ## Frameworks
-            - [DJANGO]()
-            - [FLASK]()
-
-            ## Modules	
-            - [PYGAME]()
-
-            <!-- https://www.pygame.org/ -->
-
-            ## Content Management Systems
-            - [WAGTAIL]()
-
-            ## Syntax
-
-            - [FUNCTIONS]()
-            - [METHODS]()
-            - [KEYWORDS]()
-
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->
-            <!-- https://www.w3schools.com/python/ -->
-            <!-- https://www.codecademy.com/catalog/language/python -->
-            <!-- https://developer.mozilla.org/en-US/docs/Glossary/Python // https://www.python.org/ -->
-            <!-- https://code.visualstudio.com/docs/python/python-tutorial -->
-
-        - [SVG]()
-
-            # SVG
-
-            ## Syntax
-
-            - [ELEMENTS]()
-            - [ATTRIBUTES]()
-
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/SVG -->
-            <!-- https://www.w3schools.com/graphics/svg_intro.asp -->
-            <!-- https://www.codecademy.com/resources/docs/general/svg -->
-            <!-- https://developer.mozilla.org/en-US/docs/Web/SVG -->
-            <!-- https://marketplace.visualstudio.com/items?itemName=jock.svg -->
-
-        - [SQL]()
-
-            # SQL
-
-            ## Syntax
-
-            - [STATEMENTS]()
-            - [KEYWORDS]()
-
-            <!-- ## Resources -->
-            <!-- https://en.wikipedia.org/wiki/SQL -->
-            <!-- https://www.w3schools.com/sql/ -->
-            <!-- https://www.codecademy.com/learn/learn-sql -->
-            <!-- https://developer.mozilla.org/en-US/docs/Glossary/SQL -->
-
-        - [GRAPHQL]()
-
-            # GRAPHQL
-
-            <!-- ## Resources -->
-            <!-- https://graphql.org/ -->
-            <!-- https://en.wikipedia.org/wiki/GraphQL -->
-            <!-- https://www.codecademy.com/resources/docs/open-source/graphql -->
-
-        - [RUBY]()
-
-            ## Frameworks
-
-            - [RUBY ON RAILS]()
-
-            ## Static Site Generator
-
-            - [JEKYLL]()
-
-        - [P5JS]()
-        - [PROCESSING]()
-        - [ARDUINO]()
-
-        - [YAML]()
-
-        - [R]()
-        - [RUST]()
-        - [GO]()
-        - [JAVA]()
-        - [SWIFT]()
-
-        - [FLUTTER]()
-        - [C]()
-        - [C#]()
-        - [C++]()
-        - [VISUAL BASIC]()    
-        - [OBJECTIVE C]()
-
-
-
-    # APIs
-
-        - [REST API]()
-
-        - [POSTMAN]()
-
-        ## Web APIs
-
-        <!-- https://developer.mozilla.org/en-US/docs/Web/API -->
-        <!-- https://www.w3schools.com/js/js_api_intro.asp -->
-
-        ## eLearning 
-
-            - [SCORM]()
-            - [XAPI]()
-
-        - [WATSON]()
-            - [WATSON API]()
-        
-        - [STRIPE]()
-            - [STRIPE API]()
-
-        - [JAVASCRIPT]()
-
-            - [WEBGL]()
-
-    # Databases
-
-    - [MONGODB]()
-    - [MYSQL]()
-    - [POSTGRESQL]()
-    - [INNODB]()
-    - [MARIADB]()
-    - [NOSQL]()
-
-    # Hosting Services
-
-    - [FIREBASE]() Firebase
-    - [SUPABASE]() Supabase
-
-
-    - [VERSION CONTROL SYSTEMS]()
-
-        # VERSION CONTROL SYSTEM
-
-        - [SVN]()
-
-        - [GIT]()
-
-            # GIT
-
-            ## Commands
-
-            <!-- https://www.atlassian.com/git/glossary -->
-
-            ## Extensions
-
-            - Git Large File Storage (LFS)
-
-            <!-- https://git-lfs.github.com/ -->
-
-            ## Internet Hosted Service
-
-            - [GITHUB]()
-
-                <!-- https://github.com/ -->
-                <!-- https://github.com/features/actions -->
-
-                ## Cloud-hosted development environment
-
-                - [CODESPACES]() <!-- * -->
-                - [GITPOD]()
-
-            - [GITLAB]()
-
-                <!-- https://about.gitlab.com/ -->
-
-            - [BITBUCKET]()
-
-                # BITBUCKET
-
-                <!-- https://bitbucket.org/product/ -->
-
-    - [PROTOCOLS]()
-
-        # PROTOCOLS
-
-        - [TCP]()
-        - [IP]()
-        - [DNS]()
-        - [HTTP]()
-            - [URL]()
-            - [URI]()
-        - [HTTPS]()
-        - [FTP]()
-        - [FTPS]()
-
-    # Lint / Linter
-
-        - [ESLINT]()
-
-    - [CODE EDITORS]()
-
-        - [ADOBE]
-            - [DREAMWEAVER]
-
-        - [JETBRAIN]()
-
-        - [VISUAL STUDIO CODE]()
-
-            ## Cloud-hosted development environment (which use a version of visual studio code)
-
-            - [CODESPACES]() <!-- * -->
-            - [GITPOD]()
-
-            ## Local Development
-
-                - [XAMP]()
-                - [MAMP]()
-
-        - [ATOM]()
-        - [SUBLIME TEXT]()
-
-        - [VIM]()
-
-        - [ONLINE CODE EDITORS]()
-            - [CODEPEN]()
-            - [JSFIDDLE]()
-
-
-
-    - [DOCUMENTATION]()
-
-    - [BLOGS]()
-        - [DEV.TO]()
-        - [HASHNODE]()
-
-    - [DEVELOPER CONFERENCES]()
-
-        - [AWS SUMMIT]()
-
-    - [DEVELOPMENT METHODOLOGIES]()
-
-        - [PROJECT MANAGEMENT]()
-
-            - [TOOLS]()
-                - [ATLASSIAN]()
-                    - [TRELLO]()
-                    - [JIRA]()
-                    - [CONFLUENCE]()
-
-            - [AGILE]()
-                - [FRAMEWORKS]()
-                    - [SCRUM]()
-                    - [EXTREME PROGRAMMING]()
-
-            - [SOFTWARE ARCHITECTURE]()
-                - [MVC]() <!-- (Model-view-controller) -->
-                - [MVMM]() <!-- (Model-view-viewmodel) -->
-                - [MVP]() <!-- (Model-view-presenter) -->
-
-        - [ATOMIC DESIGN]()
-        - [BEM]() <!-- (Block, Element, Modifier) -->
-
-    - [DEVELOPMENT PRINCIPLES]()
-        - [DRY]() <!-- Dont Repeat Yourself -->
-        - [KISS]() <!-- Keep it Simple Stupid -->
-        - [OOP]() <!-- Object Oriented Programming -->
-        - [TDD]() <!-- Test Driven Programming -->
-
-- [ELECTRONICS]()
-    - [COMPUTER TECHNICIAN]()
-
-- [OPERATING SYSTEMS]()
-    - [LINUX]()
-        - [UBUNTU]()
-    - [MAC OS]()
-    - [WINDOWS]()
-
-- [ARTIFICIAL INTELLIGENCE]()
-
-    - [MACHINE LEARNING]()
-        - [DEEP LEARNING]()
-    - [NATURAL LANGUAGE PROCESSING]()
-    - [SPEECH]()
-        - [SPEECH TO TEXT]()
-        - [TEXT TO SPEECH]()
-    - [EXPERT SYSTEMS]()
-    - [PLANNING, SCHEDULING & OPTIMIZATION]()
-    - [ROBOTICS]()
-    - [VISION]()
-        - [IMAGE RECOGNITION]()
-        - [MACHINE VISION]()
+- [MACHINE LEARNING]()
+- [DEEP LEARNING]()
+- [NATURAL LANGUAGE PROCESSING]()
+- [SPEECH]()
+- [SPEECH TO TEXT]()
+- [TEXT TO SPEECH]()
+<!-- - [EXPERT SYSTEMS]() -->
+- [PLANNING, SCHEDULING & OPTIMIZATION]()
+<!-- - [ROBOTICS]() -->
+- [VISION]()
+- [IMAGE RECOGNITION]()
+- [MACHINE VISION]()
 
 - [CHATBOTS]()
 
@@ -615,31 +332,35 @@
 - [WINDOWS COMMAND LINE]()
 
 - [NETWORKING]()
-    - [PEER-TO-PEER]()
-        - [DISTRIBUTED LEDGER]()
-            - [BLOCKCHAIN]()
+- [PEER-TO-PEER]()
+- [DISTRIBUTED LEDGER]()
+- [BLOCKCHAIN]()
 
 - [CLOUD COMPUTING]()
-    - [AWS]()
-    - [GOOGLE CLOUD]()
+- [AWS]()
+- [GOOGLE CLOUD]()
 
-- [CURL]() <!-- cURL -->
+<!-- - [CURL]()  -->
+<!-- cURL -->
 
-- [CPANEL]() <!-- web hosting control panel software -->
+<!-- - [CPANEL]()  -->
+<!-- web hosting control panel software -->
 
-- [VIRTUAL MACHINES]() <!-- Virtual Machines (VM)  -->
+<!-- - [VIRTUAL MACHINES]()  -->
+<!-- Virtual Machines (VM)  -->
 
-    - [VIRTUALBOX]()
+<!-- - [VIRTUALBOX]() -->
 
-- [GAME DESIGNERS]()
-    - [GAME ENGINES]()
-        - [UNITY]()
-        - [UNREAL ENGINE]()
-            - [VERSIONS]()
-                - [UNREAL ENGINE 4]()
-                - [UNREAL ENGINE 5]()                
+<!-- - [GAME DESIGNERS]() -->
+<!-- - [GAME ENGINES]() -->
+<!-- - [UNITY]() -->
+<!-- - [UNREAL ENGINE]() -->
+<!-- - [VERSIONS]() -->
+<!-- - [UNREAL ENGINE 4]() -->
+<!-- - [UNREAL ENGINE 5]() -->
 
-    - [3D]
+<!-- - [3D] -->
 
-        - [AUTODESK, 3DS MAX]() <!-- formerly 3D Studio and 3D Studio Max -->
-        - [AUTODESK, MAYA]()
+<!-- - [AUTODESK, 3DS MAX]()  -->
+<!-- formerly 3D Studio and 3D Studio Max -->
+<!-- - [AUTODESK, MAYA]() -->
