@@ -12,7 +12,9 @@
 
 <!-- ## Frameworks -->
 <!-- - [DJANGO]() -->
+<!-- https://www.djangoproject.com/ -->
 <!-- - [FLASK]() -->
+<!-- https://flask.palletsprojects.com/en/2.2.x/ -->
 
 <!-- ## Modules	 -->
 <!-- - [PYGAME]() -->
@@ -22,6 +24,7 @@
 
 <!-- ## Content Management Systems -->
 <!-- - [WAGTAIL]() -->
+<!-- https://wagtail.org/ -->
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
