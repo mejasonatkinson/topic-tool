@@ -1,60 +1,61 @@
 # PHP
 
-- [APACHE]()
-    - [APACHE HTTP SERVER]()
-        - [HTACCESS]() <!-- .htaccess -->
-    - [APACHE DISTRIBUTION]()
-        - [XAMP]()
-        - [MAMP]()
+<!-- - [APACHE]() -->
+<!-- - [APACHE HTTP SERVER]() -->
+<!-- - [HTACCESS]()  -->
+<!-- .htaccess -->
+<!-- - [APACHE DISTRIBUTION]() -->
+<!-- - [XAMP]() -->
+<!-- - [MAMP]() -->
 
-## Package Manager
-- [COMPOSER]()
+<!-- ## Package Manager -->
+<!-- - [COMPOSER]() -->
 
-## Extension and Application Repository
+<!-- ## Extension and Application Repository -->
 
-- [PHP PEAR]()
+<!-- - [PHP PEAR]() -->
 
-## Versions
-- [PHP4]()
-- [PHP5]()
-- [PHP6]()
-- [PHP7]()
-- [PHP8]()
+## [Versions](../../../../../KEYWORDS/Versions.md)
+<!-- - [PHP4]() -->
+<!-- - [PHP5]() -->
+<!-- - [PHP6]() -->
+<!-- - [PHP7]() -->
+<!-- - [PHP8]() -->
 
-## Template Engine
-- [TWIG]()
+<!-- ## Template Engine -->
+<!-- - [TWIG]() -->
 
-## Libaries
-- [PHPMAILER]
+<!-- ## Libaries -->
+<!-- - [PHPMAILER] -->
 
-## Frameworks
+<!-- ## Frameworks -->
 
-    ### Testing
-    - [PHPUNIT]
+<!-- ### Testing -->
+<!-- - [PHPUNIT] -->
 
-- [YII]()
-- [CAKEPHP]()
-- [SYMFONY]()
-- [LARAVEL]()
+<!-- - [YII]() -->
+<!-- - [CAKEPHP]() -->
+<!-- - [SYMFONY]() -->
+<!-- - [LARAVEL]() -->
 
-    ## Versions
-    - [LARAVEL 6]()
+<!-- ## [Versions](../../../../../KEYWORDS/Versions.md) -->
+<!-- - [LARAVEL 6]() -->
 
-## Content Management Systems
-- [WORDPRESS]()
+<!-- ## Content Management Systems -->
+<!-- - [WORDPRESS]() -->
 
-    - [WORDPRESS THEME DEVELOPMENT]()
-    - [WORDPRESS PLUGIN DEVELOPMENT]()
-    - [WORDPRESS DIVI DEVELOPMENT]()
-    - [WORDPRESS WOOCOMMERCE DEVELOPMENT]()
+<!-- - [WORDPRESS THEME DEVELOPMENT]() -->
+<!-- - [WORDPRESS PLUGIN DEVELOPMENT]() -->
+<!-- - [WORDPRESS DIVI DEVELOPMENT]() -->
+<!-- - [WORDPRESS WOOCOMMERCE DEVELOPMENT]() -->
 
-- [CRAFT CMS]()
+<!-- - [CRAFT CMS]() -->
 
-- [DRUPAL]()
-- [JOOMLA]()
-- [MAGENTO]()
+<!-- - [DRUPAL]() -->
+<!-- - [JOOMLA]() -->
+<!-- - [MAGENTO]() -->
 
-## Syntax
+## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
 - [FUNCTIONS]()
 

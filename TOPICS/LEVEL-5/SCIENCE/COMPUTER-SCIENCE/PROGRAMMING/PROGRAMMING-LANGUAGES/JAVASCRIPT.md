@@ -1,139 +1,138 @@
 # JAVASCRIPT
 
-- [ESMODULES]()
-- [COMMONJS]()
+<!-- - [ESMODULES]() -->
+<!-- - [COMMONJS]() -->
 
-## Standards
+<!-- ## Standards -->
 
-- [ECMASCRIPT]()
+<!-- - [ECMASCRIPT]() -->
 
-    - [E4X]()
+<!-- - [E4X]() -->
 
-### File Format
+<!-- ### File Format -->
 
-- [JSON]()
+<!-- - [JSON]() -->
 
-## web development techniques
+<!-- ## web development techniques -->
 
-- [AJAX]()
+<!-- - [AJAX]() -->
 
-## Package Manager
-- [YARN]()
-- [BOWERJS]()	
+<!-- ## Package Manager -->
+<!-- - [YARN]() -->
+<!-- - [BOWERJS]()	 -->
 
-## Versions
+## [Versions](../../../../../KEYWORDS/Versions.md)
+
 - [ES5]()
 - [ES6]()
 - [ES7]()
 - [ES2019]()
 - [ES2020]()
 
-## Superset
-- [TYPESCRIPT]()
+<!-- ## Superset -->
+<!-- - [TYPESCRIPT]() -->
 
-    # TYPESCRIPT
+<!-- # TYPESCRIPT -->
 
-    ## Syntax
+<!-- ## [Syntax](../../../../../KEYWORDS/Syntax.md) -->
 
-    - [PROPERTIES]()
-    - [METHODS]()
+<!-- - [PROPERTIES]() -->
+<!-- - [METHODS]() -->
 
-    <!-- ## Resources -->
-    <!-- https://www.typescriptlang.org/ -->
-    <!-- https://en.wikipedia.org/wiki/TypeScript -->
-    <!-- https://www.w3schools.com/typescript/ -->
-    <!-- https://www.codecademy.com/learn/learn-typescript -->
+<!-- ## Resources -->
+<!-- https://www.typescriptlang.org/ -->
+<!-- https://en.wikipedia.org/wiki/TypeScript -->
+<!-- https://www.w3schools.com/typescript/ -->
+<!-- https://www.codecademy.com/learn/learn-typescript -->
 
-## Compiler
+<!-- ## Compiler -->
 
+<!-- ## Libraries -->
 
+<!-- - [JQUERY]() -->
+<!-- - [D3JS]() -->
 
-## Libraries
+<!-- ## Frameworks -->
 
-- [JQUERY]()
-- [D3JS]()
+<!-- ### Frontend -->
 
-## Frameworks
+<!-- - [ASTRO]() -->
 
-### Frontend
+<!-- - [BACKBONE JS]() -->
 
-- [ASTRO]()
+<!-- - [VUE]() -->
 
-- [BACKBONE JS]()
+<!-- #### Versions -->
+<!-- - [VUE 2]() -->
+<!-- - [VUE 3]() -->
+<!-- #### Framework -->
+<!-- - [NUXT]() -->
+<!-- - [VUETIFY]() -->
+<!-- #### State Management -->
+<!-- - [VUEX]() -->
+<!-- - [PINIA]() -->
 
-- [VUE]()
+<!-- - [PHASER JS]() -->
 
-    #### Versions
-    - [VUE 2]()
-    - [VUE 3]()
-    #### Framework
-    - [NUXT]()
-    - [VUETIFY]()
-    #### State Management
-    - [VUEX]()
-    - [PINIA]()
+<!-- - [SVELTE]() -->
 
-- [PHASER JS]()
+<!-- - [REACT]() -->
 
-- [SVELTE]()
+<!-- #### Framework -->
+<!-- - [GATSBY]() -->
+<!-- - [NEXT JS]() -->
 
-- [REACT]()
+<!-- - [STENCIL JS]() -->
 
-    #### Framework
-    - [GATSBY]()
-    - [NEXT JS]()
+<!-- - [SOLID JS]() -->
 
-- [STENCIL JS]()
+<!-- #### Framework -->
+<!-- - [SOLID JS START]() -->
 
-- [SOLID JS]()
+<!-- - [ANGULAR]() -->
 
-    #### Framework
-    - [SOLID JS START]()
+<!-- #### UI Development -->
 
-- [ANGULAR]()
+<!-- - [STORYBOOK JS]() -->
 
-    #### UI Development
+<!-- ## JavaScript Engine -->
 
-    - [STORYBOOK JS]()
+<!-- - [V8ENGINE]() -->
 
+<!-- ### environment -->
 
-## JavaScript Engine
+<!-- - [BUN]() -->
+<!-- https://bun.sh/ -->
 
-- [V8ENGINE]()
+<!-- - [DENO]() -->
+<!-- https://deno.land/ -->
 
-    ### environment
-    
-    - [BUN]()
-    <!-- https://bun.sh/ -->
+<!-- - [NODE JS]() -->
 
-    - [DENO]()
-    <!-- https://deno.land/ -->
+<!-- #### headless, Content Management Systems (CMS) -->
 
-    - [NODE JS]()
+<!-- - [STRAPI CMS]() -->
 
-        #### headless, Content Management Systems (CMS)
+<!-- #### Package Manager -->
 
-        - [STRAPI CMS]()
+<!-- - [NPM]() -->
 
-        #### Package Manager
-        
-        - [NPM]()
+<!-- - [CREATE REACT APP]()  -->
+<!-- create-react-app -->
 
-            - [CREATE REACT APP]() <!-- create-react-app -->
+<!-- ##### promise-based HTTP Client -->
+<!-- - [AXIOS]() -->
 
-            ##### promise-based HTTP Client
-            - [AXIOS]()
+<!-- ##### JavaScript Task Runner -->
 
-            ##### JavaScript Task Runner
+<!-- - [GRUNT JS]() -->
 
-            - [GRUNT JS]()
+<!-- - [GULP JS]() -->
 
-            - [GULP JS]()
+<!-- - [NPX]() -->
+<!-- - [NVM]() -->
 
-        - [NPX]()
-        - [NVM]()
-
-## Syntax
+## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
 - [PROPERTIES]()
 - [METHODS]()

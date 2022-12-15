@@ -1,29 +1,29 @@
 # PYTHON
 
-## Package Manager
-- [PIP]()
+<!-- ## Package Manager -->
+<!-- - [PIP]() -->
 
-## Versions
+## [Versions](../../../../../KEYWORDS/Versions.md)
 - [PYTHON 3]()
 
 <!-- ### Resources -->
 <!-- https://en.wikipedia.org/wiki/History_of_Python -->
 <!-- https://www.python.org/doc/versions/ -->
 
-## Frameworks
-- [DJANGO]()
-- [FLASK]()
+<!-- ## Frameworks -->
+<!-- - [DJANGO]() -->
+<!-- - [FLASK]() -->
 
-## Modules	
-- [PYGAME]()
+<!-- ## Modules	 -->
+<!-- - [PYGAME]() -->
 
 <!-- ### Resources -->
 <!-- https://www.pygame.org/ -->
 
-## Content Management Systems
-- [WAGTAIL]()
+<!-- ## Content Management Systems -->
+<!-- - [WAGTAIL]() -->
 
-## Syntax
+## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
 - [FUNCTIONS]()
 - [METHODS]()

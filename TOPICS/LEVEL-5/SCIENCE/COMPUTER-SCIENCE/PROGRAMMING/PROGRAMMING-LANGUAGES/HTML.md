@@ -6,7 +6,7 @@
 <!-- - [HTML2]() -->
 <!-- - [HTML3]() -->
 <!-- - [HTML4]() -->
-<!-- - [HTML5]() -->
+- [HTML5]()
 <!-- - [XHTML]() -->
 <!-- - [DHTML]() -->
 
@@ -31,8 +31,8 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- - [ELEMENTS]() -->
-<!-- - [ATTRIBUTES]() -->
+- [ELEMENTS]()
+- [ATTRIBUTES]()
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/HTML -->

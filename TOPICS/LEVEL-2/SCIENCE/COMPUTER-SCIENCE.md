@@ -2,8 +2,6 @@
 
 - [PROGRAMMING](../../LEVEL-3/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING.md) <!-- Coding -->
 
-
-
 <!-- - [COMPUTER SCIENTISTS]() -->
 
 <!-- - [BIG DATA]() -->
@@ -313,32 +311,32 @@
 
 <!-- - [ARTIFICIAL INTELLIGENCE]() -->
 
-- [MACHINE LEARNING]()
-- [DEEP LEARNING]()
-- [NATURAL LANGUAGE PROCESSING]()
-- [SPEECH]()
-- [SPEECH TO TEXT]()
-- [TEXT TO SPEECH]()
+<!-- - [MACHINE LEARNING]() -->
+<!-- - [DEEP LEARNING]() -->
+<!-- - [NATURAL LANGUAGE PROCESSING]() -->
+<!-- - [SPEECH]() -->
+<!-- - [SPEECH TO TEXT]() -->
+<!-- - [TEXT TO SPEECH]() -->
 <!-- - [EXPERT SYSTEMS]() -->
-- [PLANNING, SCHEDULING & OPTIMIZATION]()
+<!-- - [PLANNING, SCHEDULING & OPTIMIZATION]() -->
 <!-- - [ROBOTICS]() -->
-- [VISION]()
-- [IMAGE RECOGNITION]()
-- [MACHINE VISION]()
+<!-- - [VISION]() -->
+<!-- - [IMAGE RECOGNITION]() -->
+<!-- - [MACHINE VISION]() -->
 
-- [CHATBOTS]()
+<!-- - [CHATBOTS]() -->
 
-- [MAC TERMINAL]()
-- [WINDOWS COMMAND LINE]()
+<!-- - [MAC TERMINAL]() -->
+<!-- - [WINDOWS COMMAND LINE]() -->
 
-- [NETWORKING]()
-- [PEER-TO-PEER]()
-- [DISTRIBUTED LEDGER]()
-- [BLOCKCHAIN]()
+<!-- - [NETWORKING]() -->
+<!-- - [PEER-TO-PEER]() -->
+<!-- - [DISTRIBUTED LEDGER]() -->
+<!-- - [BLOCKCHAIN]() -->
 
-- [CLOUD COMPUTING]()
-- [AWS]()
-- [GOOGLE CLOUD]()
+<!-- - [CLOUD COMPUTING]() -->
+<!-- - [AWS]() -->
+<!-- - [GOOGLE CLOUD]() -->
 
 <!-- - [CURL]()  -->
 <!-- cURL -->

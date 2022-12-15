@@ -4,7 +4,7 @@
 
 <!-- - [CSS1]() -->
 <!-- - [CSS2]() -->
-<!-- - [CSS3]() -->
+- [CSS3]()
 
 <!-- ## Preprocessors -->
 <!-- - [SASS]()  -->
@@ -35,8 +35,8 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- - [SELECTORS]() -->
-<!-- - [PROPERTIES]() -->
+- [SELECTORS]()
+- [PROPERTIES]()
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/CSS -->
