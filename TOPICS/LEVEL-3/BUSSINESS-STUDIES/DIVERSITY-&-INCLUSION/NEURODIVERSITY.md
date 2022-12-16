@@ -1,0 +1,15 @@
+# NEURODIVERSITY
+
+Neurodiversity refers to diversity in the human brain and cognition, for instance in sociability, learning, attention, mood and other mental functions. [wikipedia](https://en.wikipedia.org/wiki/Neurodiversity)
+
+
+<!-- - [DYSCALCULIA]() -->
+- [DYSLEXIA](../../../LEVEL-4/BUSSINESS-STUDIES/DIVERSITY-%26-INCLUSION/NEURODIVERSITY/DYSLEXIA.md)
+- [ADHD](../../../LEVEL-4/BUSSINESS-STUDIES/DIVERSITY-%26-INCLUSION/NEURODIVERSITY/ADHD.md)
+- [TOURETTE SYNDROME](../../../LEVEL-4/BUSSINESS-STUDIES/DIVERSITY-%26-INCLUSION/NEURODIVERSITY/TOURETTE-SYNDROME.md)
+<!-- - [ACQUIRED NEURODIVERSITY]() -->
+<!-- - [MENTAL HEALTH]() -->
+<!-- - [AUTISM]() -->
+- [DCD & DYSPRAXIA](../../../LEVEL-4/BUSSINESS-STUDIES/DIVERSITY-%26-INCLUSION/NEURODIVERSITY/DCD-%26-DYSPRAXIA.md)
+
+

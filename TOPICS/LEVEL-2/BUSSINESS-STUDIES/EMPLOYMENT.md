@@ -1,5 +1,7 @@
-- [CAREER ADVICE]()
-- [JOB SEARCHING]()
+# EMPLOYMENT
 
-    - [CV]() 
-    <!-- Resume -->
+<!-- - [CAREER ADVICE]() -->
+<!-- - [JOB SEARCHING]() -->
+
+<!-- - [CV]()  -->
+<!-- Resume -->

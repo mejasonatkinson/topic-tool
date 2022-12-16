@@ -1,29 +1,32 @@
+# SELF-EMPLOYMENT
 
+<!-- - [SOLE TRADER]()  -->
+<!-- FREELANCING-->
+<!-- - [LIMITED COMPANY]() -->
 
-- [SOLE TRADER]() <!-- FREELANCING-->
-- [LIMITED COMPANY]()
+<!-- - [BUSSINESS DEVELOPMENT]() -->
+<!-- - [MVP]()  -->
+<!-- (Minimum viable product) -->
 
-- [BUSSINESS DEVELOPMENT]()
-    - [MVP]() <!-- (Minimum viable product) -->
+<!-- - [BUSSINESS PLANNING]() -->
 
-- [BUSSINESS PLANNING]()
+<!-- - [CRM]()  -->
+<!-- Customer relationship management -->
 
-- [CRM]() <!-- Customer relationship management -->
+<!-- - [PRESENTING]() -->
 
-- [PRESENTING]()
+<!-- - [MICROSOFT] -->
 
-    - [MICROSOFT]
+<!-- - [MICROSOFT POWERPOINT]() -->
 
-        - [MICROSOFT POWERPOINT]()
+<!-- - [EXPENSE TRACKING]() -->
 
-- [EXPENSE TRACKING]()
+<!-- - [MICROSOFT] -->
 
-    - [MICROSOFT]
+<!-- - [MICROSOFT EXCEL]() -->
 
-        - [MICROSOFT EXCEL]()
-
-- [INVOICING]()
-- [TAXES]()
-    - [HMRC]()
-        - [TAX RETURNS]()
-            - [ACCOUNTANTS]()
+<!-- - [INVOICING]() -->
+<!-- - [TAXES]() -->
+<!-- - [HMRC]() -->
+<!-- - [TAX RETURNS]() -->
+<!-- - [ACCOUNTANTS]() -->

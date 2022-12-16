@@ -1,40 +1,47 @@
+# MARKETING
 
-- [INTERNET MARKETING]()
+<!-- - [INTERNET MARKETING]() -->
 
-    - [EMAIL MARKETING]()
+<!-- - [EMAIL MARKETING]() -->
 
-    - [GOOGLE TAG MANAGER]()
+<!-- - [GOOGLE TAG MANAGER]() -->
 
-    - [ADS]() <!-- Advertising -->
+<!-- - [ADS]()  -->
+<!-- Advertising -->
 
-        - [GOOGLE ADS]() <!-- Prev. Google Adwords -->
-        - [GOOGLE ADSENSE]()
+<!-- - [GOOGLE ADS]()  -->
+<!-- Prev. Google Adwords -->
+<!-- - [GOOGLE ADSENSE]() -->
 
-    - [ANALYTICS]()
+<!-- - [ANALYTICS]() -->
 
-        - [HOTJAR]()
-        - [MIXPANEL]()
-        - [KISSMETRICS]()
-        - [GOOGLE ANALYTICS]()
-        
-    - [SEO]()
+<!-- - [HOTJAR]() -->
+<!-- - [MIXPANEL]() -->
+<!-- - [KISSMETRICS]() -->
+<!-- - [GOOGLE ANALYTICS]() -->
 
-        - [AHREFS]() <!-- https://ahrefs.com/ -->
-        - [ALEXA.COM]() <!-- https://alexa.com/ --> <!-- SHUT DDOWN -->
-        - [SIMILARWEB]() <!-- https://www.similarweb.com/ -->
-        - [SEMRUSH]()
-        - [GOOGLE TRENDS]()
-        - [GOOGLE SEARCH CONSOLE]()
+<!-- - [SEO]() -->
 
-        - [BACKLINKS]()
+<!-- - [AHREFS]()  -->
+<!-- https://ahrefs.com/ -->
+<!-- - [ALEXA.COM]()  -->
+<!-- https://alexa.com/ --> 
+<!-- SHUT DDOWN -->
+<!-- - [SIMILARWEB]()  -->
+<!-- https://www.similarweb.com/ -->
+<!-- - [SEMRUSH]() -->
+<!-- - [GOOGLE TRENDS]() -->
+<!-- - [GOOGLE SEARCH CONSOLE]() -->
 
-        - [CONTENT CREATION]()
-        - [CONTENT MANAGEMENT]()
-        - [CONTENT OPTIMIZATION]()
-        - [CONTENT STRATEGY]()
-        - [CONTENT WRITING]()
-        - [COPYWRITING]()
-    
-    - [GROWTH HACKING]()
+<!-- - [BACKLINKS]() -->
 
-        - [A/B TESTING]()
+<!-- - [CONTENT CREATION]() -->
+<!-- - [CONTENT MANAGEMENT]() -->
+<!-- - [CONTENT OPTIMIZATION]() -->
+<!-- - [CONTENT STRATEGY]() -->
+<!-- - [CONTENT WRITING]() -->
+<!-- - [COPYWRITING]() -->
+
+<!-- - [GROWTH HACKING]() -->
+
+<!-- - [A/B TESTING]() -->
