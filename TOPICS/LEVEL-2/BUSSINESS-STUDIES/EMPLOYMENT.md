@@ -1,7 +1,7 @@
 # EMPLOYMENT
 
-<!-- - [CAREER ADVICE]() -->
-<!-- - [JOB SEARCHING]() -->
+- [JOB SEARCHING]()
 
-<!-- - [CV]()  -->
-<!-- Resume -->
+
+
+<!-- - [CAREER ADVICE]() -->
