@@ -39,6 +39,16 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
+<!-- 
+
+STRUCTURE..
+
+selector {
+    property: value;
+} 
+
+-->
+
 <!-- - [SELECTORS]() -->
 <!-- - [PROPERTIES]() -->
 

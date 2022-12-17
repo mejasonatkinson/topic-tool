@@ -13,14 +13,6 @@
 <!-- ## Frameworks -->
 <!-- - [DJANGO]() -->
 <!-- https://www.djangoproject.com/ -->
-<!-- - [FLASK]() -->
-<!-- https://flask.palletsprojects.com/en/2.2.x/ -->
-
-<!-- ## Modules	 -->
-<!-- - [PYGAME]() -->
-
-<!-- ### Resources -->
-<!-- https://www.pygame.org/ -->
 
 <!-- ## Content Management Systems -->
 <!-- - [WAGTAIL]() -->

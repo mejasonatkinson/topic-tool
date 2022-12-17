@@ -35,6 +35,14 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
+<!-- 
+
+STRUCTURE..
+
+<element attribute="value"></closing-element>
+
+-->
+
 <!-- - [ELEMENTS]() -->
 <!-- - [ATTRIBUTES]() -->
 
