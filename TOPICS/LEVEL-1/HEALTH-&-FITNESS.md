@@ -1,23 +1,6 @@
-- [HEALTH]()
+# HEALTH & FITNESS
 
-    - [MENTAL HEALTH]()
-    - [PHYSICAL HEALTH]()
-
-- [FITNESS]()
-
-- [GYM]()
-
-    - [CYCLING MACHINE]()
-    - [TREADMILL]()
-    - [CROSS TRAINER]()
-    - [ROWING MACHINE]()
-
-    - [WEIGHTS]()
-
-- [SPORTS]()
-
-    - [SWIMMING]()
-    - [GOLF]()
-    - [SQUASH]()
-
-    - [SKATEBOARDING]()
+- [HEALTH](../LEVEL-2/HEALTH-%26-FITNESS/HEALTH.md)
+- [FITNESS](../LEVEL-2/HEALTH-%26-FITNESS/FITNESS.md)
+- [GYM](../LEVEL-2/HEALTH-%26-FITNESS/GYM.md)
+- [SPORTS](../LEVEL-2/HEALTH-%26-FITNESS/SPORTS.md)
