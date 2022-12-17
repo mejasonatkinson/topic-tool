@@ -1,4 +1,3 @@
 # Travel Planning
-#
 
 - [GOOGLE MAPS]()
