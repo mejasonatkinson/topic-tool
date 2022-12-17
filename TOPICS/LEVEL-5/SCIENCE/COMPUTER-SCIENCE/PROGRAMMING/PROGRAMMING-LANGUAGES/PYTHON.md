@@ -4,7 +4,7 @@
 <!-- - [PIP]() -->
 
 ## [Versions](../../../../../KEYWORDS/Versions.md)
-- [PYTHON 3]()
+<!-- - [PYTHON 3]() -->
 
 <!-- ### Resources -->
 <!-- https://en.wikipedia.org/wiki/History_of_Python -->
@@ -26,11 +26,15 @@
 <!-- - [WAGTAIL]() -->
 <!-- https://wagtail.org/ -->
 
+## [File Format](../../../../../KEYWORDS/File-Format.md)
+
+- [.PY]()
+
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-- [FUNCTIONS]()
-- [METHODS]()
-- [KEYWORDS]()
+<!-- - [FUNCTIONS]() -->
+<!-- - [METHODS]() -->
+<!-- - [KEYWORDS]() -->
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->
