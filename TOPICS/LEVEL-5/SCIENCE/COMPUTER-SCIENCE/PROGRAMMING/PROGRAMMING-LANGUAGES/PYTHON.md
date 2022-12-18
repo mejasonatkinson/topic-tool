@@ -24,9 +24,9 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- - [FUNCTIONS]() -->
-<!-- - [METHODS]() -->
-<!-- - [KEYWORDS]() -->
+- [COMMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/COMMENTS.md)
+
+- [FUNCTIONS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/FUNCTIONS.md)
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->

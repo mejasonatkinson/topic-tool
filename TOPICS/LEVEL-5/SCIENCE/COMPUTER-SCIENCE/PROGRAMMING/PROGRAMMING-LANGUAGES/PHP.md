@@ -62,7 +62,9 @@
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- - [FUNCTIONS]() -->
+- [COMMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/COMMENTS.md)
+
+- [FUNCTIONS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/FUNCTIONS.md)
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/PHP -->
