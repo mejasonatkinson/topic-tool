@@ -1,6 +1,6 @@
 # COMMENTS
 
-<!-- 
+```
 
 // This is a single-line comment
 
@@ -13,4 +13,4 @@ that spans over multiple
 lines
 */
 
--->
+```

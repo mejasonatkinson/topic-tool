@@ -139,43 +139,13 @@
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
 - [COMMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/COMMENTS.md)
-
-<!-- - [VARIABLES]() -->
-
-  <!-- - [VAR]() -->
-  <!-- - [LET]()  -->
-  <!-- - [CONST]() -->
-
-<!-- - [OPERATORS]() -->
-<!-- - [DATA TYPES]() -->
-
-  <!-- - [STRING]() -->
-  <!-- - [NUMBER]() -->
-  <!-- - [BIGINT]() -->
-  <!-- - [BOOLEAN]() -->
-  <!-- - [UNDEFINED]() -->
-  <!-- - [NULL]() -->
-  <!-- - [SYMBOL]() -->
-
-  <!-- - [OBJECT]() -->
-  <!-- - [ARRAY]() -->
-  <!-- - [DATE]() -->
-
+- [VARIABLES]()
+- [OPERATORS]()
+- [DATA TYPES]()
 - [FUNCTIONS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/FUNCTIONS.md)
+- [CONDITIONAL STATEMENTS]()
+- [LOOPS]()
 
-<!-- - [STATEMENTS]() -->
-
-  <!-- - [CONDITIONAL STATEMENTS]() -->
-  <!-- - [IF]() -->
-  <!-- - [ELSE]() -->
-  <!-- - [ELSE IF]() -->
-  <!-- - [SWITCH]() -->
-
-<!-- - [LOOPS]() -->
-  <!-- - [FOR]() -->
-  <!-- - [FOR IN]() -->
-  <!-- - [FOR OF]() -->
-  <!-- - [WHILE]() -->
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/JavaScript -->
