@@ -50,3 +50,5 @@ false // this is a boolean value
 
 ```
 ```
+
+<!-- https://www.w3schools.com/js/js_datatypes.asp -->

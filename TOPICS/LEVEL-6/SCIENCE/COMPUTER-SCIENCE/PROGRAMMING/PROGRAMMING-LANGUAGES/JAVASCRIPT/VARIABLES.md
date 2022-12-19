@@ -16,6 +16,8 @@ let variableName = assigned;
 
 ```
 
+<!-- https://www.w3schools.com/js/js_let.asp -->
+
 <!-- - [CONST]() -->
 
 ```
@@ -23,3 +25,7 @@ let variableName = assigned;
 const variableName = assigned;
 
 ```
+
+<!-- https://www.w3schools.com/js/js_const.asp -->
+
+<!-- https://www.w3schools.com/js/js_variables.asp -->

@@ -36,6 +36,8 @@ if (condition1) {
 
 ```
 
+<!-- https://www.w3schools.com/js/js_if_else.asp -->
+
 <!-- - [SWITCH]() -->
 
 ```
@@ -52,3 +54,5 @@ switch(expression) {
 }
 
 ```
+
+<!-- https://www.w3schools.com/js/js_switch.asp -->

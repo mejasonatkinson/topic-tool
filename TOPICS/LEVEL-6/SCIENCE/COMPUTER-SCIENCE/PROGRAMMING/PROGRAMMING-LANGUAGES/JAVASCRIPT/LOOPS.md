@@ -10,6 +10,8 @@ for ( ) {
 
 ```
 
+<!-- https://www.w3schools.com/js/js_loop_for.asp -->
+
 <!-- - [FOR IN]() -->
 
 ```
@@ -19,6 +21,8 @@ for ( in ) {
 }
 
 ```
+
+<!-- https://www.w3schools.com/js/js_loop_forin.asp -->
 
 <!-- - [FOR OF]() -->
 
@@ -30,6 +34,8 @@ for ( of ) {
 
 ```
 
+<!-- https://www.w3schools.com/js/js_loop_forof.asp -->
+
 <!-- - [WHILE]() -->
 
 ```
@@ -39,3 +45,4 @@ while ( ) {
 }
 
 ```
+<!-- https://www.w3schools.com/js/js_loop_while.asp -->
