@@ -1,6 +1,6 @@
 # LOOPS
 
-<!-- - [FOR]() -->
+- [FOR](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/LOOPS/FOR.md)
 
 ```
 
@@ -12,7 +12,7 @@ for ( ) {
 
 <!-- https://www.w3schools.com/js/js_loop_for.asp -->
 
-<!-- - [FOR IN]() -->
+- [FOR IN](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/LOOPS/FOR-IN.md)
 
 ```
 
@@ -24,7 +24,7 @@ for ( in ) {
 
 <!-- https://www.w3schools.com/js/js_loop_forin.asp -->
 
-<!-- - [FOR OF]() -->
+- [FOR OF](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/LOOPS/FOR-OF.md)
 
 ```
 
@@ -36,7 +36,7 @@ for ( of ) {
 
 <!-- https://www.w3schools.com/js/js_loop_forof.asp -->
 
-<!-- - [WHILE]() -->
+- [WHILE](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/LOOPS/WHILE.md)
 
 ```
 

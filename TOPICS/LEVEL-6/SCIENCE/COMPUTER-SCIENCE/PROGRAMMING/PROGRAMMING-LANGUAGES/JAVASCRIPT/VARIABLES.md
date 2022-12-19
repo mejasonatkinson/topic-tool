@@ -1,6 +1,6 @@
 # VARIABLES
 
-<!-- - [VAR]() -->
+- [VAR](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/VARIABLES/VAR.md)
 
 ```
 
@@ -8,7 +8,7 @@ var variableName = assigned;
 
 ```
 
-<!-- - [LET]()  -->
+- [LET](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/VARIABLES/LET.md) 
 
 ```
 
@@ -18,7 +18,7 @@ let variableName = assigned;
 
 <!-- https://www.w3schools.com/js/js_let.asp -->
 
-<!-- - [CONST]() -->
+- [CONST](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/VARIABLES/CONST.md)
 
 ```
 

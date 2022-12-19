@@ -1,54 +1,15 @@
 # DATA TYPES
 
-<!-- - [STRING]() -->
-```
-
-"this is a string in double quotes"
-
-'this is a string in single quotes'
-
-`this is a string in back ticks`
-
-```
-<!-- - [NUMBER]() -->
-```
-
-16 // this is a number
-
-1.365 // this is also a number
-
-```
+- [STRING](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/DATA-TYPES/STRING.md)
+- [NUMBER](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/DATA-TYPES/NUMBER.md)
 <!-- - [BIGINT]() -->
-```
-```
-<!-- - [BOOLEAN]() -->
-```
-
-true // this is a boolean value
-false // this is a boolean value
-
-```
+- [BOOLEAN](../../../../../../LEVEL-7/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/DATA-TYPES/BOOLEAN.md)
 <!-- - [UNDEFINED]() -->
-```
-```
 <!-- - [NULL]() -->
-```
-```
 <!-- - [SYMBOL]() -->
-```
-```
-
 <!-- - [OBJECT]() -->
 <!-- - [METHODS]() -->
-
 <!-- - [ARRAY]() -->
-
-```
-```
-
 <!-- - [DATE]() -->
-
-```
-```
 
 <!-- https://www.w3schools.com/js/js_datatypes.asp -->
