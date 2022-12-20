@@ -18,7 +18,7 @@ So I thought, 'Well, I'll just do as Franz Kafka said,
 90% of what you said
 was gone within 30 seconds.
 
-one of the most leading neurologists called John Medina,
+one of the most leading neurologists called [John Medina](),
 and he puts it like this.
 [If companies would have as little respect for business
 as they have for presentations,
@@ -26,7 +26,7 @@ the majority would go bankrupt.]
 
 Five design principles that will cognitively and psychologically optimise your PowerPoint slides.
 
-1. One message per slide.
+1. [One message per slide]()
 
 So, why should we only have one message per slide?
 
@@ -41,7 +41,7 @@ is zero. Or very close to zero.
 
 2. Use PowerPoint for what it's supposed to be used for; to hold the presentation material: short, sweet bits of text and an image.
 
-3. Size = Focus
+3. [Size = Focus]()
 
 you will focus on four things:
 
@@ -53,7 +53,7 @@ you will focus on four things:
 The most important part of your PowerPoint
 should also be the biggest, nothing else.
 
-4. Contrast = Focus
+4. [Contrast = Focus]()
 
 Contrast controls your focus.
 
@@ -78,7 +78,7 @@ and I always will be the presentation.
 
 The Powerpoint is a visual aid.
 
-5. Objects
+5. [Objects]()
 
 To many objects creates anxiety
 
@@ -87,7 +87,6 @@ The magical number is six.
 The amount of slides in your PowerPoint
 has never been the problem.
 It is the amount of objects per slide which has been the problem.
-
 
 How many messages are you supposed to have per slide?
 (Audience) One.

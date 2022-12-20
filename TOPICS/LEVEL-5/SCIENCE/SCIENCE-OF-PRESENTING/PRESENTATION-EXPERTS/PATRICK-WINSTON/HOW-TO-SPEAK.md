@@ -1,11 +1,11 @@
 # [HOW TO SPEAK](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 <!-- 
-PATRICK WINSTON: The Uniform Code of Military Justice specifies court martial for any officer who sends a soldier
-into battle without a weapon. There ought to be a similar protection for students
-because students shouldn't go out into life without the ability to communicate,
-and that's because your success in life will be determined largely by your ability to speak,
+
+your success in life will be determined largely by your ability to speak,
 your ability to write, and the quality of your ideas, in that order.
+
+
 I know that I can be successful in this because the quality of communication,
 your speaking, your writing, is largely determined by this formula. It's a matter of how much knowledge you have,
 how much you practice with that knowledge, and your inherent talent, and notice that the T is very small.
