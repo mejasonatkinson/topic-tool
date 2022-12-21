@@ -6,32 +6,32 @@
 <!-- - [HTML2]() -->
 <!-- - [HTML3]() -->
 <!-- - [HTML4]() -->
-<!-- - [HTML5]() -->
+- [HTML5](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/HTML5.md)
 <!-- - [XHTML]() -->
 <!-- - [DHTML]() -->
 
 <!-- ## Preprocessors -->
 
-<!-- - [HAML]() -->
-<!-- https://haml.info/ -->
+- [HAML](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/HAML.md)
 
-<!-- - [NUNJUCKS]() -->
-<!-- https://mozilla.github.io/nunjucks/ -->
+
+- [NUNJUCKS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/NUNJUCKS.md)
+
 
 <!-- ### Resources -->
 <!-- https://css-tricks.com/comparing-html-preprocessor-features/ -->
 
 <!-- ## Frameworks -->
 
-<!-- - [BOOTSTRAP; Twitter]() -->
-<!-- https://getbootstrap.com/ -->
+- [BOOTSTRAP; Twitter](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/BOOTSTRAP.md)
 
-<!-- - [FOUNDATION; Zurb]() -->
-<!-- https://get.foundation/ -->
+
+- [FOUNDATION; Zurb](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/FOUNDATION.md)
+
 
 ## [File Format](../../../../../KEYWORDS/File-Format.md)
 
-- [.HTML]()
+- [.HTML](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/HTML.md)
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
@@ -43,8 +43,8 @@ STRUCTURE..
 
 -->
 
-<!-- - [ELEMENTS]() -->
-<!-- - [ATTRIBUTES]() -->
+- [ELEMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/ELEMENTS.md)
+- [ATTRIBUTES](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/ATTRIBUTES.md)
 
 <!-- ## Resources -->
 <!-- https://en.wikipedia.org/wiki/HTML -->
