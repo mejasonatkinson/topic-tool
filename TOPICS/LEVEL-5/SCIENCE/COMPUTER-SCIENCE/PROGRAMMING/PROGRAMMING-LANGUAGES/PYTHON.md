@@ -1,36 +1,42 @@
 # PYTHON
 
-<!-- ## Package Manager -->
-<!-- - [PIP]() -->
+## [Package Manager](../../../../../KEYWORDS/PackageManager.md)
+- [PIP](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/PIP.md)
 
 ## [Versions](../../../../../KEYWORDS/Versions.md)
-<!-- - [PYTHON 3]() -->
+- [PYTHON 3](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/PYTHON-3.md)
 
-<!-- ### Resources -->
-<!-- https://en.wikipedia.org/wiki/History_of_Python -->
-<!-- https://www.python.org/doc/versions/ -->
+## [Frameworks](../../../../../KEYWORDS/Frameworks.md)
+- [DJANGO](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/DJANGO.md)
 
-<!-- ## Frameworks -->
-<!-- - [DJANGO]() -->
-<!-- https://www.djangoproject.com/ -->
+## [Content Management Systems](../../../../../KEYWORDS/ContentManagementSystems.md)
+- [WAGTAIL](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/WAGTAIL.md)
 
-<!-- ## Content Management Systems -->
-<!-- - [WAGTAIL]() -->
-<!-- https://wagtail.org/ -->
+## [File Format](../../../../../KEYWORDS/FileFormat.md)
 
-## [File Format](../../../../../KEYWORDS/File-Format.md)
-
-- [.PY]()
+- [.PY](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/PY.md)
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
 - [COMMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/COMMENTS.md)
-
 - [FUNCTIONS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/FUNCTIONS.md)
 
 <!-- ## Resources -->
+
 <!-- https://en.wikipedia.org/wiki/Python_(programming_language) -->
 <!-- https://www.w3schools.com/python/ -->
 <!-- https://www.codecademy.com/catalog/language/python -->
 <!-- https://developer.mozilla.org/en-US/docs/Glossary/Python // https://www.python.org/ -->
 <!-- https://code.visualstudio.com/docs/python/python-tutorial -->
+<!-- https://www.python.org/downloads/ -->
+
+<!-- TensorFlow -->
+<!-- NumPy -->
+<!-- SciPy  -->
+<!-- Pandas -->
+<!-- Matplotlib  -->
+<!-- Keras -->
+<!-- SciKit-Learn -->
+<!-- PyTorch -->
+<!-- Scrapy -->
+<!-- BeautifulSoup -->

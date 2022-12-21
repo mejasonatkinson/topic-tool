@@ -1,3 +1,3 @@
-# File Name Extension
+# File Format
 
 <!-- ## Resources -->
