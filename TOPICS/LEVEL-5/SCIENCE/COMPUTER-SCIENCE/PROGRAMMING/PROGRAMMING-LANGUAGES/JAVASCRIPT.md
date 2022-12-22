@@ -1,6 +1,6 @@
 # JAVASCRIPT
 
-JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
+JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.
 
 JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).
 
@@ -10,14 +10,12 @@ JavaScript engines were originally used only in web browsers, but are now core c
 
 <!-- ## How to get started -->
 
-
-
 <!-- - [ESMODULES]() -->
 <!-- - [COMMONJS]() -->
 
-<!-- ## Standards -->
+## [Standards](../../../../../KEYWORDS/Standards.md)
 
-<!-- - [ECMASCRIPT]() -->
+- [ECMASCRIPT](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/ECMASCRIPT.md)
 
 <!-- - [E4X]() -->
 
@@ -121,13 +119,15 @@ JavaScript engines were originally used only in web browsers, but are now core c
 
 <!-- - [NODE JS]() -->
 
+<!-- https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp -->
+
 <!-- #### headless, Content Management Systems (CMS) -->
 
 <!-- - [STRAPI CMS]() -->
 
-<!-- #### Package Manager -->
+## Package Manager
 
-<!-- - [NPM]() -->
+- [NPM](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/NPM.md)
 
 <!-- - [CREATE REACT APP]()  -->
 <!-- create-react-app -->
@@ -138,6 +138,8 @@ JavaScript engines were originally used only in web browsers, but are now core c
 <!-- ##### JavaScript Task Runner -->
 
 <!-- - [GRUNT JS]() -->
+
+<!-- https://www.youtube.com/playlist?list=PL4cUxeGkcC9j85fkVyCzCMJDfteLtrl_y -->
 
 <!-- - [GULP JS]() -->
 

@@ -10,8 +10,6 @@ Python consistently ranks as one of the most popular programming languages. [wik
 
 <!-- ## How to get started -->
 
-
-
 ## [Package Manager](../../../../../KEYWORDS/PackageManager.md)
 
 - [PIP](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/PIP.md)
