@@ -55,15 +55,16 @@ W3Techs reports that, as of October 2022, "PHP is used by 74.4% of all the websi
 <!-- ## [Versions](../../../../../KEYWORDS/Versions.md) -->
 <!-- - [LARAVEL 6]() -->
 
-<!-- ## Content Management Systems -->
-<!-- - [WORDPRESS]() -->
+## [Content Management Systems](../../../../../KEYWORDS/ContentManagementSystems.md)
+
+- [WORDPRESS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/WORDPRESS.md)
 
 <!-- - [WORDPRESS THEME DEVELOPMENT]() -->
 <!-- - [WORDPRESS PLUGIN DEVELOPMENT]() -->
 <!-- - [WORDPRESS DIVI DEVELOPMENT]() -->
 <!-- - [WORDPRESS WOOCOMMERCE DEVELOPMENT]() -->
 
-<!-- - [CRAFT CMS]() -->
+- [CRAFT CMS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/CRAFT-CMS.md)
 
 <!-- - [DRUPAL]() -->
 <!-- - [JOOMLA]() -->
@@ -71,7 +72,7 @@ W3Techs reports that, as of October 2022, "PHP is used by 74.4% of all the websi
 
 ## [File Format](../../../../../KEYWORDS/File-Format.md)
 
-- [.PHP]()
+- [.PHP](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/PHP.md)
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
