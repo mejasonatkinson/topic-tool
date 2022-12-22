@@ -1,34 +1,6 @@
 # SELF-EMPLOYMENT
 
-<!-- - [SOLE TRADER]()  -->
-<!-- FREELANCING-->
-<!-- - [LIMITED COMPANY]() -->
-
+- [SOLE TRADER](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/SOLE-TRADER.md) <!-- FREELANCING-->
+- [LIMITED COMPANY](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/LIMITED-COMPANY.md)
 - [BUSSINESS DEVELOPMENT](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/BUSSINESS-DEVELOPMENT.md)
-
-
-<!-- - [MVP]()  -->
-<!-- (Minimum viable product) -->
-
-<!-- - [BUSSINESS PLANNING]() -->
-
-<!-- - [CRM]()  -->
-<!-- Customer relationship management -->
-
-<!-- - [PRESENTING]() -->
-
-<!-- - [MICROSOFT] -->
-
-<!-- - [MICROSOFT POWERPOINT]() -->
-
-<!-- - [EXPENSE TRACKING]() -->
-
-<!-- - [MICROSOFT] -->
-
-<!-- - [MICROSOFT EXCEL]() -->
-
-<!-- - [INVOICING]() -->
-<!-- - [TAXES]() -->
-<!-- - [HMRC]() -->
-<!-- - [TAX RETURNS]() -->
-<!-- - [ACCOUNTANTS]() -->
+- [BUSSINESS MANAGEMENT](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/BUSSINESS-MANAGEMENT.md)
