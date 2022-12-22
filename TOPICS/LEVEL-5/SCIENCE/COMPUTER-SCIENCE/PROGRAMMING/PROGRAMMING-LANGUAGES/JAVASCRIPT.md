@@ -125,7 +125,7 @@ JavaScript engines were originally used only in web browsers, but are now core c
 
 <!-- - [STRAPI CMS]() -->
 
-## Package Manager
+## [Package Manager](../../../../../KEYWORDS/PackageManager.md)
 
 - [NPM](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/JAVASCRIPT/NPM.md)
 

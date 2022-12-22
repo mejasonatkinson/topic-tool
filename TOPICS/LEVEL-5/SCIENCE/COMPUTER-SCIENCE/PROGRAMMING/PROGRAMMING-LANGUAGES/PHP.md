@@ -20,7 +20,8 @@ W3Techs reports that, as of October 2022, "PHP is used by 74.4% of all the websi
 <!-- - [XAMP]() -->
 <!-- - [MAMP]() -->
 
-## Package Manager
+## [Package Manager](../../../../../KEYWORDS/PackageManager.md)
+
 - [COMPOSER](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PHP/COMPOSER.md)
 
 <!-- ## Extension and Application Repository -->
