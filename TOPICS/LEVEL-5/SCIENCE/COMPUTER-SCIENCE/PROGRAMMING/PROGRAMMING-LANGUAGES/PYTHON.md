@@ -8,6 +8,12 @@ Guido van Rossum began working on Python in the late 1980s as a successor to the
 
 Python consistently ranks as one of the most popular programming languages. [wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+## Playground
+
+Where possible I create a playground repo to hold any expirements I do.
+
+- [GITHUB PLAYGROUND](https://github.com/mejasonatkinson/playground-python)
+
 <!-- ## How to get started -->
 
 ## [Package Manager](../../../../../KEYWORDS/PackageManager.md)
@@ -42,6 +48,11 @@ Python consistently ranks as one of the most popular programming languages. [wik
 
 - [CONDITIONAL STATEMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/CONDITIONAL-STATEMENTS.md)
 - [LOOPS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/PYTHON/LOOPS.md)
+
+
+
+
+
 
 <!-- ## Resources -->
 

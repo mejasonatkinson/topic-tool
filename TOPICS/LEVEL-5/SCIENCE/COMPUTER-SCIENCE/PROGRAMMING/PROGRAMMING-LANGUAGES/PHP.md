@@ -10,6 +10,12 @@ The PHP language evolved without a written formal specification or standard unti
 
 W3Techs reports that, as of October 2022, "PHP is used by 74.4% of all the websites whose server-side programming language we know." PHP version 7.4 is the most used version. Support for version 7.3 was dropped on 6 December 2021. [wikipedia](https://en.wikipedia.org/wiki/PHP)
 
+## Playground
+
+Where possible I create a playground repo to hold any expirements I do.
+
+- [GITHUB PLAYGROUND](https://github.com/mejasonatkinson/playground-php)
+
 <!-- ## How to get started -->
 
 <!-- - [APACHE]() -->

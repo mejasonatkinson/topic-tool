@@ -8,6 +8,10 @@ The ECMAScript standard does not include any input/output (I/O), such as network
 
 JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js. [wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
+## Playground
+
+Where possible I create a playground repo to hold any expirements I do.
+
 <!-- ## How to get started -->
 
 <!-- - [ESMODULES]() -->

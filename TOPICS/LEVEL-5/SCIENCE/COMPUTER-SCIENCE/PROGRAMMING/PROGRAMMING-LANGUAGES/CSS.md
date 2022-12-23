@@ -10,6 +10,10 @@ The name cascading comes from the specified priority scheme to determine which s
 
 The CSS specifications are maintained by the World Wide Web Consortium (W3C). Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998). The W3C operates a free CSS validation service for CSS documents. [wikipedia](https://en.wikipedia.org/wiki/CSS)
 
+## Playground
+
+Where possible I create a playground repo to hold any expirements I do.
+
 <!-- ## How to get started -->
 
 ## [Versions](../../../../../KEYWORDS/Versions.md)
