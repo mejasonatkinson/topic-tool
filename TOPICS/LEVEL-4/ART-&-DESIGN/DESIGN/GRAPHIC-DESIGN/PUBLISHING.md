@@ -2,8 +2,5 @@
 
 - [FONT DESIGN](../../../../LEVEL-5/ART-%26-DESIGN/DESIGN/GRAPHIC-DESIGN/PUBLISHING/FONT-DESIGN.md)
 - [FONTFORGE](../../../../LEVEL-5/ART-%26-DESIGN/DESIGN/GRAPHIC-DESIGN/PUBLISHING/FONTFORGE.md)
-<!-- https://fontforge.org/en-US/ -->
-<!-- https://en.wikipedia.org/wiki/FontForge -->
 - [BOOK COVER DESIGN](../../../../LEVEL-5/ART-%26-DESIGN/DESIGN/GRAPHIC-DESIGN/PUBLISHING/BOOK-COVER-DESIGN.md)
 - [ADOBE INDESIGN](../../../../LEVEL-5/ART-%26-DESIGN/DESIGN/GRAPHIC-DESIGN/PUBLISHING/ADOBE-INDESIGN.md)
-<!-- https://www.adobe.com/uk/products/indesign.html -->

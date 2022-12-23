@@ -5,4 +5,4 @@ Marty was born in Seattle Washington in May, 1947. He earned his Bachelor of Sci
 
 # Talks
 
-- [STUDY LESS STUDY SMART](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+- [STUDY LESS STUDY SMART](../../../../LEVEL-5/SCIENCE/SCIENCE-OF-LEARNING/LEARNING-EXPERTS/MARTY-LOBDELL/STUDY-LESS-STUDY-SMART.md)
