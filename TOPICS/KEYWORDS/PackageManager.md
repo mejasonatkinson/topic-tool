@@ -1,3 +1,3 @@
-#  Package Manager
+# Package Manager
 
-<!-- ## Resources -->
+<!-- https://en.wikipedia.org/wiki/Package_manager -->

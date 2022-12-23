@@ -1,6 +1,6 @@
 # SELF-EMPLOYMENT
 
-https://en.wikipedia.org/wiki/Self-employment
+<!-- https://en.wikipedia.org/wiki/Self-employment -->
 
 - [SOLE TRADER](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/SOLE-TRADER.md) <!-- FREELANCING-->
 - [LIMITED COMPANY](../../LEVEL-3/BUSSINESS-STUDIES/SELF-EMPLOYMENT/LIMITED-COMPANY.md)

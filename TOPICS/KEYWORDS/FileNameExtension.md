@@ -1,3 +1,3 @@
 # File Name Extension
 
-<!-- ## Resources -->
+<!-- https://en.wikipedia.org/wiki/Filename_extension -->

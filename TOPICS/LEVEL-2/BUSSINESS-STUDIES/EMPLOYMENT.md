@@ -1,6 +1,6 @@
 # EMPLOYMENT
 
-https://en.wikipedia.org/wiki/Employment
+<!-- https://en.wikipedia.org/wiki/Employment -->
 
 - [JOB SEARCHING](../../LEVEL-3/BUSSINESS-STUDIES/EMPLOYMENT/JOB-SEARCHING.md)
 - [CAREER ADVICE](../../LEVEL-3/BUSSINESS-STUDIES/EMPLOYMENT/CAREER-ADVICE.md)

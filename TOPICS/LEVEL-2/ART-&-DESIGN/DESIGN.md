@@ -1,6 +1,6 @@
 # DESIGN
 
-https://en.wikipedia.org/wiki/Design
+<!-- https://en.wikipedia.org/wiki/Design -->
 
 - [DESIGNERS](../../LEVEL-3/ART-%26-DESIGN/DESIGN/DESIGNERS.md)
 - [FASHION DESIGN](../../LEVEL-3/ART-%26-DESIGN/DESIGN/FASHION-DESIGN.md)
