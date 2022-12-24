@@ -55,15 +55,13 @@ Where possible I create a playground repo to hold any expirements I do.
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- 
-
-STRUCTURE..
+```
 
 selector {
     property: value;
 } 
 
--->
+```
 
 - [AT-RULES](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/CSS/AT-RULES.md)
 - [SELECTORS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/CSS/SELECTORS.md)

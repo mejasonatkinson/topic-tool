@@ -48,13 +48,11 @@ Where possible I create a playground repo to hold any expirements I do.
 
 ## [Syntax](../../../../../KEYWORDS/Syntax.md)
 
-<!-- 
-
-STRUCTURE..
+```
 
 <element attribute="value"></closing-element>
 
--->
+```
 
 - [ELEMENTS](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/ELEMENTS.md)
 - [ATTRIBUTES](../../../../../LEVEL-6/SCIENCE/COMPUTER-SCIENCE/PROGRAMMING/PROGRAMMING-LANGUAGES/HTML/ATTRIBUTES.md)
