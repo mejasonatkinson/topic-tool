@@ -1,4 +1,0 @@
-# FUN & GAMES
-
-- [GAMES](../LEVEL-2/FUN-%26-GAMES/GAMES.md)
-- [FUN](../LEVEL-2/FUN-%26-GAMES/FUN.md)
