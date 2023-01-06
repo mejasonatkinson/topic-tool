@@ -1,3 +1,0 @@
-# MUSIC, HISTORY
-
-- [BANDS & SINGERS]()
