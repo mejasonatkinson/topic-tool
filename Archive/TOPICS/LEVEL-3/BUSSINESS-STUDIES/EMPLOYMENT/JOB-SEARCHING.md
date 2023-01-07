@@ -1,4 +1,0 @@
-# JOB SEARCHING
-
-<!-- - [CV]()  -->
-<!-- Resume -->
