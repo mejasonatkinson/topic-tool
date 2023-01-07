@@ -1,4 +1,0 @@
-# COMMUNICATION
-
-- [DISCORD]()
-- [SLACK]()
