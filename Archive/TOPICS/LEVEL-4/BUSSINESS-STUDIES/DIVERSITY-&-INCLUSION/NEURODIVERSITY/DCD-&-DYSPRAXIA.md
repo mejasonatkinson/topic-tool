@@ -1,7 +1,0 @@
-# DCD & DYSPRAXIA
-
-Developmental coordination disorder (DCD), also known as developmental motor coordination disorder, developmental dyspraxia or simply dyspraxia from the word 'praxis' meaning to do or act, is a neurodevelopmental disorder characterized by impaired coordination of physical movements as a result of brain messages not being accurately transmitted to the body. Deficits in fine or gross motor skills movements interfere with activities of daily living. It is often described as disorder in skill acquisition, where the learning and execution of coordinated motor skills is substantially below that expected given the individual's chronological age. Difficulties may present as clumsiness, slowness and inaccuracy of performance of motor skills (e.g., catching objects, using cutlery, handwriting, riding a bike, use of tools or participating in team sports or swimming). It is also often accompanied by difficulty with organisation and/or problems with attention, working memory and time management.
-
-A diagnosis of DCD is reached only in the absence of other neurological impairments such as cerebral palsy, multiple sclerosis, or Parkinson's disease. Onset of the condition is in early childhood and is lifelong. It is thought to affect about 5% of the population. [wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder)
-
-<!-- https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/ -->
