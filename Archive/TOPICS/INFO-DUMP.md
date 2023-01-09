@@ -1,18 +1,3 @@
-# Content Management Systems
-
-A content management system (CMS) is computer software used to manage the creation and modification of digital content. [Wikipedia](https://en.wikipedia.org/wiki/Content_management_system)
-
-# File Format
-
-<!-- https://en.wikipedia.org/wiki/File_format -->
-
-# File Name Extension
-
-<!-- https://en.wikipedia.org/wiki/Filename_extension -->
-
-# Formats
-
-<!-- https://en.wikipedia.org/wiki/Format -->
 
 # Frameworks
 
@@ -26,9 +11,7 @@ A content management system (CMS) is computer software used to manage the creati
 
 <!-- https://en.wikipedia.org/wiki/Standard -->
 
-# Syntax
 
-In computer science, the syntax of a computer language is the rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in that language. This applies both to programming languages, where the document represents source code, and to markup languages, where the document represents data. [Wikipedia](https://en.wikipedia.org/wiki/Syntax_(programming_languages))
 
 # Versions
 
