@@ -1,23 +1,3 @@
-
-# Frameworks
-
-<!-- https://en.wikipedia.org/wiki/Framework -->
-
-# Package Manager
-
-<!-- https://en.wikipedia.org/wiki/Package_manager -->
-
-# Standards
-
-<!-- https://en.wikipedia.org/wiki/Standard -->
-
-
-
-# Versions
-
-<!-- https://en.wikipedia.org/wiki/Version -->
-
-
 eat the frog
 Hard thing about hard things
 mindset by carol dweck
