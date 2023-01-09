@@ -1,6 +1,3 @@
-eat the frog
-Hard thing about hard things
-mindset by carol dweck
 eccommerce
 email
 emblem.js
