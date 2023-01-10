@@ -1,5 +1,4 @@
 eccommerce
-email
 emblem.js
 Emmet.io
 Emmets
@@ -19,7 +18,6 @@ Inspiration
 interlect
 Internet
 intranet
-woo ecommerce
 iPhone Development
 ISP
 keynote
@@ -100,5 +98,3 @@ Writing automation tests
 Zapier
 Zip
 apollo/client
-Microsoft
-Word
