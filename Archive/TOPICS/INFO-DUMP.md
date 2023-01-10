@@ -1,7 +1,4 @@
-eccommerce
 emblem.js
-Emmet.io
-Emmets
 Express
 express.js
 Expression engine
@@ -95,6 +92,5 @@ WebSockets
 wifi
 workflow
 Writing automation tests
-Zapier
 Zip
 apollo/client
