@@ -41,7 +41,6 @@ paypal workflow
 PCRE
 pdf
 PDO
-personal growth
 personal tranformation
 personal websites
 poster
@@ -65,7 +64,6 @@ reviews
 rewrite rules
 router
 sales system
-sanity.io
 Sapper
 Screencasting
 Self Help
