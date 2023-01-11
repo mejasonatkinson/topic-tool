@@ -14,7 +14,6 @@ idea/hustle
 Inspiration
 interlect
 Internet
-intranet
 iPhone Development
 ISP
 keynote
